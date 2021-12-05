@@ -106,7 +106,7 @@ Love is not an emotion. It is a policy.
   Hugh Bishop
 
 
-``````````````````````````````
+====
 
 
 Democracy is the worst form of government, except for all the others.
