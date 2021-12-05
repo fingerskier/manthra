@@ -28,6 +28,10 @@ Whether you think you're good enough or not you're right.
   re: Henry Ford
 
 
+Leadership itself is amoral; its outcome depends on the heart of the leader.
+  M.Currier
+
+
 Perfer et obdura, dolor hic tibi proderit olim
 
 
