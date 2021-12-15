@@ -85,6 +85,9 @@ Child, "Does God really watch me?"
 Pastor, "He loves you so much He can't take His eyes off of you."
 
 
+Do what you can with what you have where you are.
+
+
 God puts maggots in our lives to clean the wounds.
 
 
