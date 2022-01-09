@@ -1,5 +1,8 @@
 # Manthra
 
+You can easily judge the character of a man by how he treats those who can do nothing for him.
+  Malcolm S. Forbes
+
 
 He who knows not and knows not that he knows not is a fool; shun him.
 He who knows not and knows that he knows not is simple; teach him.
