@@ -4,6 +4,9 @@ You can easily judge the character of a man by how he treats those who can do no
   Malcolm S. Forbes
 
 
+“It is said that when Wesley and Whitefield were at odds on theology and ecclesiastical matters, one of Wesley’s adherents asked him, “Do you think we shall see Mr. Whitefield in heaven?” “No,” he answered, “I do not. I think he will be so near the Throne, and you and I so far away, that we shall not get within sight of him.”
+  G. B. Wilcox
+
 He who knows not and knows not that he knows not is a fool; shun him.
 He who knows not and knows that he knows not is simple; teach him.
 He who knows and knows not that he knows is asleep; wake him.
