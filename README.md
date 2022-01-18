@@ -12,6 +12,10 @@ He who knows not and knows that he knows not is simple; teach him.
 He who knows and knows not that he knows is asleep; wake him.
 He who knows and knows that he knows is wise; follow him.
 	Arabic Proverb
+	
+	
+The day soldiers stop bringing you their problems is the day you have stopped leading them.
+	Colin Powell
 
 
 If they come for the innocent without stepping over your dead body, cursed be your religion and your life.
