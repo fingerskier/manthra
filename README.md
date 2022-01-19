@@ -1,73 +1,78 @@
 # Manthra
 
-The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.
+The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.  
 	George Bernard Shaw
 
-You can easily judge the character of a man by how he treats those who can do nothing for him.
-  Malcolm S. Forbes
+
+You can easily judge the character of a man by how he treats those who can do nothing for him.  
+	Malcolm S. Forbes
 
 
-“It is said that when Wesley and Whitefield were at odds on theology and ecclesiastical matters, one of Wesley’s adherents asked him, “Do you think we shall see Mr. Whitefield in heaven?” “No,” he answered, “I do not. I think he will be so near the Throne, and you and I so far away, that we shall not get within sight of him.”
-  G. B. Wilcox
+Where the spirit does not work with the hand there is no art.  
+	Leonardo da Vinci  
 
-He who knows not and knows not that he knows not is a fool; shun him.
-He who knows not and knows that he knows not is simple; teach him.
-He who knows and knows not that he knows is asleep; wake him.
-He who knows and knows that he knows is wise; follow him.
+
+“It is said that when Wesley and Whitefield were at odds on theology and ecclesiastical matters, one of Wesley’s adherents asked him, “Do you think we shall see Mr. Whitefield in heaven?” “No,” he answered, “I do not. I think he will be so near the Throne, and you and I so far away, that we shall not get within sight of him.”  
+	G. B. Wilcox
+
+He who knows not and knows not that he knows not is a fool; shun him.  
+He who knows not and knows that he knows not is simple; teach him.  
+He who knows and knows not that he knows is asleep; wake him.  
+He who knows and knows that he knows is wise; follow him.  
 	Arabic Proverb
 	
 	
-The day soldiers stop bringing you their problems is the day you have stopped leading them.
+The day soldiers stop bringing you their problems is the day you have stopped leading them.  
 	Colin Powell
 
 
-If they come for the innocent without stepping over your dead body, cursed be your religion and your life.
+If they come for the innocent without stepping over your dead body, cursed be your religion and your life.  
 	Dorothy Day
 
 
-No Dad, no life
-Know Dad, know life
+No Dad, no life  
+Know Dad, know life  
 
 
-Give a man a fish and feed him for a day; teach a man to fish and feed him for a lifetime; teach him to teach others to fish - and you feed a nation.
+Give a man a fish and feed him for a day; teach a man to fish and feed him for a lifetime; teach him to teach others to fish - and you feed a nation.  
 
 
-Honor is the amount of personal risk one undertakes to manifest their beliefs.
+Honor is the amount of personal risk one undertakes to manifest their beliefs.  
 
 
-Knowledge is a rumor until you have it in your body.
+Knowledge is a rumor until you have it in your body.  
 
 
-If you want something you've never had, you have to do something you've never done
+If you want something you've never had, you have to do something you've never done.  
 
 
-Good enough isn't.
+Good enough isn't.  
 
 
-Whether you think you're good enough or not you're right.
-  re: Henry Ford
+Whether you think you're good enough or not you're right.  
+	re: Henry Ford
 
 
-Leadership itself is amoral; its outcome depends on the heart of the leader.
-  M.Currier
+Leadership itself is amoral; its outcome depends on the heart of the leader.  
+	M.Currier
 
 
-Perfer et obdura, dolor hic tibi proderit olim
+Perfer et obdura, dolor hic tibi proderit olim  
 
 
-A sample size of you is not a population.
-  Matthew Currier
+A sample size of you is not a population.  
+	Matthew Currier
 
 
-God doesn't worry when we struggle with sin; He worries when we stop.
-  Chris Murphy
+God doesn't worry when we struggle with sin; He worries when we stop.  
+	Chris Murphy
 
 
-The stock market has predicted 7 of the last 2 recessions
+The stock market has predicted 7 of the last 2 recessions.  
 	reprise: George Soros
 
 
-The most improper job of any man, even saints (who at any rate were at least unwilling to take it on), is bossing other men.  Not one in a million is fit for it, and least of all those who seek the opportunity.
+The most improper job of any man, even saints (who at any rate were at least unwilling to take it on), is bossing other men.  Not one in a million is fit for it, and least of all those who seek the opportunity.  
 	J.R.R. Tolkien
 
 
@@ -302,44 +307,44 @@ Si vis pacem, para bellum.
 	Plato via Publius Flavius
 
 
-Those people who will not be governed by God will be ruled by tyrants.
+Those people who will not be governed by God will be ruled by tyrants.  
 	William Penn
 
 
-Somewhere a True Believer is training to kill you.
-He is training with minimal food or water, in austere conditions, day and night.
-The only thing clean on him is his weapon.
-He doesn't worry about what workout to do - his ruck weighs what it weighs, his run ends when the enemy stops chasing him.
-This True Believer is not concerned about 'how hard it is,' he either wins or dies.
-He doesn't go home at 17:00, he is home.
-He knows only The Cause.
+Somewhere a True Believer is training to kill you.  
+He is training with minimal food or water, in austere conditions, day and night.  
+The only thing clean on him is his weapon.  
+He doesn't worry about what workout to do - his ruck weighs what it weighs, his run ends when the enemy stops chasing him.  
+This True Believer is not concerned about 'how hard it is,' he either wins or dies.  
+He doesn't go home at 17:00, he is home.  
+He knows only The Cause.  
 	Doc
 
 
-It is the soldier, not the reporter, who has given us Freedom of Press.
-It is the soldier, not the poet, who has given us Freedom of Speech.
-It is the soldier, not the campus organizer, who has given us the Freedom to Demonstrate.
-It is the soldier, who salutes the flag, who serves beneath the flag, and whose coffin is draped by the flag that allows the protester to burn the flag.
-	Father Dennis O'Brien; Chaplain, USN
+It is the soldier, not the reporter, who has given us Freedom of Press.  
+It is the soldier, not the poet, who has given us Freedom of Speech.  
+It is the soldier, not the campus organizer, who has given us the Freedom to Demonstrate.  
+It is the soldier, who salutes the flag, who serves beneath the flag, and whose coffin is draped by the flag that allows the protester to burn the flag.  
+	Father Dennis O'Brien; Chaplain, USN  
 
 
-In the beginning of a change, the patriot is a scarce man, brave, hated, and scorned.
-When his cause succeeds however, the timid join him, for then it costs nothing to be a patriot.
+In the beginning of a change, the patriot is a scarce man, brave, hated, and scorned.  
+When his cause succeeds however, the timid join him, for then it costs nothing to be a patriot.  
 	Mark Twain
 
 
-A superior operator uses his superior judgement to keep himself out of situations that would require his superior skills.
+A superior operator uses his superior judgement to keep himself out of situations that would require his superior skills.  
 
 
-A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly.  Specialization is for insects.
+A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly.  Specialization is for insects.  
 	Robert A. Heinlein
 
 
-When the government's boot is on your throat, whether it is a left boot or a right boot is of no consequence.
+When the government's boot is on your throat, whether it is a left boot or a right boot is of no consequence.  
 	Gary Lloyd
 
 
-The difference between a warrior and an ordinary man is a warrior sees everything as a challenge and an ordinary man sees it as a blessing or curse.
+The difference between a warrior and an ordinary man is a warrior sees everything as a challenge and an ordinary man sees it as a blessing or curse.  
 	Don Juan
 
 
@@ -374,33 +379,28 @@ Food for the body is not enough.  There must be food for the soul.
 	Dorothy Day
 
 
-Among the many misdeeds of the British rule in India, history will look upon the Act depriving a whole nation of arms, as the blackest.
-	Mahatma Gandhi
+Among the many misdeeds of the British rule in India, history will look upon the Act depriving a whole nation of arms, as the blackest.  
+	Mahatma Gandhi  
 
 
-Even if you are a minority of one, the truth is the truth.
-	Mahatma Gandhi
+Even if you are a minority of one, the truth is the truth.  
+	Mahatma Gandhi   
 
 
-The weak can never forgive.  Forgiveness is an attribute of the strong.
-	Mahatma Gandhi
+The weak can never forgive.  Forgiveness is an attribute of the strong.  
+	Mahatma Gandhi  
 
 
-The United States has sent many of its fine young men and women into great peril to fight for freedom beyond our borders.
-The only amount of land we have ever asked for is enough to bury those that did not return.
-	Colin Powell
+The United States has sent many of its fine young men and women into great peril to fight for freedom beyond our borders.  The only amount of land we have ever asked for is enough to bury those that did not return.  
+	Colin Powell  
 
 
-Teach your children the art of war, so that they may teach their children math and science, and their children can study art and literature.
-	John Adams, 2nd President of the United States
+Teach your children the art of war, so that they may teach their children math and science, and their children can study art and literature.  
+	John Adams, 2nd President of the United States  
 
 
-Those who sacrifice essential liberty for temporary safety are not deserving of either liberty or safety.
-	Ben Franklin
-
-
-Where the spirit does not work with the hand there is no art.
-	Leonardo da Vinci
+Those who sacrifice essential liberty for temporary safety are not deserving of either liberty or safety.  
+	Benjamin Franklin  
 
 
 Nothing in Scripture depicts the Christian life as divided into sacred and secular parts.
@@ -487,249 +487,249 @@ A man with a toothache cannot be in love.
 	Shakespeare
 
 
-Ever tried.  Ever failed.  No matter.  Try again.  Fail again.  Fail better.
-  Samuel Beckett
+Ever tried.  Ever failed.  No matter.  Try again.  Fail again.  Fail better.  
+  Samuel Beckett  
 
 
-After each of our wars, there has always been a great hue and cry to the effect that...by removing the fire department, we will remove fires.
-	George S. Patton
+After each of our wars, there has always been a great hue and cry to the effect that...by removing the fire department, we will remove fires.  
+	George S. Patton  
 
 
-I do not say that there will be no more wars; I devoutly hope that there will not, but I do say that the chances of avoiding future wars will be greatly enhanced if we are ready.
-	George S. Patton
+I do not say that there will be no more wars; I devoutly hope that there will not, but I do say that the chances of avoiding future wars will be greatly enhanced if we are ready.  
+	George S. Patton  
 
 
-A veteran - whether active duty, retired, national guard, or reserve - is someone who, at one point in his or her life, wrote a blank check made payable to The 'United States of America', for an amount of 'up to and including his life.'
-	Author Unknown
+A veteran - whether active duty, retired, national guard, or reserve - is someone who, at one point in his or her life, wrote a blank check made payable to The 'United States of America', for an amount of 'up to and including his life.'  
+	Author Unknown  
 
 
-It is incumbent on every generation to pay its own debts as it goes.  A principle which if acted on would save one-half the wars of the world.
-	Thomas Jefferson
+It is incumbent on every generation to pay its own debts as it goes.  A principle which if acted on would save one-half the wars of the world.  
+	Thomas Jefferson  
 
 
-I predict future happiness for Americans if they can prevent the government from wasting the labors of the people under the pretense of taking care of them.
-	Thomas Jefferson
+I predict future happiness for Americans if they can prevent the government from wasting the labors of the people under the pretense of taking care of them.  
+	Thomas Jefferson  
 
 
-My reading of history convinces me that most bad government results from too much government.
-	Thomas Jefferson
+My reading of history convinces me that most bad government results from too much government.  
+	Thomas Jefferson  
 
 
-I would never invade the United States.  There would be a gun behind every blade of grass.
-	Isoroku Yamamoto
+I would never invade the United States.  There would be a gun behind every blade of grass.  
+	Isoroku Yamamoto  
 
 
-Sell not virtue to purchase wealth, nor Liberty to purchase power.
-	 Benjamin Franklin
+Sell not virtue to purchase wealth, nor Liberty to purchase power.  
+	 Benjamin Franklin  
 
 
-If guns kill people, then:
-	pencils miss spel words,
-	cars make people drive drunk,
-	and spoons made Rosie O'Donnell fat.
-GOOA
+If guns kill people, then:  
+	pencils miss spel words,  
+	cars make people drive drunk,  
+	and spoons made Rosie O'Donnell fat.  
+	GOOA  
 
 
-My tone is a direct reflection of your attitude.
+My tone is a direct reflection of your attitude.  
 
 
-An armed man is a citizen.  An unarmed man is a subject.
+An armed man is a citizen.  An unarmed man is a subject.  
 
 
-A gun in the hand is better than a cop on the phone.
+A gun in the hand is better than a cop on the phone.  
 
 
-Gun control is not about guns; it's about control.
+Gun control is not about guns; it's about control.  
 
 
-If guns cause crime, then cameras cause pornography.
+If guns cause crime, then cameras cause pornography.  
 
 
-Free men do not have to ask permission to bear arms.
+Free men do not have to ask permission to bear arms.  
 
 
-If you don't know your rights you don't have any.
+If you don't know your rights you don't have any.  
 
 
-Guns only have two enemies: rust and liberals.
+Guns only have two enemies: rust and liberals.  
 
 
-Know guns, know peace and safety.  No guns, no peace nor safety.
+Know guns, know peace and safety.  No guns, no peace nor safety.  
 
 
-Assault is a type of behavior, not a type of hardware.
+Assault is a type of behavior, not a type of hardware.  
 
 
-Criminals love gun control it makes their jobs easier and safer.
+Criminals love gun control, it makes their jobs easier and safer.  
 
 
-The American Revolution wasn't about tea and taxes.  It was about taking guns!
+The American Revolution wasn't about tea and taxes.  It was about taking guns!  
 
 
-The pen is mightier than the sword, unless you are in a swordfight!
+The pen is mightier than the sword, unless you are in a swordfight!  
 
 
-Those who live by the sword have a fighting chance.
+Those who live by the sword have a fighting chance.  
 
 
-My gun?  I'd rather have it and not need it than need it and not have it.
+My gun?  I'd rather have it and not need it than need it and not have it.  
 
 
-Firearm safety is a matter for education, not legislation.
+Firearm safety is a matter for education, not legislation.  
 
 
-An armed society is a polite society.
+An armed society is a polite society.  
 
 
-How can you praise freedom, and condemn that which gains and preserves it?
+How can you praise freedom, and condemn that which gains and preserves it?  
 
 
-My wife and my gun: 'til death do us part.
+My wife and my gun: 'til death do us part.  
 
 
-When they come for your guns, give them the ammo first!
+When they come for your guns, give them the ammo first!  
 
 
-When seconds count, the cops are just minutes away...
+When seconds count, the cops are just minutes away...  
 
 
-Writing is not necessarily something to be ashamed of, but do it in private and wash your hands when you're done.
-	Robert Heinlein
+Writing is not necessarily something to be ashamed of, but do it in private and wash your hands when you're done.  
+	Robert Heinlein  
 
 
-A good speech should be like a woman's skirt; long enough to cover the subject and short enough to create interest.
-	Winston Churchill
+A good speech should be like a woman's skirt; long enough to cover the subject and short enough to create interest.  
+	Winston Churchill  
 
 
-I must not fear.  Fear is the mind-killer.  Fear is the little-death that brings total obliteration.  I will face my fear.  I will permit it to pass over me and through me.  And when it has gone past I will turn the inner eye to see its path.  Where the fear has gone there will be nothing.  Only I will remain.
-	Bene Gesserit 'Litany Against Fear,'
+I must not fear.  Fear is the mind-killer.  Fear is the little-death that brings total obliteration.  I will face my fear.  I will permit it to pass over me and through me.  And when it has gone past I will turn the inner eye to see its path.  Where the fear has gone there will be nothing.  Only I will remain.  
+	Bene Gesserit 'Litany Against Fear,'  
 
 
-Night gathers, and now my watch begins.  It shall not end until my death.  I shall take no wife, hold no lands, father no children.  I shall wear no crowns and win no glory.  I shall live and die at my post.  I am the sword in the darkness.  I am the watcher on the walls.  I am the fire that burns against the cold, the light that brings the dawn, the horn that wakes the sleepers, the shield that guards the realms of men.  I pledge my life and honor to the Night's Watch, for this night and all the nights to come.
-	George R.R. Martin, Game of Thrones, oath of the night's watch
+Night gathers, and now my watch begins.  It shall not end until my death.  I shall take no wife, hold no lands, father no children.  I shall wear no crowns and win no glory.  I shall live and die at my post.  I am the sword in the darkness.  I am the watcher on the walls.  I am the fire that burns against the cold, the light that brings the dawn, the horn that wakes the sleepers, the shield that guards the realms of men.  I pledge my life and honor to the Night's Watch, for this night and all the nights to come.  
+	George R.R. Martin, oath of the night's watch 
 
 
-The crystal is the heart of the blade.
-The heart is the crystal of the Jedi.
-The Jedi is the crystal of the Force.
-The Force is the blade of the heart.
+The crystal is the heart of the blade.  
+The heart is the crystal of the Jedi.  
+The Jedi is the crystal of the Force.  
+The Force is the blade of the heart.  
 
 
-Absorb what is useful, discard what is useless, and add what is uniquely your own.
-	Bruce Lee
+Absorb what is useful, discard what is useless, and add what is uniquely your own.  
+	Bruce Lee  
 
 
-ὦ ξεῖν', ἀγγέλλειν Λακεδαιμονίοις ὅτι τῇδε κείμεθα τοῖς κείνων ῥήμασι πειθόμενοι.
-	the Cenotaph of Thermopylae
+ὦ ξεῖν', ἀγγέλλειν Λακεδαιμονίοις ὅτι τῇδε κείμεθα τοῖς κείνων ῥήμασι πειθόμενοι.  
+	the Cenotaph of Thermopylae  
 
 
-Programs must be written for people to read, and only incidentally for machines to execute.
-	H.Abelson & G.Sussman
+Programs must be written for people to read, and only incidentally for machines to execute.  
+	H.Abelson & G.Sussman  
 
 
-A common mistake people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.
-	D.Adams
+A common mistake people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.  
+	D.Adams  
 
 
-Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
-	H. Aiken
+Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.  
+	H. Aiken  
 
 
-Good teaching is more a giving of the right questions than a giving of the right answers.
-	J. Albers
+Good teaching is more a giving of the right questions than a giving of the right answers.  
+	J. Albers  
 
 
-The absence of floods is drought, the impossibility of weeds is famine.
-	The Monk, Diablo 3
+The absence of floods is drought, the impossibility of weeds is famine.  
+	The Monk, Diablo 3  
 
 
-Scientists, like many others, are touched with awe at the order and complexity of nature.  Indeed, many scientists are deeply religious.  But science and religion occupy two separate realms of human experience.  Demanding that they be combined detracts from the glory of each.
-	Bruce Alberts
+Scientists, like many others, are touched with awe at the order and complexity of nature.  Indeed, many scientists are deeply religious.  But science and religion occupy two separate realms of human experience.  Demanding that they be combined detracts from the glory of each.  
+	Bruce Alberts  
 
 
-The most exciting phrase to hear in science - the one that heralds new discoveries - is not "Eureka!" but "That's funny...".
-	Isaac Asimov
+The most exciting phrase to hear in science - the one that heralds new discoveries - is not "Eureka!" but "That's funny...".  
+	Isaac Asimov  
 
 
-A prudent question is one-half of wisdom.
-	Francis Bacon
+A prudent question is one-half of wisdom.  
+	Francis Bacon  
 
 
-The sole justification of teaching, of the school itself, is that the student comes out of it able to do something he could not do before.  I say do and not know, because knowledge that doesn't lead to doing something new or doing somethingw better is not knowledge at all.
-	J. Barzun
+The sole justification of teaching, of the school itself, is that the student comes out of it able to do something he could not do before.  I say do and not know, because knowledge that doesn't lead to doing something new or doing somethingw better is not knowledge at all.  
+	J. Barzun  
 
 
-The key to performance is elegance, not batallions of special cases.
-	J. Bently & D. McIlroy
+The key to performance is elegance, not batallions of special cases.  
+	J. Bently & D. McIlroy  
 
 
-Coming together is a beginning; keeping together is progress; working together is success.
-	Henry Ford
+Coming together is a beginning; keeping together is progress; working together is success.  
+	Henry Ford  
 
 
-If there is any one secret of success, it lies in the ability to get the other person’s point of view and see things from that person’s angle as well as from your own.
-	Henry Ford
+If there is any one secret of success, it lies in the ability to get the other person’s point of view and see things from that person’s angle as well as from your own.  
+	Henry Ford  
 
 
-Walking on water and developing software from a specification are easy if both are frozen.
-	E. Berard
+Walking on water and developing software from a specification are easy if both are frozen.  
+	E. Berard  
 
 
-Opposites are not contradictory but complementary.
-	Neils Bohr
+Opposites are not contradictory but complementary.  
+	Neils Bohr  
 
 
-About the only real power a CEO or Chairman has is giving motivational speeches, approving budgets, and moving names around on an org chart.
-	Michael Hayden
+About the only real power a CEO or Chairman has is giving motivational speeches, approving budgets, and moving names around on an org chart.  
+	Michael Hayden  
 
 
-All programmers are playwrights and all computers are lousy actors.
+All programmers are playwrights and all computers are lousy actors.  
 
 
-Any programming problem can be solved by adding a level of indirection. (also see "Any performance problem..." by M. Haertel).
+Any programming problem can be solved by adding a level of indirection. (also see "Any performance problem..." by M. Haertel).  
 
 
-Experience is a poor teacher: it gives its tests before it teaches its lessons.
+Experience is a poor teacher: it gives its tests before it teaches its lessons.  
 
 
-Given 8 hours to chop down a tree, spend 6 hours sharpening the axe.
+Given 8 hours to chop down a tree, spend 6 hours sharpening the axe.  
 
 
-In theory, there is no difference between theory and practice, but not in practice.
-	Yogi Berra
+In theory, there is no difference between theory and practice, but not in practice.  
+	Yogi Berra  
 
 
-If it doesn't fit, force it... If it breaks, it needed replacing anyway.
-	Unk
+If it doesn't fit, force it... If it breaks, it needed replacing anyway.  
+	Unk  
 
 
-Measure twice, cut once.
+Measure twice, cut once.  
 
 
-One boy is half a man, two boys is a half a boy, and three boys ain't no help at all.
-	Lucius Currier
+One boy is half a man, two boys is a half a boy, and three boys ain't no help at all.  
+	Lucius Currier  
 
 
-One day a mother comes home from work and asks her son, "What did you do today?" The son replied, "I taught our dog how to play the piano."  The mother, incredulous, asked, "Our dog can play the piano?", to which the son laughed and replied, "Of course not mom.  I said that I taught him; I didn't say that he learned how."
+One day a mother comes home from work and asks her son, "What did you do today?" The son replied, "I taught our dog how to play the piano."  The mother, incredulous, asked, "Our dog can play the piano?", to which the son laughed and replied, "Of course not mom.  I said that I taught him; I didn't say that he learned how."  
 
 
-The person who knows HOW will always have a job.  The person who knows WHY will always be his/her boss.
+The person who knows HOW will always have a job.  The person who knows WHY will always be his/her boss.  
 
 
-There are 10 different kinds of people in the world: those who know binary and those who don't.
+There are 10 different kinds of people in the world: those who know binary and those who don't.  
 
 
-Time is an excellent teacher; but eventually it kills all its students.
+Time is an excellent teacher; but eventually it kills all its students.  
 
 
-When a programming language is created that allows programmers to program in simple English, it will be discovered that programmers cannot speak English.
+When a programming language is created that allows programmers to program in simple English, it will be discovered that programmers cannot speak English.  
 
 
-Perfectly written code is self-documenting.  Which is why all code should contain comments.
-  M.Currier
+Perfectly written code is self-documenting.  Which is why all code should contain comments.  
+  M.Currier  
 
 
-He who asks is a fool for five minutes; he who does not ask remains a fool forever.
+He who asks is a fool for five minutes; he who does not ask remains a fool forever.  
 
 
-Life is painted on too big a canvas.
+Life is painted on too big a canvas.  
