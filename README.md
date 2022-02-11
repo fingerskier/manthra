@@ -532,7 +532,7 @@ Sell not virtue to purchase wealth, nor Liberty to purchase power.
 If guns kill people, then:  
 	pencils miss spel words,  
 	cars make people drive drunk,  
-	and spoons made Rosie O'Donnell fat.  
+	and spoons make people fat.  
 	GOOA  
 
 
