@@ -78,6 +78,10 @@ The stock market has predicted 7 of the last 2 recessions.
 	reprise: George Soros
 
 
+Anyone can make a mistake, but the fool perseveres in error.
+	Cicero
+
+
 The most improper job of any man, even saints (who at any rate were at least unwilling to take it on), is bossing other men.  Not one in a million is fit for it, and least of all those who seek the opportunity.  
 	J.R.R. Tolkien
 
