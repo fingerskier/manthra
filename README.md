@@ -1,5 +1,9 @@
 # Manthra
 
+
+Reading maketh a full man; speaking a ready man; writing, an exact man. (Francis Bacon)
+
+
 "Do the difficult things while they are easy
 and do the great things while they are small.
 A journey of a thousand miles must begin with a single step."
