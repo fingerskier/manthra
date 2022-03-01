@@ -12,11 +12,11 @@ A journey of a thousand miles must begin with a single step."
 
 When boiled  
 ...a carrot gets softer  
-...an egg gets harder
-...and coffee changes the water itself
+...an egg gets harder  
+...and coffee changes the water itself  
 
 
-The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.  
+The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself.  Therefore, all progress depends on the unreasonable man.  
 	George Bernard Shaw
 
 
