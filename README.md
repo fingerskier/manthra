@@ -1,6 +1,10 @@
 # Manthra
 
 
+Never say never because limits, like fears, are most often an illusion.
+  Michael Jordan
+
+
 Reading maketh a full man; speaking a ready man; writing, an exact man. (Francis Bacon)
 
 
