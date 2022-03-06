@@ -1,6 +1,9 @@
 # Manthra
 
 
+fortis fortuna adiuvat
+
+
 Never say never because limits, like fears, are most often an illusion.
   Michael Jordan
 
@@ -20,7 +23,8 @@ When boiled
 ...and coffee changes the water itself  
 
 
-The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself.  Therefore, all progress depends on the unreasonable man.  
+The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself.  
+Therefore, all progress depends on the unreasonable man.  
 	George Bernard Shaw
 
 
