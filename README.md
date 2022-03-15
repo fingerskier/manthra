@@ -1,6 +1,9 @@
 # Manthra
 
 
+It's better to be a warrior in a garden than a gardener in a war.
+
+
 fortis fortuna adiuvat
 
 
