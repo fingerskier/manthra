@@ -1,6 +1,14 @@
 # Manthra
 
 
+Until you understand a writer's ignorance, presume yourself ignorant of his understanding.  
+  Samuel Taylor Coleridge
+
+
+If you presume to love something, you must love the process of it much more than you love the finished product.  
+  John Irving
+
+
 If you can walk with the crowd and keep your virtue, or walk with Kings-nor lose the common touch;  
 If neither foes nor loving friends can hurt you;  
 If all men count with you, but none too much;  
