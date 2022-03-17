@@ -1,6 +1,14 @@
 # Manthra
 
 
+If you can walk with the crowd and keep your virtue, or walk with Kings-nor lose the common touch;  
+If neither foes nor loving friends can hurt you;  
+If all men count with you, but none too much;  
+If you can fill the unforgiving minute with 60 seconds worth of distance run-  
+Yours is the earth and everything that's in it, And-which is more-you'll be a man my son.  
+  Rudyard Kipling  
+
+
 It's better to be a warrior in a garden than a gardener in a war.
 
 
