@@ -1,6 +1,14 @@
 # Manthra
 
 
+We have no more right to consume happiness without producing it than to consume wealth without producing it.  
+  George Bernard Shaw
+  
+  
+Life contains but two tragedies. One is not to get your heart’s desire; the other is to get it.  
+  George Bernard Shaw
+
+
 Until you understand a writer's ignorance, presume yourself ignorant of his understanding.  
   Samuel Taylor Coleridge
 
