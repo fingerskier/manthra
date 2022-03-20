@@ -1,6 +1,10 @@
 # Manthra
 
 
+To know that we know what we know, and that we do not know what we do not know, that is true knowledge.  
+  Confuscius  
+
+
 We have no more right to consume happiness without producing it than to consume wealth without producing it.  
   George Bernard Shaw
   
