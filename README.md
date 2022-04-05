@@ -1,6 +1,12 @@
 # Manthra
 
 
+Libertarians fight for freedom,
+Liberals fight for the helpless,
+Conservatives fight for civilization;
+All three are entirely necessary.
+
+
 To know that we know what we know, and that we do not know what we do not know, that is true knowledge.  
   Confuscius  
 
