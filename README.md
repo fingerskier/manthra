@@ -8,7 +8,7 @@ All three are entirely necessary.
   Michael Shellenberger  
 
 
-If you don't have friend who are not like you then you're in trouble.  
+If you don't have friends who are not like you then you're in trouble.  
   M. Currier
 
 
