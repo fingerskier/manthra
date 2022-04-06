@@ -1,10 +1,15 @@
 # Manthra
 
 
-Libertarians fight for freedom,
-Liberals fight for the helpless,
-Conservatives fight for civilization;
-All three are entirely necessary.
+Libertarians fight for freedom,  
+Liberals fight for the helpless,  
+Conservatives fight for civilization;  
+All three are entirely necessary.  
+  Michael Shellenberger  
+
+
+If you don't have friend who are not like you then you're in trouble.  
+  M. Currier
 
 
 To know that we know what we know, and that we do not know what we do not know, that is true knowledge.  
