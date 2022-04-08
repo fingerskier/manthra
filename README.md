@@ -1,6 +1,11 @@
 # Manthra
 
 
+It is easier to find men who will volunteer to die,  
+than to find those who are willing to endure pain with patience.  
+  Caesar Augustus  
+
+
 Libertarians fight for freedom,  
 Liberals fight for the helpless,  
 Conservatives fight for civilization;  
