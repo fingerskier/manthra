@@ -1,6 +1,9 @@
 # Manthra
 
 
+Never underestimate the man who overestimates himself.  
+
+
 It is easier to find men who will volunteer to die,  
 than to find those who are willing to endure pain with patience.  
   Caesar Augustus  
