@@ -1,6 +1,12 @@
 # Manthra
 
 
+Our talents are living things.
+We give birth to them, nourish them,
+till they grow and become immortal.
+  Michael Bassey Johnson  
+
+
 Never underestimate the man who overestimates himself.  
 
 
