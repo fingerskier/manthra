@@ -1,6 +1,19 @@
 # Manthra
 
 
+A leader is one of whom it will be said, he was one of them but demonstrably in charge.  
+  Stanley McCrystal. 
+
+
+I can afford nouns, but adjectives are expensive.  
+  Jimmy Youngblood
+
+
+Being powerful is like being a lady.  
+If you have to tell people you are, you aren't.  
+  Margaret Thatcher  
+
+
 Our talents are living things.
 We give birth to them, nourish them,
 till they grow and become immortal.
