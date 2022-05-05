@@ -1,6 +1,16 @@
 # Manthra
 
 
+When you feel...
+...angry, go exercise
+...envy, meditate
+...anxiety, give thanks
+...irritation, ruminate
+...tired, go-to bed
+...uninspired, take a shower
+...doubtful, write
+
+
 A leader is one of whom it will be said, he was one of them but demonstrably in charge.  
   Stanley McCrystal. 
 
