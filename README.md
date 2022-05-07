@@ -1,6 +1,12 @@
 # Manthra
 
 
+If God wants to teach you peace,  
+he’ll put you in chaos.  
+If God wants you to learn love,  
+he’ll put you around an unlovely person.
+  Rick Warren   
+
 When you feel...
 ...angry, go exercise
 ...envy, meditate
