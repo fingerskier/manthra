@@ -1,6 +1,11 @@
 # Manthra
 
 
+What you are shouts so loudly in my ears
+I cannot hear what you say.
+  Emerson  
+
+
 If God wants to teach you peace,  
 he’ll put you in chaos.  
 If God wants you to learn love,  
