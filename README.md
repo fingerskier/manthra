@@ -1,6 +1,12 @@
 # Manthra
 
 
+We simply cannot maintain wholeness 
+if we talk and walk differently 
+than we see.  
+  Stephen Covey
+
+
 What you are shouts so loudly in my ears
 I cannot hear what you say.
   Emerson  
