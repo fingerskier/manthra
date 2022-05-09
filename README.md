@@ -1,39 +1,44 @@
 # Manthra
 
 
-We simply cannot maintain wholeness 
-if we talk and walk differently 
+All science is either physics or stamp collecting.  
+  Ernest Rutherford  
+
+
+We simply cannot maintain wholeness
+if we talk and walk differently
 than we see.  
-  Stephen Covey
+  Stephen Covey  
 
 
 What you are shouts so loudly in my ears
-I cannot hear what you say.
+I cannot hear what you say.  
   Emerson  
 
 
-If God wants to teach you peace,  
+If God wants to teach you peace,
 he’ll put you in chaos.  
-If God wants you to learn love,  
-he’ll put you around an unlovely person.
-  Rick Warren   
+If God wants you to learn love,
+he’ll put you around an unlovely person.  
+  Rick Warren  
 
-When you feel...
-...angry, go exercise
-...envy, meditate
-...anxiety, give thanks
-...irritation, ruminate
-...tired, go-to bed
-...uninspired, take a shower
-...doubtful, write
+
+When you feel...  
+...angry, go exercise  
+...envy, meditate  
+...anxiety, give thanks  
+...irritation, ruminate  
+...tired, go-to bed  
+...uninspired, take a shower  
+...doubtful, write  
 
 
 A leader is one of whom it will be said, he was one of them but demonstrably in charge.  
-  Stanley McCrystal. 
-
+  Stanley McCrystal.  
+  
 
 I can afford nouns, but adjectives are expensive.  
-  Jimmy Youngblood
+  Jimmy Youngblood  
 
 
 Being powerful is like being a lady.  
