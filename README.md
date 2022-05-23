@@ -5,7 +5,7 @@ Don’t wear yourself out wrestling with a pig.
 You just get muddy and the pig likes it.  
   
   
-All science is either physics or stamp collecting.  
+  All science is either physics or stamp collecting.  
   Ernest Rutherford  
 
 
