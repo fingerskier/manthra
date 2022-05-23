@@ -1,6 +1,10 @@
 # Manthra
 
 
+Don’t wear yourself out wrestling with a pig.
+You just get muddy and the pig likes it.  
+  
+  
 All science is either physics or stamp collecting.  
   Ernest Rutherford  
 
@@ -11,7 +15,7 @@ than we see.
   Stephen Covey  
 
 
-What you are shouts so loudly in my ears
+What you are shouting so loudly in my ears
 I cannot hear what you say.  
   Emerson  
 
@@ -21,8 +25,8 @@ he’ll put you in chaos.
 If God wants you to learn love,
 he’ll put you around an unlovely person.  
   Rick Warren  
-
-
+  
+  
 When you feel...  
 ...angry, go exercise  
 ...envy, meditate  
@@ -31,126 +35,144 @@ When you feel...
 ...tired, go-to bed  
 ...uninspired, take a shower  
 ...doubtful, write  
-
-
+  
+  
 A leader is one of whom it will be said, he was one of them but demonstrably in charge.  
   Stanley McCrystal.  
   
-
+  
 I can afford nouns, but adjectives are expensive.  
   Jimmy Youngblood  
-
-
+  
+  
 Being powerful is like being a lady.  
 If you have to tell people you are, you aren't.  
   Margaret Thatcher  
-
-
+  
+  
 Our talents are living things.
 We give birth to them, nourish them,
 till they grow and become immortal.
   Michael Bassey Johnson  
-
-
+  
+  
 Never underestimate the man who overestimates himself.  
-
-
+  
+  
 It is easier to find men who will volunteer to die,  
 than to find those who are willing to endure pain with patience.  
   Caesar Augustus  
-
-
+  
+  
 Libertarians fight for freedom,  
 Liberals fight for the helpless,  
 Conservatives fight for civilization;  
 All three are entirely necessary.  
   Michael Shellenberger  
-
-
+  
+  
 If you don't have friends who are not like you then you're in trouble.  
-  M. Currier
-
-
+  M. Currier  
+  
+  
 To know that we know what we know, and that we do not know what we do not know, that is true knowledge.  
   Confuscius  
-
-
+  
+  
 We have no more right to consume happiness without producing it than to consume wealth without producing it.  
-  George Bernard Shaw
+  George Bernard Shaw  
   
   
-Life contains but two tragedies. One is not to get your heart’s desire; the other is to get it.  
-  George Bernard Shaw
-
-
-Until you understand a writer's ignorance, presume yourself ignorant of his understanding.  
-  Samuel Taylor Coleridge
-
-
-If you presume to love something, you must love the process of it much more than you love the finished product.  
-  John Irving
-
-
-If you can walk with the crowd and keep your virtue, or walk with Kings-nor lose the common touch;  
+Life contains but two tragedies.
+One is not to get your heart’s desire;
+the other is to get it.  
+  George Bernard Shaw  
+  
+  
+Until you understand a writer's ignorance,
+presume yourself ignorant of his understanding.  
+  Samuel Taylor Coleridge  
+  
+  
+If you presume to love something,
+you must love the process of it much more than you love the finished product.  
+  John Irving  
+  
+  
+If you can walk with the crowd and keep your virtue,
+or walk with Kings- nor lose the common touch;  
 If neither foes nor loving friends can hurt you;  
 If all men count with you, but none too much;  
 If you can fill the unforgiving minute with 60 seconds worth of distance run-  
-Yours is the earth and everything that's in it, And-which is more-you'll be a man my son.  
+Yours is the earth and everything that's in it,
+And- which is more- you'll be a man my son.  
   Rudyard Kipling  
-
-
+  
+  
 It's better to be a warrior in a garden than a gardener in a war.
-
-
+  
+  
 fortis fortuna adiuvat
-
-
-Never say never because limits, like fears, are most often an illusion.
-  Michael Jordan
-
-
-Reading maketh a full man; speaking a ready man; writing, an exact man. (Francis Bacon)
-
-
-"Do the difficult things while they are easy
+  
+  
+Never say never because limits,
+like fears,
+are most often an illusion.
+  Michael Jordan  
+  
+  
+Reading maketh a full man;
+speaking a ready man;
+writing, an exact man.
+  Francis Bacon  
+  
+  
+Do the difficult things while they are easy
 and do the great things while they are small.
-A journey of a thousand miles must begin with a single step."
--- Lao Tzu  
-
-
+A journey of a thousand miles must begin with a single step.
+  Lao Tzu  
+  
+  
 When boiled  
 ...a carrot gets softer  
 ...an egg gets harder  
 ...and coffee changes the water itself  
 
 
-The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself.  
+The reasonable man adapts himself to the world;
+the unreasonable one persists in trying to adapt the world to himself.  
 Therefore, all progress depends on the unreasonable man.  
-	George Bernard Shaw
-
-
+  George Bernard Shaw  
+  
+  
 You can easily judge the character of a man by how he treats those who can do nothing for him.  
-	Malcolm S. Forbes
-
-
+	Malcolm S. Forbes  
+  
+  
 Where the spirit does not work with the hand there is no art.  
 	Leonardo da Vinci  
-
-
-“It is said that when Wesley and Whitefield were at odds on theology and ecclesiastical matters, one of Wesley’s adherents asked him, “Do you think we shall see Mr. Whitefield in heaven?” “No,” he answered, “I do not. I think he will be so near the Throne, and you and I so far away, that we shall not get within sight of him.”  
-	G. B. Wilcox
-
+  
+  
+It is said that when Wesley and Whitefield were at odds on theology and ecclesiastical matters,
+one of Wesley’s adherents asked him,
+“Do you think we shall see Mr. Whitefield in heaven?”
+“No,” he answered, “I do not.
+I think he will be so near the Throne, and you and I so far away,
+that we shall not get within sight of him.”  
+	G. B. Wilcox  
+  
+  
 He who knows not and knows not that he knows not is a fool; shun him.  
 He who knows not and knows that he knows not is simple; teach him.  
 He who knows and knows not that he knows is asleep; wake him.  
 He who knows and knows that he knows is wise; follow him.  
-	Arabic Proverb
+	Arabic Proverb  
 	
 	
 The day soldiers stop bringing you their problems is the day you have stopped leading them.  
-	Colin Powell
-
-
+	Colin Powell  
+  
+  
 If they come for the innocent without stepping over your dead body, cursed be your religion and your life.  
 	Dorothy Day
 
