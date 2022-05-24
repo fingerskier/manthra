@@ -1,6 +1,10 @@
 # Manthra
 
 
+Don't fight unless you have to.
+But if you have to then fight like you're the third monkey on the ramp to Noah's ark and, brother, it's starting to rain...
+
+
 Don’t wear yourself out wrestling with a pig.
 You just get muddy and the pig likes it.  
   
