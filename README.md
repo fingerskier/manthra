@@ -1,6 +1,10 @@
 # Manthra
 
 
+When the devil ignores you,
+you know you're doing something wrong.
+
+
 Compliance is doing what another wants,
 Submission is making their wants your own.  
   M.Currier
