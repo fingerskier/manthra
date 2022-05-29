@@ -1,6 +1,9 @@
 # Manthra
 
 
+Bad leadership is unbiblical.
+
+
 Don't fight unless you have to.
 But if you have to then fight like you're the third monkey on the ramp to Noah's ark and, brother, it's starting to rain...
 
