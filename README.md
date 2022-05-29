@@ -2,11 +2,11 @@
 
 
 Compliance is doing what another wants,
-Submission is making their wants your own.
+Submission is making their wants your own.  
   M.Currier
 
 
-Bad leadership is unbiblical.
+Bad leadership is unbiblical.  
   M.Currier
 
 
