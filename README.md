@@ -1,7 +1,13 @@
 # Manthra
 
 
+Compliance is doing what another wants,
+Submission is making their wants your own.
+  M.Currier
+
+
 Bad leadership is unbiblical.
+  M.Currier
 
 
 Don't fight unless you have to.
