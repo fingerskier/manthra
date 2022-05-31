@@ -1,6 +1,12 @@
 # Manthra
 
 
+No one is going to give you the education you need to overthrow them.
+Nobody is going to teach you your true history, teach you your true heroes,
+if they know that that knowledge will help set you free.  
+  Assata Shakur  
+
+
 When the devil ignores you,
 you know you're doing something wrong.
 
