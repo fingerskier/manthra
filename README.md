@@ -2,7 +2,8 @@
 
 
 No one is going to give you the education you need to overthrow them.
-Nobody is going to teach you your true history, teach you your true heroes,
+Nobody is going to teach you your true history,
+teach you your true heroes,
 if they know that that knowledge will help set you free.  
   Assata Shakur  
 
@@ -38,7 +39,7 @@ than we see.
   Stephen Covey  
 
 
-What you are shouting so loudly in my ears
+What you are shouts so loudly in my ears
 I cannot hear what you say.  
   Emerson  
 
