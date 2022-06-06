@@ -1,6 +1,10 @@
 # Manthra
 
 
+Plans are worthless, but planning is essential.  
+  Dwight Eisenhower  
+
+
 No one is going to give you the education you need to overthrow them.
 Nobody is going to teach you your true history,
 teach you your true heroes,
