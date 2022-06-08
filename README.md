@@ -1,6 +1,9 @@
 # Manthra
 
 
+You are better off hurt than hardened.
+
+
 Plans are worthless, but planning is essential.  
   Dwight Eisenhower  
 
