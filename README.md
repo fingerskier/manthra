@@ -1,6 +1,10 @@
 # Manthra
 
 
+Morality is doing what's right in spite of what you're told.
+Obedience is doing what you're told in spite of what's right.  
+  
+  
 You are better off hurt than hardened.
 
 
