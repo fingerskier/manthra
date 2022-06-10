@@ -1,6 +1,10 @@
 # Manthra
 
 
+First do it, then do it right, then do it better.  
+  Addy Osmani  
+  
+  
 Morality is doing what's right in spite of what you're told.
 Obedience is doing what you're told in spite of what's right.  
   
