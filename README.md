@@ -1,6 +1,10 @@
 # Manthra
 
 
+Money attracts the woman you want,
+struggle attracts the woman you need.
+
+
 First do it, then do it right, then do it better.  
   Addy Osmani  
   
