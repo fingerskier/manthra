@@ -1,6 +1,10 @@
 # Manthra
 
 
+It is only when a mosquito lands on your testicles that you realize
+there is always a way to solve problems without violence.
+
+
 Money attracts the woman you want,
 struggle attracts the woman you need.
 
