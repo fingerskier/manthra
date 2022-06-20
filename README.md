@@ -1,6 +1,11 @@
 # Manthra
 
 
+The problem with quotes found on the Internet
+is that they are often not true.  
+  Abraham Lincoln  
+
+
 Tolerance will reach such a level 
 that intelligent people will be banned from thinking 
 so as not to offend the imbecile.  
