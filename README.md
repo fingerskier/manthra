@@ -1,6 +1,12 @@
 # Manthra
 
 
+Tolerance will reach such a level 
+that intelligent people will be banned from thinking 
+so as not to offend the imbecile.  
+  Dostoievski. 
+
+
 It is only when a mosquito lands on your testicles that you realize
 there is always a way to solve problems without violence.
 
