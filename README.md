@@ -1,6 +1,19 @@
 # Manthra
 
 
+English is hopelessly complicated, extra letters and redundant vowels abond.
+As wel, certin leters, like 'c' and 'y', have multyple fonymz wich mace them unycycary.
+Also, cyrtn condz, like 'th' and 'sh', can be ynferd witot te xtra lytr.
+I kanot fathym a mor frynytic kakofony of grafymc tan tyz,
+To a cyrtin potry yxysts yn yts complyxty- arysng and rysydyng yn ty mynd of bot atr an redr.  
+  M.Currier  
+
+
+One shan't rely on the written word alone:
+If you read read as read instead read your to-do becomes done without doing.
+  M.Currier  
+
+
 The problem with quotes found on the Internet
 is that they are often not true.  
   Abraham Lincoln  
