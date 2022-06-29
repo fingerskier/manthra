@@ -1,7 +1,7 @@
 # Manthra
 
 
-English is hopelessly complicated, extra letters and redundant vowels abond.
+English is hopelessly complicated, extra letters and redundant vowels, like 'gh' and 'ou', abond.
 As wel, certin leters, like 'c' and 'y', have multyple fonymz wich mace them unycycary.
 Also, cyrtn condz, like 'th' and 'sh', can be ynferd witot te xtra lytr.
 I kanot fathym a mor frynytic kakofony of grafymc tan tyz,
