@@ -1,6 +1,11 @@
 # Manthra
 
 
+Challenge fear;
+Overcome it;
+But deny it at your peril.
+
+
 Smooth seas do not make skilled sailors.
 
 
