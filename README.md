@@ -2,7 +2,7 @@
 
 
 Those who can make you believe absurdities
-can make your Connor atrocities.  
+can make your commit atrocities.  
   Voltaire  
 
 
