@@ -1,6 +1,11 @@
 # Manthra
 
 
+Those who can make you believe absurdities
+can make your Connor atrocities.  
+  Voltaire  
+
+
 A lie doesn’t become truth, 
 wrong doesn’t become right 
 and evil doesn’t become good 
