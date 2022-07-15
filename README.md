@@ -1,6 +1,13 @@
 # Manthra
 
 
+A lie doesn’t become truth, 
+wrong doesn’t become right 
+and evil doesn’t become good 
+just because it’s accepted by a majority.  
+  Booker T. Washington. 
+
+
 Challenge fear;
 Overcome it;
 But deny it at your peril.
