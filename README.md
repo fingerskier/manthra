@@ -1,5 +1,9 @@
 # Manthra
 
+I can't believe what you say
+because I see what you do.  
+  James Baldwin  
+
 
 Those who can make you believe absurdities
 can make your commit atrocities.  
