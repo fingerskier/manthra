@@ -1,5 +1,9 @@
 # Manthra
 
+
+A candle doesn't lose any flame by lighting another candle.
+
+
 I can't believe what you say
 because I see what you do.  
   James Baldwin  
