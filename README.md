@@ -1,7 +1,11 @@
 # Manthra
 
 
-A candle doesn't lose any flame by lighting another candle.
+You can tell all you need to know about a man's character by how he speaks to his children and how his wife speaks to him.  
+  M. Currier  
+
+
+A candle doesn't lose any flame by lighting another candle.  
 
 
 I can't believe what you say
