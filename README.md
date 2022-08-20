@@ -1,6 +1,10 @@
 # Manthra
 
 
+Don't pretend to be what you're not, instead, pretend to what you want to be, it is not pretence, it is a journey to self realization.  
+  Michael Bassey Johnson  
+
+
 You can tell all you need to know about a man's character by how he speaks to his children and how his wife speaks to him.  
   M. Currier  
 
