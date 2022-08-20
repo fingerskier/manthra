@@ -5,6 +5,10 @@ You can tell all you need to know about a man's character by how he speaks to hi
   M. Currier  
 
 
+The goal of a narcissist is to attain moral virtue without undergoing any of the suffering necessary to attain it.  
+  Jordan Peterson  
+
+
 A candle doesn't lose any flame by lighting another candle.  
 
 
@@ -42,7 +46,7 @@ To a cyrtin potry yxysts yn yts complyxty- arysng and rysydyng yn ty mynd of bot
 
 
 One shan't rely on the written word alone:
-If you read read as read instead read your to-do becomes done without doing.
+If you read read as read instead of read your to-do becomes done without doing.
   M.Currier  
 
 
