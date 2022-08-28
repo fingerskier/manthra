@@ -1,6 +1,11 @@
 # Manthra
 
 
+You cannot change you mind with your mind.
+You can only change your mind with your body.  
+  Alan Huberman  
+
+
 our preferences do not determine what's true.  
   Carl Sagan  
 
