@@ -1,7 +1,11 @@
 # Manthra
 
 
-You cannot change you mind with your mind.
+Mathematics is the science of analogy.  
+  Atiyah  
+
+
+You cannot change your mind with your mind.
 You can only change your mind with your body.  
   Alan Huberman  
 
