@@ -4,7 +4,7 @@
 If you love a flower, don't pick it up. 
 Because if you pick it up it dies and it ceases to be what you love. 
 So if you love a flower, let it be.  
-  Asho  
+  Osho  
 
 
 Mathematics is the science of analogy.  
