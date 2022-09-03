@@ -1,6 +1,14 @@
 # Manthra
 
 
+People change when
+they hurt enough they have to,
+they see enough they're inspired to,
+they learn enough they want to,
+they recieve enough they're able to.
+  John C. Maxwell. 
+
+
 If you love a flower, don't pick it up. 
 Because if you pick it up it dies and it ceases to be what you love. 
 So if you love a flower, let it be.  
