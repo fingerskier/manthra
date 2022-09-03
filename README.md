@@ -1,12 +1,19 @@
 # Manthra
 
 
+Of every 100 men who go to war
+10 shouldn't even be there,
+80 are targets,
+9 do most of the fighting,
+and 1 is a warrior.  
+  
+  
 People change when
 they hurt enough they have to,
 they see enough they're inspired to,
 they learn enough they want to,
-they recieve enough they're able to.
-  John C. Maxwell. 
+they recieve enough they're able to.  
+  John C. Maxwell  
 
 
 If you love a flower, don't pick it up. 
