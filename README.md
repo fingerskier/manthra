@@ -1,11 +1,21 @@
 # Manthra
 
 
+If, for some reason your life functions ceased, my most precious one, 
+I would collapse, I would draw the shades and I would live in the dark. 
+I would never get out of my slar pad or clean myself. 
+My fluids would coagulate, my cone would shrivel, 
+and I would die, miserable and lonely. 
+The stench would be great.
+  Baldar Conehead  
+  
+  
 Of every 100 men who go to war
 10 shouldn't even be there,
 80 are targets,
 9 do most of the fighting,
 and 1 is a warrior.  
+  David Goggins  
   
   
 People change when
