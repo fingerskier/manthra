@@ -1,6 +1,10 @@
 # Manthra
 
 
+How to politely tell someone they're stupid:  
+__Wisdom has always been chasing you, but you've always been faster__  
+
+
 Wine tastes sweetest to those in whose trials it was fermented.  
 
 
