@@ -1,13 +1,17 @@
 # Manthra
 
 
+Trust those who seek the truth,  
+Doubt those who claim they have found it.  
+  
+  
 How to politely tell someone they're stupid:  
-__Wisdom has always been chasing you, but you've always been faster__  
-
-
+__Wisdom has always been chasing you, but you've always been faster__   
+  
+  
 Wine tastes sweetest to those in whose trials it was fermented.  
-
-
+  
+  
 If, for some reason your life functions ceased, my most precious one, 
 I would collapse, I would draw the shades and I would live in the dark. 
 I would never get out of my slar pad or clean myself. 
