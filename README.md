@@ -1,6 +1,11 @@
 # Manthra
 
 
+I don't trust someone who is nice to me but rude to the waiter;
+Because they would treat me the same way if I was in that position.
+  Muhammad Ali 
+
+
 Trust those who seek the truth,  
 Doubt those who claim they have found it.  
   
