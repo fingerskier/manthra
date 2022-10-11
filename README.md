@@ -1,6 +1,9 @@
 # Manthra
 
 
+Intuition is a powerful tonic.  
+  
+  
 I don't trust someone who is nice to me but rude to the waiter;
 Because they would treat me the same way if I was in that position.
   Muhammad Ali 
