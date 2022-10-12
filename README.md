@@ -1,6 +1,10 @@
 # Manthra
 
 
+To suffer terribly and know yourself as the cause, that is hell.  
+  Jordan Peterson  
+  
+  
 Intuition is a powerful tonic.  
   
   
