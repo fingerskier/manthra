@@ -1,6 +1,11 @@
 # Manthra
 
 
+When you're successful you have everything you need,
+When you're fulfilled your give everything you've got.
+  Keith Cunningham  
+
+
 To suffer terribly and know yourself as the cause, that is hell.  
   Jordan Peterson  
   
