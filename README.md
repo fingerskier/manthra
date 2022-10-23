@@ -1,6 +1,11 @@
 # Manthra
 
 
+We need to stop just pulling people out of the river,
+We need to go upstream and find out why they're falling in.
+  Desmond Tutu  
+
+
 When you're successful you have everything you need,
 When you're fulfilled your give everything you've got.
   Keith Cunningham  
