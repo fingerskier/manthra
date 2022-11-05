@@ -1,6 +1,10 @@
 # Manthra
 
 
+If _onlys_ and _justs_ were candies and nuts then everyday would be Erntedankfest.  
+  Dwight Schrute  
+
+
 We need to stop just pulling people out of the river,
 We need to go upstream and find out why they're falling in.
   Desmond Tutu  
