@@ -1,6 +1,9 @@
 # Manthra
 
 
+A man's reach should exceed his grasp, or what's a heaven for?
+
+
 At the end of the day you have to make a choice:
 Whether to live with yourself or be happy.  
   Michael Scott  
