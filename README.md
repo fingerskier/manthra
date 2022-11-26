@@ -1,6 +1,12 @@
 # Manthra
 
 
+Fear has two meanings:  
+  Forget Everything And Run  
+    or  
+  Face Everything And Rise  
+  
+  
 A man's reach should exceed his grasp, or what's a heaven for?
 
 
