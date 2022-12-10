@@ -1,6 +1,10 @@
 # Manthra
 
 
+Dictionary, n. A malevolent literary device for cramping the growth of a language and making it hard and inelastic.  
+  Ambrose Bierce  
+
+
 Fear has two meanings:  
   Forget Everything And Run  
     or  
