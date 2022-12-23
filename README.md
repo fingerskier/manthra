@@ -1,6 +1,9 @@
 # Manthra
 
 
+The only way to defeat sin is to deny it battle.  
+  
+  
 Nobody owns life but anyone who holds a frying pan holds death.
 
 
