@@ -1,6 +1,11 @@
 # Manthra
 
 
+No one is against you,
+they are for themselves.  
+  M. Calderon  
+
+
 Dictionary, n. A malevolent literary device for cramping the growth of a language and making it hard and inelastic.  
   Ambrose Bierce  
 
