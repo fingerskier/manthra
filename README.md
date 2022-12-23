@@ -1,6 +1,9 @@
 # Manthra
 
 
+You can't pickpocket a naked man.
+
+
 No one is against you,
 they are for themselves.  
   M. Calderon  
