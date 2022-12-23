@@ -1,6 +1,9 @@
 # Manthra
 
 
+Nobody owns life but anyone who holds a frying pan holds death.
+
+
 You can't pickpocket a naked man.
 
 
