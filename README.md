@@ -1,6 +1,10 @@
 # Manthra
 
 
+The wonder was not that God hated Esau;
+But that God loved Jacob.
+
+
 The only way to defeat sin is to deny it battle.  
   
   
