@@ -4,6 +4,7 @@
 If there's one thing I learned in the army:
 It's to be positive,
 especially when you don't know what you're talking about.
+  Major General Waverly  
 
 
 The wonder was not that God hated Esau;
