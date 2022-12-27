@@ -1,6 +1,10 @@
 # Manthra
 
 
+There are 2 kinds of people on this world:
+Those who can extrapolate from limited data;
+
+
 If there's one thing I learned in the army:
 It's to be positive,
 especially when you don't know what you're talking about.
