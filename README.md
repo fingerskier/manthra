@@ -1,6 +1,14 @@
 # Manthra
 
 
+Democracy is the distribution of power.
+Tyranny is the concentration of power.
+
+
+English is what happens when Vikings learn Latin and use it to shout at Germans.
+  Kevin McLeod
+
+
 There are 2 kinds of people on this world:
 Those who can extrapolate from limited data;
 
