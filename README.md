@@ -1,6 +1,11 @@
 # Manthra
 
 
+What get us in trouble is now what we know-
+It's what we know for sure that just ain't so.  
+  Mark Twain  
+
+
 Democracy is the distribution of power.
 Tyranny is the concentration of power.
 
