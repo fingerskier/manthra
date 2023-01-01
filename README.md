@@ -1,6 +1,10 @@
 # Manthra
 
 
+Others are not against you,
+They are for themselves.  
+
+
 What get us in trouble is now what we know-
 It's what we know for sure that just ain't so.  
   Mark Twain  
