@@ -1,6 +1,10 @@
 # Manthra
 
 
+Before you say something negative about someone else
+Say something negative about yourself.
+
+
 Others are not against you,
 They are for themselves.  
 
