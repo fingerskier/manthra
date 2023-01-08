@@ -1,6 +1,11 @@
 # Manthra
 
 
+More important thean learning the truth,
+Is to unlearn what is untrue.  
+  Antisthenes  
+
+
 Before you say something negative about someone else
 Say something negative about yourself.
 
