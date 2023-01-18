@@ -1,6 +1,10 @@
 # Manthra
 
 
+An outsider is a catalyst:
+Essential an often burned up in process.
+
+
 Have strong opinions, loosely held,
 If you want to influence your neighbor.
 
