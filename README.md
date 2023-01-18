@@ -1,6 +1,10 @@
 # Manthra
 
 
+Have strong opinions, loosely held,
+If you want to influence your neighbor.
+
+
 More important thean learning the truth,
 Is to unlearn what is untrue.  
   Antisthenes  
