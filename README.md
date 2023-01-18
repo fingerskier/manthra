@@ -1,6 +1,9 @@
 # Manthra
 
 
+The world will accept the judgment you place upon yourself.
+
+
 An outsider is a catalyst:
 Essential an often burned up in process.
 
