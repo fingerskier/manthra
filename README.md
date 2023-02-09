@@ -1,4 +1,8 @@
 # Manthra
+
+
+You're unique, just like everyone else.  
+  Margaret Mead  
   
   
 How you get there's the worthier part.   
