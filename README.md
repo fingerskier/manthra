@@ -1,6 +1,10 @@
 # Manthra
 
 
+It does not do to dwell on dreams and forget to live.  
+  Albus Dumbledore
+
+
 You're unique, just like everyone else.  
   Margaret Mead  
   
