@@ -1,10 +1,14 @@
 # Manthra
 
 
+The Bible is the greatest of all books; to study it is the noblest of all pursuits; to understand it, the highest of all goals.
+  Charlie Ryrie. 
+  
+  
 It does not do to dwell on dreams and forget to live.  
   Albus Dumbledore
-
-
+  
+  
 You're unique, just like everyone else.  
   Margaret Mead  
   
