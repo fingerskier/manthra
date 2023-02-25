@@ -1,6 +1,16 @@
 # Manthra
 
 
+Everyone has the right to be stupid,
+Some people abuse the privilege.  
+  ...  
+
+
+Capitalism is people exploiting people,
+Under communism it's exactly the opposite.  
+  ...  
+
+
 The Bible is the greatest of all books; to study it is the noblest of all pursuits; to understand it, the highest of all goals.
   Charlie Ryrie. 
   
