@@ -1,6 +1,10 @@
 # Manthra
 
 
+It is amazing how complete is the delusion that beauty is goodness.
+  Leo Tolstoy  
+
+
 Everyone has the right to be stupid,
 Some people abuse the privilege.  
   ...  
