@@ -1,6 +1,10 @@
 # Manthra
 
 
+Nothing is more certain than death,  
+And nothing more uncertain than the time of death.  
+  
+  
 It is amazing how complete is the delusion that beauty is goodness.
   Leo Tolstoy  
 
