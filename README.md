@@ -1,14 +1,19 @@
 # Manthra
 
 
+At the end of the day a man is no better than the pain he has caused the one's he loves;
+And what he has done to make it better.
+  Rycroft Philostrate  
+  
+  
 Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.  
   Benjamin Franklin  
-
-
+  
+  
 If I have seen further it is by standing on the shoulders of giants.  
   Isaac Newton  
-
-
+  
+  
 Nothing is more certain than death,  
 And nothing more uncertain than the time of death.  
   
