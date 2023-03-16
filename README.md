@@ -10,10 +10,6 @@ And what he has done to make it better.
   Rycroft Philostrate  
   
   
-Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.  
-  Benjamin Franklin  
-  
-  
 If I have seen further it is by standing on the shoulders of giants.  
   Isaac Newton  
   
