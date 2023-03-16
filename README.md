@@ -1,6 +1,10 @@
 # Manthra
 
 
+Everybody counts or nobody counts.  
+  Heironymous Bosch  
+  
+  
 At the end of the day a man is no better than the pain he has caused the one's he loves;
 And what he has done to make it better.  
   Rycroft Philostrate  
