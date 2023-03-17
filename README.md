@@ -1,6 +1,9 @@
 # Manthra
 
 
+A correct decision is wrong when it's too late.
+
+
 Everybody counts or nobody counts.  
   Heironymous Bosch  
   
