@@ -1,6 +1,10 @@
 # Manthra
 
 
+The only person who never makes a mistake is the person who does nothing.
+  Albert Einstein  
+
+
 A correct decision is wrong when it's too late.
 
 
