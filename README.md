@@ -1,6 +1,11 @@
 # Manthra
 
 
+If men define situations as real,
+they are real in their consequences.  
+  The Thomas Theorem  
+  
+  
 The only person who never makes a mistake is the person who does nothing.
   Albert Einstein  
 
