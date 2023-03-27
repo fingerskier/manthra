@@ -38,7 +38,7 @@ It is amazing how complete is the delusion that beauty is goodness.
   
 Everyone has the right to be stupid,
 Some people abuse the privilege.  
-  ...  
+  Joseph Stalin  
   
   
 Capitalism is people exploiting people,
