@@ -29,17 +29,18 @@ If I have seen further it is by standing on the shoulders of giants.
   
 Nothing is more certain than death,  
 And nothing more uncertain than the time of death.  
+  Thomas Paine  
   
   
 It is amazing how complete is the delusion that beauty is goodness.
   Leo Tolstoy  
-
-
+  
+  
 Everyone has the right to be stupid,
 Some people abuse the privilege.  
   ...  
-
-
+  
+  
 Capitalism is people exploiting people,
 Under communism it's exactly the opposite.  
   ...  
