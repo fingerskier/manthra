@@ -2,8 +2,9 @@
 
 
 As soon as you say never here come the kids nevering like they never nevered before.
-
-
+  Erma Bombeck  
+  
+  
 If men define situations as real,
 they are real in their consequences.  
   The Thomas Theorem  
