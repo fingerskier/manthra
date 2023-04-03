@@ -1,6 +1,9 @@
 # Manthra
 
 
+As soon as you say never here come the kids nevering like they nnoever nevered before.
+
+
 If men define situations as real,
 they are real in their consequences.  
   The Thomas Theorem  
