@@ -1,7 +1,7 @@
 # Manthra
 
 
-As soon as you say never here come the kids nevering like they nnoever nevered before.
+As soon as you say never here come the kids nevering like they never nevered before.
 
 
 If men define situations as real,
