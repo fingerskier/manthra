@@ -1,6 +1,15 @@
 # Manthra
 
 
+Giver us one free miracle and we'll explain the rest.
+  Terrance McKenna  
+
+
+If an apple falls from a tree because of a law of nature,
+Then is it not a person and, further, a citizen.
+  C.S. Lewis. 
+
+
 As soon as you say never here come the kids nevering like they never nevered before.
   Erma Bombeck  
   
