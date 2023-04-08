@@ -1,7 +1,11 @@
 # Manthra
 
 
-Giver us one free miracle and we'll explain the rest.
+Providence is the belief that all of history has been orchestrated to bring you into the presence of God at this very moment- and that every human can claim this.  
+  M. Currier  
+  
+  
+Give us one free miracle and we'll explain the rest.  
   Terrance McKenna  
 
 
