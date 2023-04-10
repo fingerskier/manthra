@@ -1,6 +1,11 @@
 # Manthra
 
 
+Nature is a book written in “the language of mathematics”. 
+If we cannot understand that language, we will be doomed to wander about as if in a dark labyrinth.
+  Galileo Galilei  
+
+
 Providence is the belief that all of history has been orchestrated to bring you into the presence of God at this very moment- and that every human can claim this.  
   M. Currier  
   
