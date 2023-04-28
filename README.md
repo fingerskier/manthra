@@ -1,8 +1,16 @@
 # Manthra
 
 
+Of every hundred men in war: 
+	ten shouldn't be there,  
+	eighty are nothing but targets,  
+	nine are real fighters, and we are lucky to have them, for they make the battle.  
+	Ah, but the one, one is a warrior, and he will bring the others back.  
+  Herman Melville  
+
+
 Nature is a book written in “the language of mathematics”. 
-If we cannot understand that language, we will be doomed to wander about as if in a dark labyrinth.
+If we cannot understand that language, we will be doomed to wander about as if in a dark labyrinth.  
   Galileo Galilei  
 
 
