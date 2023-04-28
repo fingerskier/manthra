@@ -1,7 +1,7 @@
 # Manthra
 
 
-Of every hundred men in war: 
+Of every hundred men in war:  
 	ten shouldn't be there,  
 	eighty are nothing but targets,  
 	nine are real fighters, and we are lucky to have them, for they make the battle.  
