@@ -1,6 +1,9 @@
 # Manthra
 
 
+Look to the horizon but watch your step.  
+  
+  
 One out of one of us will die; and one of us will be the next one.  
   Sam Cherian  
 
