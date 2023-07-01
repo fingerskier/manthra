@@ -1,6 +1,10 @@
 # Manthra
 
 
+One out of one of us will die; and one of us will be the next one.  
+  Sam Cherian  
+
+  
 Of every hundred men in war:  
 	ten shouldn't be there,  
 	eighty are nothing but targets,  
