@@ -1,6 +1,8 @@
 # Manthra
 
-
+If it's not counted then it doesn't count.  
+  
+  
 Look to the horizon but watch your step.  
   
   
