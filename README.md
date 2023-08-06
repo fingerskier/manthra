@@ -1,5 +1,9 @@
 # Manthra
 
+One of the main functions of organized religion is to protect people against a direct experience of God.  
+  Carl Jung  
+  
+
 If it's not counted then it doesn't count.  
   
   
