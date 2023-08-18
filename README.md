@@ -1,5 +1,11 @@
 # Manthra
 
+
+Be willing to do today but other aren't,
+So that you're able to do tomorrow what others can't.  
+  Matt Fraser  
+  
+  
 Never use too many over-the-top, superfluous, excessively narrow, hypersyllabic adjectives.  
   
   
