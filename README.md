@@ -1,7 +1,10 @@
 # Manthra
 
 
-Be willing to do today but other aren't,
+Cowards and champions have the same fears.  
+  
+  
+Be willing to do today was others aren't,
 So that you're able to do tomorrow what others can't.  
   Matt Fraser  
   
