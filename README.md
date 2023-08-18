@@ -1,6 +1,10 @@
 # Manthra
 
 
+With powerlessness comes agression.  
+  Andrew Huberman  
+  
+  
 Cowards and champions have the same fears.  
   
   
