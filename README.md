@@ -1,6 +1,11 @@
 # Manthra
-
-
+  
+  
+In Sterquiliniis Invenitur  
+__In filth it will be found__  
+  <Carl Jung>  
+  
+  
 With powerlessness comes agression.  
   Andrew Huberman  
   
