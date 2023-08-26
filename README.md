@@ -1,6 +1,10 @@
 # Manthra
 
 
+The true character of a man is decided in the battle between him and his falen nature;
+The only real victory is to deny it battle.  
+  
+  
 Perhaps I am a providential shipwreck.  
   
   
