@@ -1,7 +1,11 @@
 # Manthra
 
 
-The true character of a man is decided in the battle between him and his falen nature;
+If someone shows you who they really are...
+believe them.  
+  
+  
+The true character of a man is decided in the battle between him and his fallen nature;
 The only real victory is to deny it battle.  
   
   
