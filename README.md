@@ -1,6 +1,10 @@
 # Manthra
 
 
+A civilization which leaves so large a number of its participants unsatisfied and drives them into revolt neither has nor deserves the prospect of a lasting existence.  
+  Sigmund Freud  
+  
+  
 Don't mistake my generosity for generosity.  
   whiterose  
   
