@@ -1,6 +1,10 @@
 # Manthra
 
 
+Don't mistake my generosity for generosity.  
+  whiterose  
+  
+  
 If someone shows you who they really are...
 believe them.  
   
@@ -193,20 +197,17 @@ The mystery is not that God hated Esau;.
 But that God loved Jacob.  
   
   
-The only way to defeat sin is to deny it battle.  
-  
-  
 Nobody owns life but anyone who holds a frying pan holds death.
-
-
+  
+  
 You can't pickpocket a naked man.
-
-
+  
+  
 No one is against you,
 they are for themselves.  
   M. Calderon  
-
-
+  
+  
 Dictionary, n. A malevolent literary device for cramping the growth of a language and making it hard and inelastic.  
   Ambrose Bierce  
 
