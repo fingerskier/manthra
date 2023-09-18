@@ -1,6 +1,10 @@
 # Manthra
 
 
+Never appeal to a man's better nature,
+he may not have one.  
+  
+  
 A civilization which leaves so large a number of its participants unsatisfied and drives them into revolt neither has nor deserves the prospect of a lasting existence.  
   Sigmund Freud  
   
