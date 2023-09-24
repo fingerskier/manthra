@@ -1,6 +1,10 @@
-# Manthra
+# Manthra  
 
 
+If you want to know who controls you,
+look at who you are not allowed to criticize.  
+  
+  
 Never appeal to a man's better nature,
 he may not have one.  
   
