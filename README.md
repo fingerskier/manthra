@@ -1,6 +1,29 @@
 # Manthra  
 
 
+Three contractors are bidding to fix a broken fence at the White House. 
+
+One is from Chicago, another is from Tennessee, and the third is from Minnesota. 
+
+All three go with a White House official to examine the fence.
+
+The Minnesota contractor takes out a tape measure and does some measuring, then works some figures with a pencil.
+
+"Well," he says, "I figure the job will run about $900. $400 for materials, $400 for my crew, and $100 profit for me."
+
+The Tennessee contractor also does some measuring and figuring, then says,
+
+"I can do this job for $700. $300 for materials, $300 for my crew, and $100 profit for me." 
+
+The Chicago contractor doesn't measure or figure, but leans over to the White House official and whispers, "$2,700." 
+
+The official, incredulous, says, "You didn't even measure like the other guys! How did you come up with such a high figure?"
+
+The Chicago contractor whispers back, "$1000 for me, $1000 for you, and we hire the guy from Tennessee to fix the fence."
+
+"Done!" replies the government official. And that, my friends, is how our government works.
+  
+  
 The United States had become a place where entertainers and professional athletes were mistaken for people of importance. They were idolized and treated as leaders; their opinions were sought on everything and they took themselves just as seriously — after all, if an athlete is paid a million or more a year, he knows he is important … so his opinions of foreign affairs and domestic policies must be important, too, even though he proves himself to be both ignorant and subliterate every time he opens his mouth. (Most of his fans were just as ignorant and unlettered; the disease was spreading.)
 
 Robert A. Heinlein - To Sail Beyond the Sunset 1987  
