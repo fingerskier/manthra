@@ -1,18 +1,17 @@
 # Manthra  
 
 
+
+When you get what you want that is God's direction. When you don't get what you want that is God's protection.  
+  Shannon L. Adler 
+
+
 Three contractors are bidding to fix a broken fence at the White House. 
-
-One is from Chicago, another is from Tennessee, and the third is from Minnesota. 
-
-All three go with a White House official to examine the fence.
-
-The Minnesota contractor takes out a tape measure and does some measuring, then works some figures with a pencil.
-
-"Well," he says, "I figure the job will run about $900. $400 for materials, $400 for my crew, and $100 profit for me."
-
-The Tennessee contractor also does some measuring and figuring, then says,
-
+  One is from Chicago, another is from Tennessee, and the third is from Minnesota. 
+  All three go with a White House official to examine the fence.
+  The Minnesota contractor takes out a tape measure and does some measuring, then works some figures with a pencil.
+  "Well," he says, "I figure the job will run about $900. $400 for materials, $400 for my crew, and $100 profit for me."
+  The Tennessee contractor also does some measuring and figuring, then says,
 "I can do this job for $700. $300 for materials, $300 for my crew, and $100 profit for me." 
 
 The Chicago contractor doesn't measure or figure, but leans over to the White House official and whispers, "$2,700." 
