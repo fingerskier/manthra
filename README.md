@@ -1,6 +1,10 @@
 # Manthra  
   
   
+If you don't have time to do it right, when will you have time to do it over?  
+  JOHN WOODEN  
+  
+  
 The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low, and achieving our mark.  
   Michaelangelo  
   
