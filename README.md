@@ -1,6 +1,9 @@
 # Manthra  
 
 
+Remember, if you have a problem with your parachute: you have the rest of your life to figure it out.  
+
+
 
 When you get what you want that is God's direction. When you don't get what you want that is God's protection.  
   Shannon L. Adler 
