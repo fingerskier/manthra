@@ -1,5 +1,10 @@
 # Manthra  
 
+War is a place where young people who don't know each other and don't hate each other, kill each other based on decisions made by
+old people who know each other and hate each other, but don't kill each other.
+  Paul Valéry  
+
+
 
 Remember, if you have a problem with your parachute: you have the rest of your life to figure it out.  
 
