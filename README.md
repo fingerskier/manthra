@@ -1,4 +1,8 @@
 # Manthra  
+
+
+A smart person expresses less than 10% of what they think,
+A stupid person thinks about less than 10% of what they express.  
   
   
 If you don't have time to do it right, when will you have time to do it over?  
