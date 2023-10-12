@@ -1,6 +1,10 @@
 # Manthra  
 
 
+When the student is ready the teacher will appear. When the student is truly ready.  
+  Tao Te Ching  
+  
+  
 A smart person expresses less than 10% of what they think,
 A stupid person thinks about less than 10% of what they express.  
   
