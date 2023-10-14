@@ -1,6 +1,10 @@
 # Manthra  
 
 
+If you want a happy ending, that depends, of course, on where you stop your story.  
+  Orson Welles  
+  
+  
 When the student is ready the teacher will appear. When the student is truly ready.  
   Tao Te Ching  
   
