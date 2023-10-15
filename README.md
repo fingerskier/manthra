@@ -1,6 +1,10 @@
 # Manthra  
-
-
+  
+  
+Know how to solve every problem that has been solved.  
+  Richard P. Feynman. 
+  
+  
 If you want a happy ending, that depends, of course, on where you stop your story.  
   Orson Welles  
   
