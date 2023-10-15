@@ -1,6 +1,10 @@
 # Manthra  
   
   
+Life is like a helicopter
+I don't know how to operate a helicopter.  
+  
+  
 Know how to solve every problem that has been solved.  
   Richard P. Feynman. 
   
