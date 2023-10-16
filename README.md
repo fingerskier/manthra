@@ -1,4 +1,23 @@
 # Manthra  
+
+
+A writer needs three things, experience, observation, and imagination,
+any two of which, at times any one of which, can supply the lack of the other.  
+  William Faulkner  
+  
+  
+Easy reading is damned hard writing.  
+  Nathaniel Hawthorne  
+  
+  
+Either write something worth reading or do something worth writing.  
+  Benjamin Franklin  
+  
+  
+Sometimes ideas just come to me.
+Other times I have to sweat and almost bleed to make ideas come.
+It’s a mysterious process, but I hope I never find out exactly how it works.  
+  JK Rowling  
   
   
 Life is like a helicopter
@@ -43,6 +62,10 @@ Remember, if you have a problem with your parachute: you have the rest of your l
 When you get what you want that is God's direction.  
 When you don't get what you want that is God's protection.  
   Shannon L. Adler  
+
+
+The skill of writing is to create a context in which other people can think.  
+  Edwin Schlossberg  
   
   
 Three contractors are bidding to fix a broken fence at the White House.  
@@ -653,7 +676,7 @@ that we shall not get within sight of him.”
   
   
 He who knows not and knows not that he knows not is a fool; shun him.  
-He who knows not and knows that he knows not is simple; teach him.  
+He who knows not and knows that he knows not is ; teach him.  
 He who knows and knows not that he knows is asleep; wake him.  
 He who knows and knows that he knows is wise; follow him.  
 	Arabic Proverb  
@@ -1026,6 +1049,10 @@ Among the many misdeeds of the British rule in India, history will look upon the
 
 Even if you are a minority of one, the truth is the truth.  
 	Mahatma Gandhi   
+
+
+Everything should be made as simple as possible, but not simpler.  
+  Albert Einstein  
 
 
 The weak can never forgive.  Forgiveness is an attribute of the strong.  
