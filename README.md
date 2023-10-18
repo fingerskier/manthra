@@ -1,6 +1,9 @@
 # Manthra  
 
 
+Our scars show that we have suffered...and healed.  
+  
+  
 A writer needs three things, experience, observation, and imagination,
 any two of which, at times any one of which, can supply the lack of the other.  
   William Faulkner  
