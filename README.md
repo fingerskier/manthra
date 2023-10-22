@@ -1,6 +1,10 @@
 # Manthra  
   
   
+Politics: the art of convincing decent to forget that the lesser of two evils is still evil.  
+  Edward Snowden  
+  
+  
 Science takes things apart to see how they work.  
 Religion puts things together to see what they mean.  
 They speak different languages and use different powers of the brain.  
