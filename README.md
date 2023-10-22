@@ -1,6 +1,9 @@
 # Manthra  
   
   
+The real conspiracy theorists are the ones who believe the government cares for them, the media would never lie to them, and pharmaceutical companies making billions of dollars selling them drugs want to cure them.  
+  
+  
 Politics: the art of convincing decent to forget that the lesser of two evils is still evil.  
   Edward Snowden  
   
