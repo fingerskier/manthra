@@ -1,6 +1,10 @@
 # Manthra  
   
   
+All people, regardless of worldview, are made in the image of God and I intend to treat them that way.
+  John Lennoxs' father  
+  
+  
 The real conspiracy theorists are the ones who believe the government cares for them, the media would never lie to them, and pharmaceutical companies making billions of dollars selling them drugs want to cure them.  
   
   
