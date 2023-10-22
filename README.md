@@ -1,4 +1,10 @@
 # Manthra  
+  
+  
+Science takes things apart to see how they work.  
+Religion puts things together to see what they mean.  
+They speak different languages and use different powers of the brain.  
+  Lord Jonathan Sacks 
 
 
 Our scars show that we have suffered...and healed.  
