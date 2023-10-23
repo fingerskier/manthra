@@ -1,6 +1,10 @@
 # Manthra  
+
+
+I was saved; I am saved; I am being saved.  
+  Earl Rademacher  
   
-  
+    
 All people, regardless of worldview, are made in the image of God and I intend to treat them that way.
   John Lennoxs' father  
   
