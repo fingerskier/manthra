@@ -1,6 +1,10 @@
 # Manthra  
-
-
+  
+  
+As a nation of free men we will live forever or die by suicide.  
+  Abraham Lincoln  
+  
+  
 A metaphor always stands for something real.  
   C.S. Lewis  
   
