@@ -1,6 +1,10 @@
 # Manthra  
 
 
+A metaphor always stands for something real.  
+  C.S. Lewis  
+  
+  
 I was saved; I am saved; I am being saved.  
   Earl Rademacher  
   
