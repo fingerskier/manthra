@@ -1,6 +1,16 @@
 # Manthra  
   
   
+First they came for the socialists, and I did not speak out—because I was not a socialist.
+
+Then they came for the trade unionists, and I did not speak out—because I was not a trade unionist.
+
+Then they came for the Jews, and I did not speak out—because I was not a Jew.
+
+Then they came for me—and there was no one left to speak for me.
+  Martin Niemöller  
+  
+  
 As a nation of free men we will live forever or die by suicide.  
   Abraham Lincoln  
   
