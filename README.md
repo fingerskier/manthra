@@ -2,7 +2,7 @@
   
   
 Jonah sat and waited for God to come around to his way of thinking.
-All the while God waits for the Jonah's to come around to his way of loving.
+All the while God waits for we Jonah's to come around to his way of loving.
   Thomas John Carlisle  
   
   
