@@ -1,6 +1,10 @@
 # Manthra  
   
   
+Hell: the greatest monument to human freedom.  
+  C.S. Lewis  
+  
+  
 Jonah sat and waited for God to come around to his way of thinking.
 All the while God waits for we Jonah's to come around to his way of loving.
   Thomas John Carlisle  
