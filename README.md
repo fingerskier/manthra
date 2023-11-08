@@ -1,6 +1,10 @@
 # Manthra  
   
   
+I heard God's call and I'm pretty sure he was talking to the guy behind me;
+but I'm going to go ahead and do what He said just in case.
+  
+  
 Hell: the greatest monument to human freedom.  
   C.S. Lewis  
   
