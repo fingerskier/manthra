@@ -6,48 +6,48 @@ but I'm going to go ahead and do what He said just in case.
   
   
 Hell: the greatest monument to human freedom.  
-  C.S. Lewis  
+	C.S. Lewis  
   
   
 Jonah sat and waited for God to come around to his way of thinking.
 All the while God waits for we Jonah's to come around to his way of loving.
-  Thomas John Carlisle  
+	Thomas John Carlisle  
   
   
 First they came for the socialists, and I did not speak out—because I was not a socialist.
 Then they came for the trade unionists, and I did not speak out—because I was not a trade unionist.
 Then they came for the Jews, and I did not speak out—because I was not a Jew.
 Then they came for me—and there was no one left to speak for me.
-  Martin Niemöller  
+	Martin Niemöller  
   
   
 As a nation of free men we will live forever or die by suicide.  
-  Abraham Lincoln  
+	Abraham Lincoln  
   
   
 A metaphor always stands for something real.  
-  C.S. Lewis  
+	C.S. Lewis  
   
   
 I was saved; I am saved; I am being saved.  
-  Earl Rademacher  
+	Earl Rademacher  
   
     
 All people, regardless of worldview, are made in the image of God and I intend to treat them that way.
-  John Lennoxs' father  
+	John Lennoxs' father  
   
   
 The real conspiracy theorists are the ones who believe the government cares for them, the media would never lie to them, and pharmaceutical companies making billions of dollars selling them drugs want to cure them.  
   
   
 Politics: the art of convincing decent to forget that the lesser of two evils is still evil.  
-  Edward Snowden  
+	Edward Snowden  
   
   
 Science takes things apart to see how they work.  
 Religion puts things together to see what they mean.  
 They speak different languages and use different powers of the brain.  
-  Lord Jonathan Sacks 
+	Lord Jonathan Sacks 
 
 
 Our scars show that we have suffered...and healed.  
@@ -55,21 +55,21 @@ Our scars show that we have suffered...and healed.
   
 A writer needs three things, experience, observation, and imagination,
 any two of which, at times any one of which, can supply the lack of the other.  
-  William Faulkner  
+	William Faulkner  
   
   
 Easy reading is damned hard writing.  
-  Nathaniel Hawthorne  
+	Nathaniel Hawthorne  
   
   
 Either write something worth reading or do something worth writing.  
-  Benjamin Franklin  
+	Benjamin Franklin  
   
   
 Sometimes ideas just come to me.
 Other times I have to sweat and almost bleed to make ideas come.
 It’s a mysterious process, but I hope I never find out exactly how it works.  
-  JK Rowling  
+	JK Rowling  
   
   
 Life is like a helicopter
@@ -77,15 +77,15 @@ I don't know how to operate a helicopter.
   
   
 Know how to solve every problem that has been solved.  
-  Richard P. Feynman. 
+	Richard P. Feynman. 
   
   
 If you want a happy ending, that depends, of course, on where you stop your story.  
-  Orson Welles  
+	Orson Welles  
   
   
 When the student is ready the teacher will appear. When the student is truly ready.  
-  Tao Te Ching  
+	Tao Te Ching  
   
   
 A smart person expresses less than 10% of what they think,
@@ -93,11 +93,11 @@ A stupid person thinks about less than 10% of what they express.
   
   
 If you don't have time to do it right, when will you have time to do it over?  
-  JOHN WOODEN  
+	John Wooden  
   
   
 The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low, and achieving our mark.  
-  Michaelangelo  
+	Michaelangelo  
   
   
 War is a place where  
@@ -105,7 +105,7 @@ War is a place where
  kill each other  
  based on decisions made by old people who know each other and hate each other  
  but don't kill each other.  
-  Paul Valéry  
+	Paul Valéry  
   
   
 Remember, if you have a problem with your parachute: you have the rest of your life to figure it out.  
@@ -113,11 +113,11 @@ Remember, if you have a problem with your parachute: you have the rest of your l
   
 When you get what you want that is God's direction.  
 When you don't get what you want that is God's protection.  
-  Shannon L. Adler  
-
-
+	Shannon L. Adler  
+  
+  
 The skill of writing is to create a context in which other people can think.  
-  Edwin Schlossberg  
+	Edwin Schlossberg  
   
   
 Three contractors are bidding to fix a broken fence at the White House.  
@@ -295,54 +295,50 @@ indeed, it's the only thing that ever has.
 
 
 The world will accept the judgment you place upon yourself.
-
-
+  
+  
 An outsider is a catalyst:
-Essential an often burned up in process.
-
-
+Essential and often burned up in process.  
+  
+  
 Have strong opinions, loosely held,
 If you want to influence your neighbor.
-
-
+  
+  
 More important thean learning the truth,
 Is to unlearn what is untrue.  
   Antisthenes  
-
-
+  
+  
 Before you say something negative about someone else
 Say something negative about yourself.
-
-
-Others are not against you,
-They are for themselves.  
-
-
+  
+  
 What gets us in trouble is not what we know-
 It's what we know for sure that just ain't so.  
   Mark Twain  
-
-
+  
+  
 Democracy is the distribution of power.
 Tyranny is the concentration of power.
-
-
+  
+  
 English is what happens when Vikings learn Latin and use it to shout at Germans.
   Kevin McLeod
-
-
+  
+  
 There are 2 kinds of people on this world:
-Those who can extrapolate from limited data;
-
-
+Those who can extrapolate from limited data,
+  
+  
 If there's one thing I learned in the army:
 It's to be positive,
 especially when you don't know what you're talking about.
   Major General Waverly  
-
-
-The mystery is not that God hated Esau;. 
-But that God loved Jacob.  
+  
+  
+The mystery is not that God hated Esau;  
+But that God loved Jacob.
   
   
 Nobody owns life but anyone who holds a frying pan holds death.
@@ -358,8 +354,8 @@ they are for themselves.
   
 Dictionary, n. A malevolent literary device for cramping the growth of a language and making it hard and inelastic.  
   Ambrose Bierce  
-
-
+  
+  
 Fear has two meanings:  
   Forget Everything And Run  
     or  
@@ -367,8 +363,9 @@ Fear has two meanings:
   
   
 A man's reach should exceed his grasp, or what's a heaven for?
-
-
+  Robert Browning  
+  
+  
 At the end of the day you have to make a choice:
 Whether to live with yourself or be happy.  
   Michael Scott  
@@ -381,25 +378,25 @@ If _onlys_ and _justs_ were candies and nuts then everyday would be Erntedankfes
 We need to stop just pulling people out of the river,
 We need to go upstream and find out why they're falling in.
   Desmond Tutu  
-
-
+  
+  
 When you're successful you have everything you need,
 When you're fulfilled your give everything you've got.
   Keith Cunningham  
-
-
-To suffer terribly and know yourself as the cause, that is hell.  
+  
+  
+To suffer terribly and know yourself as the cause, that is hell.
   Jordan Peterson  
   
   
-Intuition is a powerful tonic.  
+Intuition is a powerful tonic.
   
   
 I don't trust someone who is nice to me but rude to the waiter;
 Because they would treat me the same way if I was in that position.
-  Muhammad Ali 
-
-
+  Muhammad Ali  
+  
+  
 Trust those who seek the truth,  
 Doubt those who claim they have found it.  
   
@@ -408,7 +405,7 @@ How to politely tell someone they're stupid:
 __Wisdom has always been chasing you, but you've always been faster__   
   
   
-Wine tastes sweetest to those in whose trials it was fermented.  
+Wine tastes sweetest to those in whose trials it was fermented.
   
   
 If, for some reason your life functions ceased, my most precious one, 
@@ -419,13 +416,6 @@ and I would die, miserable and lonely.
 The stench would be great.
   Baldar Conehead  
   
-  
-Of every 100 men who go to war
-10 shouldn't even be there,
-80 are targets,
-9 do most of the fighting,
-and 1 is a warrior.  
-  David Goggins  
   
   
 People change when
@@ -674,40 +664,42 @@ And- which is more- you'll be a man my son.
   Rudyard Kipling  
   
   
-It's better to be a warrior in a garden than a gardener in a war.
+It's better to be a warrior in a garden than a gardener in a war.  
+  Sun Tzu  
+
   
-  
-fortis fortuna adiuvat
+fortis fortuna adiuvat  
+_fortune favors the bold_  
   
   
 Never say never because limits,
 like fears,
-are most often an illusion.
-  Michael Jordan  
+are most often an illusion.  
+	Michael Jordan  
   
   
 Reading maketh a full man;
 speaking a ready man;
 writing, an exact man.
-  Francis Bacon  
+	Francis Bacon  
   
   
 Do the difficult things while they are easy
 and do the great things while they are small.
-A journey of a thousand miles must begin with a single step.
-  Lao Tzu  
+A journey of a thousand miles must begin with a single step.  
+	Lao Tzu  
   
   
-When boiled  
-...a carrot gets softer  
-...an egg gets harder  
-...and coffee changes the water itself  
-
-
+When boiled:
+* a carrot gets softer  
+* an egg gets harder  
+* and coffee changes the water itself  
+  
+  
 The reasonable man adapts himself to the world;
 the unreasonable one persists in trying to adapt the world to himself.  
 Therefore, all progress depends on the unreasonable man.  
-  George Bernard Shaw  
+	George Bernard Shaw  
   
   
 You can easily judge the character of a man by how he treats those who can do nothing for him.  
