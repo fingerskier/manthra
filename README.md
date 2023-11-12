@@ -1,6 +1,10 @@
 # Manthra  
   
   
+Hypocrites do the devil's drudgery in Christ's livery.  
+  Matthew Henry  
+  
+  
 I heard God's call and I'm pretty sure he was talking to the guy behind me;
 but I'm going to go ahead and do what He said just in case.
   
