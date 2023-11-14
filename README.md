@@ -1,4 +1,8 @@
 # Manthra  
+
+
+Eve is oft maligned alone for giving Adam the apple,
+but really is was a bad pear.  
   
   
 Hypocrites do the devil's drudgery in Christ's livery.  
