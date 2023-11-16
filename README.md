@@ -1,6 +1,11 @@
 # Manthra  
 
 
+The Scriptures are shallow enough for a babe to come and drink without fear of drowning
+and deep enough for theologians to swim in without ever touching the bottom.  
+  St. Jerome  
+
+
 Eve is oft maligned alone for giving Adam the apple,
 but really is was a bad pear.  
   
