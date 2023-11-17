@@ -1,4 +1,9 @@
 # Manthra  
+  
+  
+The rule of heaven: thy will be done.
+The rule of hell: my will be done.
+  C.S. Lewis  
 
 
 The Scriptures are shallow enough for a babe to come and drink without fear of drowning
@@ -90,7 +95,11 @@ I don't know how to operate a helicopter.
   
   
 Know how to solve every problem that has been solved.  
-	Richard P. Feynman. 
+	Richard P. Feynman  
+  
+  
+It would seem or Lord finds out desires not too strong, but to weak.  
+  C.S. Lewis  
   
   
 If you want a happy ending, that depends, of course, on where you stop your story.  
