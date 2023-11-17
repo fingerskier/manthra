@@ -1,4 +1,5 @@
 # Manthra  
+`good quotes are carefully crafty poetry`
   
   
 Only a fool learns from his own mistakes.
