@@ -1,8 +1,8 @@
 # Manthra  
   
   
-The rule of heaven: thy will be done.
-The rule of hell: my will be done.
+The rule of heaven: thy will be done.  
+The rule of hell: my will be done.  
   C.S. Lewis  
 
 
