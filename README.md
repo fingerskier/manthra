@@ -1,6 +1,11 @@
 # Manthra  
   
   
+Only a fool learns from his own mistakes.
+The wise man learns from the mistakes of others.  
+  Otto von Bismarck  
+  
+  
 Give before it hurts.  
   Calvin  
   
