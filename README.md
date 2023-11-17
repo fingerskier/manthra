@@ -1,6 +1,10 @@
 # Manthra  
   
   
+Give before it hurts.  
+  Calvin  
+  
+  
 Some people are so poor all they have is money.  
   Bob Marley  
   
