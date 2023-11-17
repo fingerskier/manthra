@@ -1,6 +1,10 @@
 # Manthra  
   
   
+Some people are so poor all they have is money.  
+  Bob Marley  
+  
+  
 The rule of heaven: thy will be done.  
 The rule of hell: my will be done.  
   C.S. Lewis  
