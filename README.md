@@ -1,5 +1,9 @@
 # Manthra  
-`good quotes are carefully crafty poetry`
+`good quotes are careful crafty poetry`  
+  
+  
+Passion is the genesis of genius.  
+  GALILEO GALILEI  
   
   
 Only a fool learns from his own mistakes.
