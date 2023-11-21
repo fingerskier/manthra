@@ -2,6 +2,10 @@
 `good quotes are careful crafty poetry`  
   
   
+When you get into the end zone, act like you've been there before.
+  Joe Paterno  
+  
+  
 Passion is the genesis of genius.  
   GALILEO GALILEI  
   
