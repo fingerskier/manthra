@@ -1,8 +1,12 @@
 # Manthra  
 `good quotes are careful crafty poetry`  
+
+
+In academia no one cares what you've done, they only care what you've read.
+In industry no one cares what you've read, they only care what you've done.  
   
   
-When you get into the end zone, act like you've been there before.
+When you get into the end zone, act like you've been there before.  
   Joe Paterno  
   
   
