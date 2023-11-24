@@ -1,5 +1,9 @@
 # Manthra  
 `good quotes are careful crafty poetry`  
+  
+  
+Don't interrupt your enemy while they are making mistakes.  
+  Napoleon Bonaparte  
 
 
 In academia no one cares what you've done, they only care what you've read.
