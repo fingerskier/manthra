@@ -2,6 +2,10 @@
 `good quotes are careful crafty poetry`  
   
   
+You have been chosen, and you must therefore use such strength and heart Dwits as you have.  
+  J.R.R. Tolkien  
+  
+  
 Don't interrupt your enemy while they are making mistakes.  
   Napoleon Bonaparte  
 
