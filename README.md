@@ -110,6 +110,10 @@ any two of which, at times any one of which, can supply the lack of the other.
 	William Faulkner  
   
   
+It does not do to leave a live dragon out of your calculations, if you live near him.  
+  J. R. R. Tolkien  
+  
+  
 Easy reading is damned hard writing.  
 	Nathaniel Hawthorne  
   
