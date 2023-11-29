@@ -2,6 +2,12 @@
 `good quotes are careful crafty poetry`  
   
   
+I believe in Christianity as I believe the sun has risen;
+not only because I see it,
+but because by it I see everything else.  
+  C.S. Lewis  
+  
+  
 You have been chosen, and you must therefore use such strength and heart Dwits as you have.  
   J.R.R. Tolkien  
   
