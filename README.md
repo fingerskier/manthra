@@ -827,13 +827,15 @@ Leadership itself is amoral; its outcome depends on the heart of the leader.
 	M.Currier
 
 
-Perfer et obdura, dolor hic tibi proderit olim  
-
-
-A sample size of you is not a population.  
-	Matthew Currier
-
-
+Perfer et obdura, dolor hic tibi proderit olim.  
+Be patient and tough; this pain will help you someday.  
+  Ovid  
+	
+	
+A sample size of you is not a population.	
+	Matthew Currier	
+	
+	
 God doesn't worry when we struggle with sin; He worries when we stop.  
 	Chris Murphy
 
