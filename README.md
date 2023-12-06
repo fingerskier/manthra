@@ -1030,251 +1030,260 @@ Turn’d critics next, and proved plain fools at last.
 	C.S. Lewis
 
 
-A man convinced against his will is of the same opinion still.
-
-
-The world is full of intellectual derelicts.
-	Calvin Coolidge
-
-
-I don't skate to where the puck is, I skate to where the puck is going to be.
-	Wayne Gretsky
-
-
-Who are the people most opposed to escapism?  Jailors!
-	C.S. Lewis
-
-
-When two partners always agree, one of them is not necessary.
-
-
-There is a principle which:
+A man convinced against his will is of the same opinion still.  
+  
+  
+The world is full of intellectual derelicts.	
+	Calvin Coolidge	
+	
+	
+I don't skate to where the puck is, I skate to where the puck is going to be.	
+	Wayne Gretsky	
+	
+	
+Who are the people most opposed to escapism?  Jailors!	
+	C.S. Lewis	
+	
+	
+When two partners always agree, one of them is not necessary.	
+	
+	
+There is a principle which:	
 - is a bar against all information
 - is a proof against all argument
 - cannot fail to keep man in everlasting ignorance;
-  condemnation before investigation
-	Edmund Spencer
-
-
-Evidence for the conspiracy is evidence for the conspiracy.
-Evidence against the conspiracy is evidence for the conspiracy.
-	Stephen Novella
-
-
+	condemnation before investigation	
+	Edmund Spencer	
+	
+	
+Evidence for the conspiracy is evidence for the conspiracy.	
+Evidence against the conspiracy is evidence for the conspiracy.	
+	Stephen Novella	
+	
+	
 In necessariis unitas,
-In dubiis libertas,
-in omnibus caritas.
-	Rupertus Meldenius
-
-
+in dubiis libertas,
+in omnibus caritas.	
+	Rupertus Meldenius	
+	
+	
 Searching something unsorted is inefficient,
-Sorting something never searched is a waste of time
-
-
-I am a revolutionary, so my son can be a farmer, so his son can be a poet.
-	John Adams
-
-
-The Spartans do not ask how many the enemies are but where they are.
-	Agis II
-
-
-Si vis pacem, para bellum.
-	Plato via Publius Flavius
-
-
-Those people who will not be governed by God will be ruled by tyrants.  
-	William Penn
-
-
-Somewhere a True Believer is training to kill you.  
-He is training with minimal food or water, in austere conditions, day and night.  
-The only thing clean on him is his weapon.  
-He doesn't worry about what workout to do - his ruck weighs what it weighs, his run ends when the enemy stops chasing him.  
-This True Believer is not concerned about 'how hard it is,' he either wins or dies.  
-He doesn't go home at 17:00, he is home.  
-He knows only The Cause.  
-	Doc
-
-
-It is the soldier, not the reporter, who has given us Freedom of Press.  
-It is the soldier, not the poet, who has given us Freedom of Speech.  
-It is the soldier, not the campus organizer, who has given us the Freedom to Demonstrate.  
-It is the soldier, who salutes the flag, who serves beneath the flag, and whose coffin is draped by the flag that allows the protester to burn the flag.  
-	Father Dennis O'Brien; Chaplain, USN  
-
-
-In the beginning of a change, the patriot is a scarce man, brave, hated, and scorned.  
-When his cause succeeds however, the timid join him, for then it costs nothing to be a patriot.  
-	Mark Twain
-
-
-A superior operator uses his superior judgement to keep himself out of situations that would require his superior skills.  
-
-
-A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly.  Specialization is for insects.  
-	Robert A. Heinlein
-
-
-When the government's boot is on your throat, whether it is a left boot or a right boot is of no consequence.  
-	Gary Lloyd
-
-
-The difference between a warrior and an ordinary man is a warrior sees everything as a challenge and an ordinary man sees it as a blessing or curse.  
-	Don Juan
-
-
-We do not rise to the occassion, we fall to the level of our training.
-
-
-We are what we repeatedly do.  Excellence, then, is not an act but a habit.
-	Aristotle
-
-
-When you go home tell them of us and say, 'for their tomorrow we gave our today'.
-	John Maxwell Edmonds
-
-
-The philosophy of the classroom today, will be the philosophy of the government tomorrow.
-	Abraham Lincoln
-
-
-If there must be trouble, let it be in my day that my children may have peace.
-	Thomas Paine
-
-
-We must, indeed, all hang together or, most assuredly, we shall all hang separately.
-	Ben Franklin
-
-
-Let us speak courteously, deal fairly, and keep ourselves armed and ready.
-	Theodore Roosevelt
-
-
-Food for the body is not enough.  There must be food for the soul.
-	Dorothy Day
-
-
-Among the many misdeeds of the British rule in India, history will look upon the Act depriving a whole nation of arms, as the blackest.  
-	Mahatma Gandhi  
-
-
-Even if you are a minority of one, the truth is the truth.  
-	Mahatma Gandhi   
-
-
-Everything should be made as simple as possible, but not simpler.  
-  Albert Einstein  
-
-
-The weak can never forgive.  Forgiveness is an attribute of the strong.  
-	Mahatma Gandhi  
-
-
+sorting something never searched is a waste of time.	
+	
+	
+I am a revolutionary, so my son can be a farmer, so his son can be a poet.	
+	John Adams	
+	
+	
+The Spartans do not ask how many the enemies are but where they are.	
+	Agis II	
+	
+	
+Si vis pacem, para bellum.	
+	Plato via Publius Flavius	
+	
+	
+Those people who will not be governed by God will be ruled by tyrants.	
+	William Penn	
+	
+	
+Somewhere a True Believer is training to kill you.
+He is training with minimal food or water, in austere conditions, day and night.
+The only thing clean on him is his weapon.
+He doesn't worry about what workout to do - his ruck weighs what it weighs, his run ends when the enemy stops chasing him.
+This True Believer is not concerned about 'how hard it is,' he either wins or dies.
+He doesn't go home at 17:00, he is home.
+He knows only The Cause.	
+	Doc	
+	
+	
+It is the soldier, not the reporter, who has given us Freedom of Press.
+It is the soldier, not the poet, who has given us Freedom of Speech.
+It is the soldier, not the campus organizer, who has given us the Freedom to Demonstrate.
+It is the soldier, who salutes the flag, who serves beneath the flag, and whose coffin is draped by the flag that allows the protester to burn the flag.	
+	Father Dennis O'Brien; Chaplain, USN	
+	
+	
+In the beginning of a change, the patriot is a scarce man, brave, hated, and scorned.
+When his cause succeeds however, the timid join him, for then it costs nothing to be a patriot.	
+	Mark Twain	
+	
+	
+A superior operator uses his superior judgement to keep himself out of situations that would require his superior skills.	
+	
+	
+A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly.  Specialization is for insects.	
+	Robert A. Heinlein	
+	
+	
+When the government's boot is on your throat, whether it is a left boot or a right boot is of no consequence.	
+	Gary Lloyd	
+	
+	
+The difference between a warrior and an ordinary man is
+a warrior sees everything as a challenge and an ordinary man sees it as a blessing or curse.	
+	Don Juan	
+	
+	
+We do not rise to the occassion, we fall to the level of our training.	
+	
+	
+We are what we repeatedly do.  Excellence, then, is not an act but a habit.	
+	Aristotle	
+	
+	
+When you go home tell them of us and say, 'for their tomorrow we gave our today'.	
+	John Maxwell Edmonds	
+	
+	
+The philosophy of the classroom today, will be the philosophy of the government tomorrow.	
+	Abraham Lincoln	
+	
+	
+If there must be trouble, let it be in my day that my children may have peace.	
+	Thomas Paine	
+	
+	
+We must, indeed, all hang together or, most assuredly, we shall all hang separately.	
+	Ben Franklin	
+	
+	
+Let us speak courteously, deal fairly, and keep ourselves armed and ready.	
+	Theodore Roosevelt	
+	
+	
+Food for the body is not enough.
+There must be food for the soul.	
+	Dorothy Day	
+	
+	
+Among the many misdeeds of the British rule in India, history will look upon the Act depriving a whole nation of arms, as the blackest.	
+	Mahatma Gandhi	
+	
+	
+Even if you are a minority of one, the truth is the truth.	
+	Mahatma Gandhi	
+	
+	
+Everything should be made as simple as possible, but not simpler.	
+	Albert Einstein	
+	
+	
+The weak can never forgive.
+Forgiveness is an attribute of the strong.	
+	Mahatma Gandhi	
+	
+	
 The United States has sent many of its fine young men and women into great peril to fight for freedom beyond our borders.  The only amount of land we have ever asked for is enough to bury those that did not return.  
 	Colin Powell  
 
 
-Teach your children the art of war, so that they may teach their children math and science, and their children can study art and literature.  
-	John Adams, 2nd President of the United States  
-
-
-Those who sacrifice essential liberty for temporary safety are not deserving of either liberty or safety.  
-	Benjamin Franklin  
-
-
-Nothing in Scripture depicts the Christian life as divided into sacred and secular parts.
-	Dan Miller
-
-
-If your attack is going too well, you're probably walking into an ambush.
-	Infantry Journal
-
-
-Divide et Impera
-Divide ut Regnes
-
-
-There are four boxes to be used in the defense of liberty: soap, ballot, jury and ammo.  Please use in that order.
-	Larry McDonald
-
-
-The democracy will cease to exist when you take away from those who are willing to work and give to those who would not.
-	Thomas Jefferson
-
-
-The strongest reason for the people to retain the right to keep and bear arms is, as a last resort, to protect themselves against tyranny in government.
-	Thomas Jefferson
-
-
-Drills teach principles.  They teach ideas.  They are the map, not the territory.
-	MM
-
-
-Life should not be a journey to the grave with the intention of arriving safely in a pretty and well preserved body, but rather to skid in broadside, thoroughly used up, totally worn out, and loudly proclaiming --WOW-- What a ride!
-	Burke
-
-
-The beauty of the Second Amendment is that it will not be needed until they try to take it.
-	Thomas Jefferson
-
-
-Gun Control: the theory that a woman found dead in an alley, raped, and strangled with her own pantyhose, is somehow morally superior to a woman explaining to police how her attacker got that fatal bullet wound.
-	L.Neil Smith
-
-
-People sleep peacefully in their beds at night only because rough men stand ready to do violence on their behalf.
-	George Orwell
-
-
-If you come expecting a fair fight, you are unprepared.
-
-
-To compel a man to furnish contributions of money for the propagation of opinions which he disbelieves and abhors, is sinful and tyrannical.
-	Thomas Jefferson
-
-
-I am thus far a Quaker, that I would gladly argue with all the world to lay aside the use of arms and settle matters by negotiation, but unless the whole will, the matter ends, and I take up my musket and thank Heaven He has put it in my power.
-	Writings of Thomas Paine 56 (M. Conway ed. 1894)
-
-
-I am concerned for the security of our great nation, not so much because of any threat from without, but because of the insidious forces working from within.
-	General Douglas MacArthur
-
-
-Those who expect to reap the blessings of freedom must, like men, undergo the fatigue of supporting it.
-	Thomas Paine
-
-
-Our freedom is not being destroyed by terrorists, but by ignorance, apathy and complacency.  Our government schools are to blame...Our dumbing down is not accidental but a very well organized plan.
-	Kelly McGinley
-
-
-If God does not punish America, He should apologize to Sodom & Gommorrah.
-	various, Billy Graham
-
-
+Teach your children the art of war, so that they may teach their children math and science, and their children can study art and literature.	
+	John Adams, 2nd President of the United States	
+	
+	
+Those who sacrifice essential liberty for temporary safety are not deserving of either liberty or safety.	
+	Benjamin Franklin	
+	
+	
+Nothing in Scripture depicts the Christian life as divided into sacred and secular parts.	
+	Dan Miller	
+	
+	
+If your attack is going too well, you're probably walking into an ambush.	
+	Infantry Journal	
+	
+	
+Divide et Impera	
+Divide ut Regnes	
+	
+	
+There are four boxes to be used in the defense of liberty: soap, ballot, jury and ammo.
+Please use in that order.	
+	Larry McDonald	
+	
+	
+The democracy will cease to exist when you take away from those who are willing to work and give to those who would not.	
+	Thomas Jefferson	
+	
+	
+The strongest reason for the people to retain the right to keep and bear arms is, as a last resort, to protect themselves against tyranny in government.	
+	Thomas Jefferson	
+	
+	
+Drills teach principles.  They teach ideas.  They are the map, not the territory.	
+	MM	
+	
+	
+Life should not be a journey to the grave with the intention of arriving safely in a pretty and well preserved body,
+but rather to skid in broadside, thoroughly used up, totally worn out, and loudly proclaiming --WOW-- What a ride!	
+	Burke	
+	
+	
+The beauty of the Second Amendment is that it will not be needed until they try to take it.	
+	Thomas Jefferson	
+	
+	
+Gun Control: the theory that a woman found dead in an alley, raped, and strangled with her own pantyhose, is somehow morally superior to a woman explaining to police how her attacker got that fatal bullet wound.	
+	L. Neil Smith	
+	
+	
+People sleep peacefully in their beds at night only because rough men stand ready to do violence on their behalf.	
+	George Orwell	
+	
+	
+If you come expecting a fair fight, you are unprepared.	
+	
+	
+To compel a man to furnish contributions of money for the propagation of opinions which he disbelieves and abhors, is sinful and tyrannical.	
+	Thomas Jefferson	
+	
+	
+I am thus far a Quaker, that I would gladly argue with all the world to lay aside the use of arms and settle matters by negotiation,
+but unless the whole will, the matter ends, and I take up my musket and thank Heaven He has put it in my power.	
+	Thomas Paine	
+	
+	
+I am concerned for the security of our great nation, not so much because of any threat from without,
+but because of the insidious forces working from within.	
+	General Douglas MacArthur	
+	
+	
+Those who expect to reap the blessings of freedom must, like men, undergo the fatigue of supporting it.	
+	Thomas Paine	
+	
+	
+Our freedom is not being destroyed by terrorists, but by ignorance, apathy and complacency.
+Our government schools are to blame...Our dumbing down is not accidental but a very well organized plan.	
+	Kelly McGinley	
+	
+	
+If God does not punish America, He should apologize to Sodom & Gommorrah.	
+	Billy Graham	
+	
+	
 Democracy is two wolves and a lamb discussing what's for dinner.
-Liberty is a well armed lamb willing to contest the majority decision.
-	Benjamin Franklin 1755
-
-
-Every normal man must be tempted at times to spit on his hands, hoist the black flag, and begin to slit throats.
-	H.L. Mencken
-
-
-A man with a toothache cannot be in love.
-	Shakespeare
-
-
-Ever tried.  Ever failed.  No matter.  Try again.  Fail again.  Fail better.  
-  Samuel Beckett  
-
-
-After each of our wars, there has always been a great hue and cry to the effect that...by removing the fire department, we will remove fires.  
-	George S. Patton  
-
-
+Liberty is a well armed lamb willing to contest the majority decision.	
+	Benjamin Franklin	
+	
+	
+Every normal man must be tempted at times to spit on his hands, hoist the black flag, and begin to slit throats.	
+	H.L. Mencken	
+	
+	
+A man with a toothache cannot be in love.	
+	Shakespeare	
+	
+	
+Ever tried.  Ever failed.  No matter.
+Try again.  Fail again.  Fail better.	
+	Samuel Beckett	
+	
+	
+After each of our wars, there has always been a great hue and cry to the effect that...by removing the fire department, we will remove fires.	
+	George S. Patton	
+	
+	
 I do not say that there will be no more wars; I devoutly hope that there will not, but I do say that the chances of avoiding future wars will be greatly enhanced if we are ready.  
 	George S. Patton  
 
