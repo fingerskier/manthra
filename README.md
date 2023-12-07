@@ -1,17 +1,22 @@
-# Manthra  
-`good quotes are careful crafty poetry`  
-  
-  
+# Manthra
+`good quotes are careful crafty poetry`	
+
+
+Talent hits a target no one else can hit.
+Genius hits a target no one else can see.
+	Arthur Schopenhauer	
+	
+	
 I believe in Christianity as I believe the sun has risen;
 not only because I see it,
-but because by it I see everything else.  
-  C.S. Lewis  
-  
-  
-You have been chosen, and you must therefore use such strength and heart Dwits as you have.  
-  J.R.R. Tolkien  
-  
-  
+but because by it I see everything else.	
+	C.S. Lewis	
+	
+	
+You have been chosen, and you must therefore use such strength and heart and wits as you have.	
+	J.R.R. Tolkien	
+	
+	
 Don't interrupt your enemy while they are making mistakes.  
   Napoleon Bonaparte  
 
