@@ -1,7 +1,12 @@
 # Manthra
 `good quotes are careful crafty poetry`	
-
-
+  
+  
+When you go into the end zone,
+act like you've been there before.  
+  Vince Lombardi  
+  
+  
 Talent hits a target no one else can hit.
 Genius hits a target no one else can see.
 	Arthur Schopenhauer	
