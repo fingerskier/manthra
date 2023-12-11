@@ -152,7 +152,7 @@ Know how to solve every problem that has been solved.
 	Richard P. Feynman  
   
   
-It would seem or Lord finds out desires not too strong, but to weak.  
+It would seem our Lord finds our desires not too strong, but too weak.  
   C.S. Lewis  
   
   
@@ -160,7 +160,7 @@ If you want a happy ending, that depends, of course, on where you stop your stor
 	Orson Welles  
   
   
-When the student is ready the teacher will appear. When the student is truly ready.  
+When the student is ready the teacher will appear. When the student is truly ready the teacher will disappear.  
 	Tao Te Ching  
   
   
