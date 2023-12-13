@@ -140,7 +140,7 @@ It’s a mysterious process, but I hope I never find out exactly how it works.
   JK Rowling  
   
   
-Life is like a helicopter
+Life is like a helicopter  
 I don't know how to operate a helicopter.  
   
   
@@ -156,11 +156,12 @@ If you want a happy ending, that depends, of course, on where you stop your stor
   Orson Welles  
   
   
-When the student is ready the teacher will appear. When the student is truly ready the teacher will disappear.  
+When the student is ready the teacher will appear.
+When the student is truly ready the teacher will disappear.  
   Tao Te Ching  
   
   
-A smart person expresses less than 10% of what they think,
+A smart person expresses less than 10% of what they think.
 A stupid person thinks about less than 10% of what they express.  
   
   
@@ -168,7 +169,8 @@ If you don't have time to do it right, when will you have time to do it over?
   John Wooden  
   
   
-The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low, and achieving our mark.  
+The greater danger for most of us lies not in setting our aim too high and falling short;
+but in setting our aim too low, and achieving our mark.  
   Michaelangelo  
   
   
@@ -183,7 +185,7 @@ War is a place where
 Remember, if you have a problem with your parachute: you have the rest of your life to figure it out.  
   
   
-When you get what you want that is God's direction.  
+When you get what you want that is God's direction.
 When you don't get what you want that is God's protection.  
   Shannon L. Adler  
   
@@ -202,9 +204,9 @@ Three contractors are bidding to fix a broken fence at the White House.
   
   
 The United States had become a place where entertainers and professional athletes were mistaken for people of importance.
-They were idolized and treated as leaders; their opinions were sought on everything and they took themselves just as seriously— 
-after all, if an athlete is paid a million or more a year, he knows he is important… 
-so his opinions of foreign affairs and domestic policies must be important, too, even though he proves himself to be both ignorant and subliterate every time he opens his mouth. 
+They were idolized and treated as leaders; their opinions were sought on everything and they took themselves just as seriously—
+after all, if an athlete is paid a million or more a year, he knows he is important…
+so his opinions of foreign affairs and domestic policies must be important, too, even though he proves himself to be both ignorant and subliterate every time he opens his mouth.
 (Most of his fans were just as ignorant and unlettered; the disease was spreading.)  
   Robert A. Heinlein - To Sail Beyond the Sunset 1987  
   
@@ -217,7 +219,9 @@ Never appeal to a man's better nature,
 he may not have one.  
   
   
-A civilization which leaves so large a number of its participants unsatisfied and drives them into revolt neither has nor deserves the prospect of a lasting existence.  
+A civilization which leaves so large a number of its participants unsatisfied
+ and drives them into revolt
+ neither has nor deserves the prospect of a lasting existence.  
   Sigmund Freud  
   
   
@@ -227,6 +231,7 @@ Don't mistake my generosity for generosity.
   
 If someone shows you who they really are...
 believe them.  
+	Mr. Eisenhut
   
   
 The true character of a man is decided in the battle between him and his fallen nature;
@@ -238,7 +243,7 @@ Perhaps I am a providential shipwreck.
   
 In Sterquiliniis Invenitur  
 __In filth it will be found__  
-  <Carl Jung>  
+  Carl Jung  
   
   
 With powerlessness comes agression.  
