@@ -1,5 +1,5 @@
 # Manthra
-`good quotes are careful crafty poetry`  
+`considerable careful crafty compositions`  
   
   
 In in response to a book written by 100 critics, "if I were wrong it would only take one."
