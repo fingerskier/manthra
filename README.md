@@ -2,6 +2,12 @@
 `considerable careful crafty compositions`  
   
   
+I sense a trap.  
+Next move?  
+Spring the trap.  
+  Revenge of the Sith  
+  
+  
 In in response to a book written by 100 critics, "if I were wrong it would only take one."
   Albert Einstein  
   
