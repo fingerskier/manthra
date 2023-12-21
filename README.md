@@ -2,6 +2,10 @@
 `good quotes are careful crafty poetry`  
   
   
+In in response to a book written by 100 critics, "if I were wrong it would only take one."
+  Albert Einstein  
+  
+  
 When you go into the end zone,
 act like you've been there before.  
   Vince Lombardi  
