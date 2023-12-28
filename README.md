@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+A rut is a grave with the ends kicked out.  
+  Earl Nightingale  
+  
+  
 I sense a trap.  
 Next move?  
 Spring the trap.  
