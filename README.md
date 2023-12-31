@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+Of two evils, choose neither.  
+  Charles Sturgeon  
+  
+  
 A rut is a grave with the ends kicked out.  
   Earl Nightingale  
   
