@@ -2,6 +2,11 @@
 `considerable careful crafty compositions`  
   
   
+Don't wait for miracles.
+Your whole life is a miracle.  
+  Albert Einstein  
+  
+  
 Of two evils, choose neither.  
   Charles Sturgeon  
   
