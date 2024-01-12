@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+Everything in moderation including moderation.  
+  Socrates  
+  
+  
 Don't wait for miracles.
 Your whole life is a miracle.  
   Albert Einstein  
