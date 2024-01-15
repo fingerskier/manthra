@@ -1,9 +1,3 @@
-Adapted from:
-  Ancestral Vril © 2023
-  Apr 12, 2023
-  culture war
-
-
 Why does a rabbi own PornHub?
 
   Solomon Friedman is the new owner of PornHub.
@@ -14,7 +8,7 @@ But how?
 
   PornHub is used to post sex videos.
 These include some where minors are raped by adult men.
-Besides the obvious evils of pedophilia, the site can only do evil, whether both parties consenst or not.
+Besides the obvious evils of pedophilia, the site can only do evil, whether both parties consent or not.
 
   So what did rabbi Friedman mean by his usage of "good"?
 Before PornHub came under fire for profiting off rape videos, anyone could post a video.
@@ -51,3 +45,9 @@ That power is wielded to establish the life that _we_ want.
 This is the religious mindset and it permeates Christian, Jewish, and Muslim society.
 It is consistent with the religious leadership who killed Christ 2000 years ago.
 It is the foundation on which ungodly theocracies are built.
+
+
+Adapted from:
+  Ancestral Vril © 2023
+  Apr 12, 2023
+  culture war
