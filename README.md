@@ -2,6 +2,11 @@
 `considerable careful crafty compositions`  
   
   
+One thing about being on the precipice:
+the next step is very clear.  
+  M. Currier  
+  
+  
 Everything in moderation including moderation.  
   Socrates  
   
