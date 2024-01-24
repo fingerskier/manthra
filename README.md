@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+The greatest weapon against stress is our ability to choose one thought over another.  
+  William James  
+  
+  
 One thing about being on the precipice:
 the next step is very clear.  
   M. Currier  
