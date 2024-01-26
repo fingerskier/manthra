@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+The more often he feels without acting, the less he will be able ever to act, and, in the long run, the less he will be able to feel.  
+  Screwtape  
+  
+  
 The greatest weapon against stress is our ability to choose one thought over another.  
   William James  
   
