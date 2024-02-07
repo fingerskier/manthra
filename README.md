@@ -4,6 +4,9 @@
   
 The more often he feels without acting, the less he will be able ever to act, and, in the long run, the less he will be able to feel.  
   Screwtape  
+
+
+I will show you how to do the advanced maneuver but you will only be able to perform it when you can do it faster than you can decide to do it.
   
   
 The greatest weapon against stress is our ability to choose one thought over another.  
