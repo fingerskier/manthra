@@ -4,6 +4,11 @@
   
 The more often he feels without acting, the less he will be able ever to act, and, in the long run, the less he will be able to feel.  
   Screwtape  
+  
+  
+Ruminating on sorrow is bitter work.
+Some things are better to swallow than to chew.
+  Charles Spurgeon  
 
 
 I will show you how to do the advanced maneuver but you will only be able to perform it when you can do it faster than you can decide to do it.
