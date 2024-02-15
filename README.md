@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+Blessed are those who can give without remembering, and take without forgetting.  
+  Elizabeth Asquith Bibesco  
+  
+  
 The more often he feels without acting, the less he will be able ever to act, and, in the long run, the less he will be able to feel.  
   Screwtape  
   
