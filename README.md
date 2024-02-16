@@ -1,5 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`  
+
+
+Christians have nothing to be smug about:
+we're just one beggar telling another where to find bread.
+  R.C. Sproul  
   
   
 Blessed are those who can give without remembering, and take without forgetting.  
