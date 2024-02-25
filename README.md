@@ -9,7 +9,7 @@ chains us all irrevocably.
 
 
 Christians have nothing to be smug about:
-we're just one beggar telling another where to find bread.
+we're just one beggar telling another where to find bread.  
   R.C. Sproul  
   
   
@@ -22,11 +22,11 @@ The more often he feels without acting, the less he will be able ever to act, an
   
   
 Ruminating on sorrow is bitter work.
-Some things are better to swallow than to chew.
+Some things are better to swallow than to chew.  
   Charles Spurgeon  
 
 
-I will show you how to do the advanced maneuver but you will only be able to perform it when you can do it faster than you can decide to do it.
+I will show you how to do the advanced maneuver but you will only be able to perform it when you can do it faster than you can decide to do it.  
   
   
 The greatest weapon against stress is our ability to choose one thought over another.  
@@ -58,10 +58,10 @@ A rut is a grave with the ends kicked out.
 I sense a trap.  
 Next move?  
 Spring the trap.  
-  Revenge of the Sith  
+  Obi-Wan Kenobi 
   
   
-In in response to a book written by 100 critics, "if I were wrong it would only take one."
+In in response to a book written by 100 critics, "if I were wrong it would only take one."  
   Albert Einstein  
   
   
@@ -91,6 +91,7 @@ Don't interrupt your enemy while they are making mistakes.
   
 In academia no one cares what you've done, they only care what you've read.
 In industry no one cares what you've read, they only care what you've done.  
+  J. Youngblood  
   
   
 Passion is the genesis of genius.  
@@ -121,7 +122,7 @@ and deep enough for theologians to swim in without ever touching the bottom.
   
   
 Eve is oft maligned alone for giving Adam the apple,
-but really is was a bad peair.  
+but really is was a bad pear.  
   
   
 Hypocrites do the devil's drudgery in Christ's livery.  
@@ -144,7 +145,7 @@ All the while God waits for we Jonah's to come around to his way of loving.
 First they came for the socialists, and I did not speak out— because I was not a socialist.
 Then they came for the trade unionists, and I did not speak out— because I was not a trade unionist.
 Then they came for the Jews, and I did not speak out—because I was not a Jew.
-Then they came for me—and there was no one left to speak for me.
+Then they came for me—and there was no one left to speak for me.  
   Martin Niemöller  
   
   
@@ -167,7 +168,7 @@ All people, regardless of worldview, are made in the image of God and I intend t
 The real conspiracy theorists are the ones who believe the government cares for them, the media would never lie to them, and pharmaceutical companies making billions of dollars selling them drugs want to cure them.  
   
   
-Politics: the art of convincing decent to forget that the lesser of two evils is still evil.  
+Politics: the art of convincing decent people to forget that the lesser of two evils is still evil.  
   Edward Snowden  
   
   
@@ -186,7 +187,7 @@ any two of which, at times any one of which, can supply the lack of the other.
   
   
 It does not do to leave a live dragon out of your calculations, if you live near him.  
-  J. R. R. Tolkien  
+  J.R.R. Tolkien  
   
   
 Easy reading is damned hard writing.  
@@ -200,7 +201,7 @@ Either write something worth reading or do something worth writing.
 Sometimes ideas just come to me.
 Other times I have to sweat and almost bleed to make ideas come.
 It’s a mysterious process, but I hope I never find out exactly how it works.  
-  JK Rowling  
+  J.K. Rowling  
   
   
 Life is like a helicopter  
