@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+You can easily judge the character of a man by how he treats those who can do nothing for him.  
+  Johann Wolfgang von Goethe  
+  
+  
 With the first link, the chain is forged.
 The first speech censured, the first thought forbidden, the first freedom denied, 
 chains us all irrevocably.  
