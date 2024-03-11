@@ -1,6 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`  
   
+
+There is something about humility that appeals to my ego.  
+  Augustine  
+
   
 You can easily judge the character of a man by how he treats those who can do nothing for him.  
   Johann Wolfgang von Goethe  
