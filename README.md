@@ -1,7 +1,11 @@
 # Manthra
 `considerable careful crafty compositions`  
   
-
+  
+He is no fool who gives up what he cannot keep to attain that which he cannot lose.  
+  Jim Elliott  
+  
+  
 There is something about humility that appeals to my ego.  
   Augustine  
 
