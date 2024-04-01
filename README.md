@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+Prairie causes you to work not on what you like, but on what you'd like to like.  
+  Paul Graham  
+  
+  
 He is no fool who gives up what he cannot keep to attain that which he cannot lose.  
   Jim Elliott  
   
