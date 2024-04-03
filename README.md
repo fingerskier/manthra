@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+Courage is not a virtue,
+but is the form of a virtue being tested.  
+  
+  
 Prairie causes you to work not on what you like, but on what you'd like to like.  
   Paul Graham  
   
