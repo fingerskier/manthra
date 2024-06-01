@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
   
+Our own true best selves are always theoretical.  
+  
+  
 Courage is not a virtue,
 but is the form of a virtue being tested.  
   
