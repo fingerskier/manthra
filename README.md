@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
   
+Good judgment comes from experience; experience comes from bad judgment.  
+  
+  
 Our own true best selves are always theoretical.  
   
   
