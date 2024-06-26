@@ -2,7 +2,9 @@
 `considerable careful crafty compositions`  
   
 
-Fruit doesn't save but salvation is fruitful.  
+We are not saved by fruit, but by faith;
+but not by fruitless faith.  
+  Tim Keller  
   
   
 Sow a thought, reap an action;  
