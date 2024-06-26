@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
 
+Fruit doesn't save but salvation is fruitful.  
+  
+  
 Sow a thought, reap an action;  
 Sow an action, reap a habit;
 Sow a habit, reap a character;
