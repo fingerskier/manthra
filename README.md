@@ -1,6 +1,12 @@
 # Manthra
 `considerable careful crafty compositions`  
   
+
+Sow a thought, reap an action;  
+Sow an action, reap a habit;
+Sow a habit, reap a character;
+Sow a character, reap a destiny.
+
   
 Good judgment comes from experience; experience comes from bad judgment.  
   
