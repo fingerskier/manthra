@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
 
+A man's wife is his faithful looking glass.  
+  General Gordon of Cartoum  
+
+  
 We are not saved by fruit, but by faith;
 but not by fruitless faith.  
   Tim Keller  
