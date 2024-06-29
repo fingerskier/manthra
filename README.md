@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
 
+A shroud has no pockets.  
+
+  
 A man's wife is his faithful looking glass.  
   General Gordon of Cartoum  
 
