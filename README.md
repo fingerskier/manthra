@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
 
+When a wizard is tired of looking for broken glass in his dinner,
+he is tired of life.
+  
+  
 When your outgo exceeds your income your upkeep witll be you downfall.
 
   
