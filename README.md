@@ -1,7 +1,12 @@
 # Manthra
 `considerable careful crafty compositions`  
   
-
+  
+LORD, what we know not, teach us;
+What we have not, give us;
+What we are not, make us.
+  
+  
 When a wizard is tired of looking for broken glass in his dinner,
 he is tired of life.
   
