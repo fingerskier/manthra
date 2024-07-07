@@ -9,7 +9,7 @@ Or the Book will keep us from sin.
 
 You're not a citizn of the world trying to get to heaven,
 you're a citizn of heaven making your way through the world.  
-  D.L. Moody  
+  Vance Havner  
   
   
 LORD, what we know not, teach us;
