@@ -1,5 +1,15 @@
 # Manthra
 `considerable careful crafty compositions`  
+
+  
+Sin will keep us from the Book;
+Or the Book will keep us from sin.
+  D.L. Moody  
+
+
+You're not a citizn of the world trying to get to heaven,
+you're a citizn of heaven making your way through the world.  
+  D.L. Moody  
   
   
 LORD, what we know not, teach us;
