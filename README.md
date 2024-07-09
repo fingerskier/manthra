@@ -1,6 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`  
-
+  
+  
+I've never let schooling get in the way of my education.  
+  Mark Twain  
+  
   
 Sin will keep us from the Book;
 Or the Book will keep us from sin.
