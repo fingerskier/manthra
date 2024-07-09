@@ -2,6 +2,11 @@
 `considerable careful crafty compositions`  
   
   
+It's not a problem to aim high and miss.  
+It is a problem to aim low and hit.  
+  Michaelangelo  
+  
+  
 I've never let schooling get in the way of my education.  
   Mark Twain  
   
