@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
   
+People with siblings have better survival skills because they are experienced in physical combat, psychological warfare, and sensing suspicious activity.  
+  
+  
 It's not a problem to aim high and miss.  
 It is a problem to aim low and hit.  
   Michaelangelo  
