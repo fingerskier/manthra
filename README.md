@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+Deeds will not be less valiant because they are unpraised.  
+  J.R.R. Tolkien  
+  
+  
 People with siblings have better survival skills because they are experienced in physical combat, psychological warfare, and sensing suspicious activity.  
   
   
