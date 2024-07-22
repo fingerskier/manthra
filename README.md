@@ -2,6 +2,13 @@
 `considerable careful crafty compositions`  
   
   
+The secret is there is no secret.
+Consistency over intensity;
+Progress over perfection;
+Fundamentals over fads.
+Over and over again.
+  
+  
 Deeds will not be less valiant because they are unpraised.  
   J.R.R. Tolkien  
   
