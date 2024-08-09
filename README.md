@@ -1,6 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`  
   
+
+No pain no stimulus, no rest no gain.  
+  M.Currier  
+
   
 The secret is there is no secret.
 Consistency over intensity;
