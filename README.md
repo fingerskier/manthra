@@ -1,10 +1,14 @@
 # Manthra
 `considerable careful crafty compositions`  
   
-
+  
+I sat with my anger long enough until she told me her real name was grief.  
+  C.S. Lewis  
+  
+  
 No pain no stimulus, no rest no gain.  
   M.Currier  
-
+  
   
 The secret is there is no secret.
 Consistency over intensity;
