@@ -2,6 +2,11 @@
 `considerable careful crafty compositions`  
   
   
+You must know your Peter and your Judas;
+  Peter has a bad day, Judas had a bad heart; 
+  Judas you release, Peter you restore. 
+  
+  
 I sat with my anger long enough until she told me her real name was grief.  
   C.S. Lewis  
   
