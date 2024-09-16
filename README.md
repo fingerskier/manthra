@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+A sneer is not an argument.  
+  Jay Wesley Richards  
+  
+  
 You must know your Peter and your Judas;
   Peter has a bad day, Judas had a bad heart; 
   Judas you release, Peter you restore. 
