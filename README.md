@@ -92,6 +92,10 @@ Courage is not a virtue,
 but is the form of a virtue being tested.  
   
   
+Before is the soul of lingerie.  
+  Dorothy Parker  
+  
+  
 Prairie causes you to work not on what you like, but on what you'd like to like.  
   Paul Graham  
   
