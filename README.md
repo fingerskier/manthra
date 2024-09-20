@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+The world will never starve for want of wonders; but only for want of wonder.
+  G.K. Chesterton  
+  
+  
 A sneer is not an argument.  
   Jay Wesley Richards  
   
