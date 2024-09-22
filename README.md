@@ -2,6 +2,14 @@
 `considerable careful crafty compositions`  
   
   
+Contrast is the mother of clarity.
+  Oz Guinness  
+  
+  
+The doors of hell are locked on the inside.
+  C.S. Lewis  
+  
+  
 The world will never starve for want of wonders; but only for want of wonder.
   G.K. Chesterton  
   
