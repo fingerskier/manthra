@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
   
+Preach the Gospel at all times.  Use words if necessary.  
+  
+  
 Contrast is the mother of clarity.
   Oz Guinness  
   
