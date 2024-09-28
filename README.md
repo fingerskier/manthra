@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
   
+Faith is a recipe from God and you are the secret ingredient.  
+  
+  
 Encountering the gospel is like getting hit by an 18 wheeler- you're gonna be different.  
   
   
