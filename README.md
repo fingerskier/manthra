@@ -2,6 +2,12 @@
 `considerable careful crafty compositions`  
   
   
+Encountering the gospel is like getting hit by an 18 wheeler- you're gonna be different.  
+  
+  
+One of Jesus' greatest miracles was having 12 friends by the age of 30.  
+  
+  
 Preach the Gospel at all times.  Use words if necessary.  
   
   
