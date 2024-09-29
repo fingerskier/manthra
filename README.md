@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
   
+Not choosing is choosing the negative.  
+  
+  
 Faith is a recipe from God and you are the secret ingredient.  
   
   
