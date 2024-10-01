@@ -2,6 +2,11 @@
 `considerable careful crafty compositions`  
   
   
+While most of us go through life afraid that people will think too little of us,
+[the apostle] Paul went through life afraid people would think too much of him.  
+  D. A. Carson  
+  
+  
 Not choosing is choosing the not.  
   
   
@@ -17,11 +22,11 @@ One of Jesus' greatest miracles was having 12 friends by the age of 30.
 Preach the Gospel at all times.  Use words if necessary.  
   
   
-Contrast is the mother of clarity.
+Contrast is the mother of clarity.  
   Oz Guinness  
   
   
-The doors of hell are locked on the inside.
+The doors of hell are locked on the inside.  
   C.S. Lewis  
   
   
