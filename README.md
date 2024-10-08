@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+That is the law according to the rules.  
+  Dwight Schrute  
+  
+  
 While most of us go through life afraid that people will think too little of us,
 [the apostle] Paul went through life afraid people would think too much of him.  
   D. A. Carson  
