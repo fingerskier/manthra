@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
   
+If Life Gets Too Hard To Stand, Kneel.  
+  Gordon B. Hinckley  
+
 That is the law according to the rules.  
   Dwight Schrute  
   
