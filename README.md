@@ -124,7 +124,11 @@ Sow a thought, reap an action;
 Sow an action, reap a habit;
 Sow a habit, reap a character;
 Sow a character, reap a destiny.
+  
 
+Whenever I'm about to do something I think, "Would an idiot do that?" and if they would _I do not do that thing_.  
+  Dwight Schrute  
+  
   
 Good judgment comes from experience; experience comes from bad judgment.  
   
@@ -237,6 +241,11 @@ but because by it I see everything else.
   
 You have been chosen, and you must therefore use such strength and heart and wits as you have.  
   J.R.R. Tolkien  
+  
+  
+I'm all about loyalty- in fact, part of what I'm being paid for is my loyalty.
+But if there were somewhere else that values loyalty more highly, I'm going wherever they value loyalty the most.  
+  Dwight Schrute  
   
   
 Don't interrupt your enemy while they are making mistakes.  
