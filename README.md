@@ -2,9 +2,14 @@
 `considerable careful crafty compositions`  
   
   
-If Life Gets Too Hard To Stand, Kneel.  
+We should have more reverence for Scripture than to allow ourselves to transfigure its sense so freely.  
+  John Calvin  
+  
+  
+If life gets too hard to stand, kneel.  
   Gordon B. Hinckley  
 
+  
 That is the law according to the rules.  
   Dwight Schrute  
   
