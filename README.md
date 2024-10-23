@@ -6,6 +6,10 @@ We should have more reverence for Scripture than to allow ourselves to transfigu
   John Calvin  
   
   
+You don't get stronger in the gym, 
+you get stronger because of the gym.  
+  
+  
 If life gets too hard to stand, kneel.  
   Gordon B. Hinckley  
 
