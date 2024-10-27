@@ -1,6 +1,9 @@
 # Manthra
 `considerable careful crafty compositions`  
   
+
+Confidence is the food of the wise but the liquor of fools.  
+
   
 We should have more reverence for Scripture than to allow ourselves to transfigure its sense so freely.  
   John Calvin  
