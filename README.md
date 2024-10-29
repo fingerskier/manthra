@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
 
+The mark of a trained mind is the ability to entertain ideas without accepting them.  
+  Aritstotle  
+  
+  
 Confidence is the food of the wise but the liquor of fools.  
 
   
