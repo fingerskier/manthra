@@ -1,7 +1,12 @@
 # Manthra
 `considerable careful crafty compositions`  
   
-
+  
+Young conservatives have no heart, 
+old liberals have no brain.  
+  WBC  
+  
+  
 The mark of a trained mind is the ability to entertain ideas without accepting them.  
   Aritstotle  
   
