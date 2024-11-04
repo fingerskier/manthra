@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
 
+Whoever, therefore, thinks that he understands the Holy Scriptures, or any part of them, but puts such an interpretation upon them as does not tend to build up this twofold love of God and our neighbor, does not yet understand them as he ought.  
+  Augustine  
+  
+  
 Medicine is the art of amusing the patient while nature heals the injury.  
   Voltaire  
   
