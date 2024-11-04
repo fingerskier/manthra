@@ -1,6 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`  
   
+
+Medicine is the art of amusing the patient while nature heals the injury.  
+  Voltaire  
+  
   
 Young conservatives have no heart, 
 old liberals have no brain.  
