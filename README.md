@@ -1,7 +1,11 @@
 # Manthra
 `considerable careful crafty compositions`  
   
+  
+Art without a transcendental nature always seems less primitive.  
+  @  
 
+  
 Whoever, therefore, thinks that he understands the Holy Scriptures, or any part of them, but puts such an interpretation upon them as does not tend to build up this twofold love of God and our neighbor, does not yet understand them as he ought.  
   Augustine  
   
@@ -84,7 +88,7 @@ I sat with my anger long enough until she told me her real name was grief.
   
   
 No pain no stimulus, no rest no gain.  
-  M.Currier  
+  @  
   
   
 The secret is there is no secret.
@@ -217,7 +221,7 @@ The greatest weapon against stress is our ability to choose one thought over ano
   
 One thing about being on the precipice:
 the next step is very clear.  
-  M. Currier  
+  @  
   
   
 Everything in moderation including moderation.  
@@ -540,7 +544,7 @@ If we cannot understand that language, we will be doomed to wander about as if i
   
   
 Providence is the belief that all of history has been orchestrated to bring you into the presence of God at this very moment- and that every human can claim this.  
-  M. Currier  
+  @  
   
   
 Give us one free miracle and we'll explain the rest.  
@@ -778,7 +782,7 @@ Don't pretend to be what you're not, instead, pretend to what you want to be, it
   
   
 You can tell all you need to know about a man's character by how he speaks to his children and how his wife speaks to him.  
-  M. Currier    
+  @    
   
   
 The goal of a narcissist is to attain moral virtue without undergoing any of the suffering necessary to attain it.  
@@ -818,12 +822,12 @@ As wel, certin leters, like 'c' and 'y', have multyple fonymz wich mace them uny
 Also, cyrtn condz, like 'th' and 'sh', can be ynferd witot te xtra lytr.
 I kanot fathym a mor frynytic kakofony of grafymc tan tyz,
 To a cyrtin potry yxysts yn yts complyxty- arysng and rysydyng yn ty mynd of bot atr an redr.  
-  M.Currier    
+  @    
   
   
 One shan't rely on the written word alone:
 If you read read as read instead of read your to-do becomes done without doing.
-  M.Currier    
+  @    
   
   
 The problem with quotes found on the Internet
@@ -873,11 +877,11 @@ you know you're doing something wrong.
   
 Compliance is doing what another wants,
 Submission is making their wants your own.  
-  M.Currier  
+  @  
   
   
 Bad leadership is unbiblical.  
-  M.Currier  
+  @  
   
   
 Don't fight unless you have to.
@@ -888,7 +892,7 @@ Don’t wear yourself out wrestling with a pig.
 You just get muddy and the pig likes it.  
   
   
-  All science is either physics or stamp collecting.  
+All science is either physics or stamp collecting.  
   Ernest Rutherford    
   
   
@@ -955,7 +959,7 @@ All three are entirely necessary.
   
   
 If you don't have friends who are not like you then you're in trouble.  
-  M. Currier  
+  @  
   
   
 To know that we know what we know, and that we do not know what we do not know, that is true knowledge.  
@@ -1086,7 +1090,7 @@ Whether you think you're good enough or not you're right.
   
   
 Leadership itself is amoral; its outcome depends on the heart of the leader.  
-  M.Currier  
+  @  
   
   
 Perfer et obdura, dolor hic tibi proderit olim.  
@@ -1095,7 +1099,7 @@ Be patient and tough; this pain will help you someday.
   
   
 A sample size of you is not a population.  
-  Matthew Currier  
+  @  
   
   
 God doesn't worry when we struggle with sin; He worries when we stop.  
@@ -1787,7 +1791,7 @@ When a programming language is created that allows programmers to program in sim
   
 Perfectly written code is self-documenting.
 Which is why all code should contain comments.  
-  M.Currier  
+  @  
   
   
 He who asks is a fool for five minutes; he who does not ask remains a fool forever.  
