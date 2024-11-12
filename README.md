@@ -1,6 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`  
   
+
+Jesus taught 1st century Jews; any relevance of that ot us must start with them.  
+  @  
+
   
 Art without a transcendental nature always seems less primitive.  
   @  
