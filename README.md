@@ -2,9 +2,13 @@
 `considerable careful crafty compositions`  
   
 
-Jesus taught 1st century Jews; any relevance of that ot us must start with them.  
+Jesus taught 1st century Jews; any relevance of that to us must start with them.  
   @  
-
+  
+  
+A great, a good, and a right mind is a kind of divinity lodged in flesh, and may be the blessing of a slave as well as of a prince.  
+  Seneca the Younger  
+  
   
 Art without a transcendental nature always seems less primitive.  
   @  
