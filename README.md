@@ -1,7 +1,11 @@
 # Manthra
 `considerable careful crafty compositions`  
   
-
+  
+It’s such a fine line between stupid and clever.  
+  David St. Hubbins  
+  
+  
 Jesus taught 1st century Jews; any relevance of that to us must start with them.  
   @  
   
