@@ -2,6 +2,11 @@
 `considerable careful crafty compositions`  
   
   
+When you board the wrong train,
+ it didn't do any good to run the opposite direction.  
+  Dietrich Bonhoeffer 
+  
+  
 It’s such a fine line between stupid and clever.  
   David St. Hubbins  
   
