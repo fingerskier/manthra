@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
   
+Humility is the ladder from which all else is grasped.  
+  
+  
 When you board the wrong train,
  it didn't do any good to run the opposite direction.  
   Dietrich Bonhoeffer 
