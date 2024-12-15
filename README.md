@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+The Lord delights to hang great weights on apparently slender wires.
+  Jowett  
+  
+  
 Humility is the ladder from which all else is grasped.  
   
   
