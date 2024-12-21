@@ -1,6 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`  
   
+
+They who have put out the people's eyes reproach them of their blindness.  
+  John Milton  
+  
   
 The Lord delights to hang great weights on apparently slender wires.
   Jowett  
