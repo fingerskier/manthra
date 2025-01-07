@@ -1,7 +1,17 @@
 # Manthra
 `considerable careful crafty compositions`  
   
-
+  
+For His so lived the word that He did not send a committee.  
+  2 Hesitations 5:6  
+  
+  
+I finally figured out what's wrong with my brain: 
+  there's nothing right on the left side, 
+  and morning left on the right side.  
+  A.Currier  
+  
+  
 They who have put out the people's eyes reproach them of their blindness.  
   John Milton  
   
