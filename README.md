@@ -7,7 +7,7 @@ The goalie always makes the last mistake.
   
   
 The person who doesn't read had no advantage over the person who can't.  
-  unk  
+  Mark Twain  
   
   
 For God so loved the wordi that He did not send a committee.  
