@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+The person who doesn't read had no advantage over the person who can't.  
+  unk  
+  
+  
 For His so lived the word that He did not send a committee.  
   2 Hesitations 5:6  
   
