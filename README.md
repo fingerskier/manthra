@@ -32,8 +32,8 @@ Humility is the ladder from which all else is grasped.
   
   
 When you board the wrong train,
- it didn't do any good to run the opposite direction.  
-  Dietrich Bonhoeffer 
+ it doesn't do any good to run the opposite direction.  
+  Dietrich Bonhoeffer  
   
   
 It’s such a fine line between stupid and clever.  
@@ -50,7 +50,7 @@ A great, a good, and a right mind is a kind of divinity lodged in flesh, and may
   
 Art without a transcendental nature always seems less primitive.  
   @  
-
+  
   
 Whoever, therefore, thinks that he understands the Holy Scriptures, or any part of them, but puts such an interpretation upon them as does not tend to build up this twofold love of God and our neighbor, does not yet understand them as he ought.  
   Augustine  
@@ -274,7 +274,7 @@ Everything in moderation including moderation.
   Socrates  
   
   
-Don't wait for miracles.
+Don't wait for miracles.  
 Your whole life is a miracle.  
   Albert Einstein  
   
@@ -290,7 +290,7 @@ A rut is a grave with the ends kicked out.
 I sense a trap.  
 Next move?  
 Spring the trap.  
-  Obi-Wan Kenobi 
+  Obi-Wan Kenobi  
   
   
 In in response to a book written by 100 critics, "if I were wrong it would only take one."  
@@ -302,7 +302,7 @@ act like you've been there before.
   Vince Lombardi  
   
   
-Talent hits a target no one else can hit.
+Talent hits a target no one else can hit.  
 Genius hits a target no one else can see.  
   Arthur Schopenhauer  
   
