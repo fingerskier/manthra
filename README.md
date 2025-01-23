@@ -16,7 +16,7 @@ For God so loved the wordi that He did not send a committee.
   
 I finally figured out what's wrong with my brain: 
   there's nothing right on the left side, 
-  and morning left on the right side.  
+  and nothing left on the right side.  
   A.Currier  
   
   
