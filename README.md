@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+Repetition has been accepted as a substitute for evidence.  
+  Thomas Sowell  
+  
+  
 The goalie always makes the last mistake.  
   JY  
   
