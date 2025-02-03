@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
   
+No amount of money ever bought a second of time.  
+  
+  
 Repetition has been accepted as a substitute for evidence.  
   Thomas Sowell  
   
