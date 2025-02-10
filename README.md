@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
   
+There are two kinds of pain in this world: pain that hurts and pain that alters.  
+  
+  
 The two most important days in your life are the day you were born and the day you find out why.  
   Mark Twain  
   
