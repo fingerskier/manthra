@@ -1,6 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`  
   
+
+Without craftsmanship inspiration is a mere reed shaken in the wind.  
+  Johannes Brahms  
+
   
 There are two kinds of pain in this world: pain that hurts and pain that alters.  
   
