@@ -1,7 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`  
   
-
+  
+Intelligence is the creature's ability to use what wits it has.  
+  
+  
 Without craftsmanship inspiration is a mere reed shaken in the wind.  
   Johannes Brahms  
 
