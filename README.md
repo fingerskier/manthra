@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+Tolerance will reach such a level that intelligent people will be banned from thinking so as not to offend imbeciles.  
+  Dostoievski  
+  
+  
 Intelligence is the creature's ability to use what wits it has.  
   
   
