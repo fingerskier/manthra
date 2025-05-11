@@ -1,4 +1,4 @@
-A bird was flying when a student cold storm came up and froze it's wings. 
+A bird was flying when a sudden cold storm came up and froze it's wings. 
 It fell to the ground.
 Along came a cow who pooped on the bird.
 The poop thawed the bird and kept it warm. 
