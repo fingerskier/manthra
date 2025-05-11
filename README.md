@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
   
+I love synonym rolls, just like grammar used to make.  
+  
+  
 Tolerance will reach such a level that intelligent people will be banned from thinking so as not to offend imbeciles.  
   Dostoievski  
   
