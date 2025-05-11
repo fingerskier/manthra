@@ -9,8 +9,7 @@ These people are risking there lives for us.
 What do you think they're doing out there ... protecting and defending secrecy! 
 That's the world of Mao and Stalin and secret police, secret trials, secret deaths. 
 
-  You force the press into the cold and all you will get is lies and innuendo and nothing. 
-Nothing is worse for a free society than a press that is in service to the military and the politicians. 
+  You force the press into the cold and all you will get is lies and innuendo and nothing- nothing- is worse for a free society than a press that is in service to the military and the politicians. 
 Nothing. 
 
   You turn that camera off when I tell you to turn it off. 
