@@ -2,7 +2,6 @@
 
 500 million Europeans are asking 300 million Americans to protect them from 140 million Russians.
 Meanwhile, 1 billion Muslims are seeking the repression of 10 million Jews.
-
 Wars are not fought to regain peace, not even for resources;
 but to prop up power centers. 
 
