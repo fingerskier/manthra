@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
   
+I can explain it to you but I can't understand it for you.  
+  
+  
 I love synonym rolls, just like grammar used to make.  
   
   
