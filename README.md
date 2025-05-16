@@ -1,6 +1,9 @@
 # Manthra
 `considerable careful crafty compositions`  
   
+
+I'm only lazy when I have to be.  
+  
   
 I can explain it to you but I can't understand it for you.  
   
