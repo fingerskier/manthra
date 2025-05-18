@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
 
+You're either following someone or you're following anyone.  
+  
+  
 I'm only lazy when I have to be.  
   
   
