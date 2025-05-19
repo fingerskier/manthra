@@ -1,7 +1,12 @@
 # Manthra
 `considerable careful crafty compositions`  
   
-
+  
+The answer to the question, "can machines can think?" is the same as the answer to "can submarines can swim?"  
+  
+  
+You blame a final symbolism as the root of your difficulties.  
+  
 You're either following someone or you're following anyone.  
   
   
