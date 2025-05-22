@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+We must daily make a raid on the inarticulate.  
+  T.S. Eliot  
+  
+  
 The answer to the question, "can machines can think?" is the same as the answer to "can submarines can swim?"  
   
   
