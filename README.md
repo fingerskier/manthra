@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
   
+Submission doesn't mean one person wears the crown while the other carries the cross.  
+  
+  
 We must daily make a raid on the inarticulate.  
   T.S. Eliot  
   
