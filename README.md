@@ -2,7 +2,8 @@
 `considerable careful crafty compositions`  
   
   
-Submission doesn't mean one person wears the crown while the other carries the cross.  
+No battle plan survives first contact.  
+  Helmuth von Moltke  
   
   
 We must daily make a raid on the inarticulate.  
