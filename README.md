@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
   
+Magic is science we don't understand.  
+  
+  
 No battle plan survives first contact.  
   Helmuth von Moltke  
   
