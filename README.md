@@ -1,6 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`  
   
+
+Some people, when you give them enough rope, they make a lasso;
+other people, they make a noose.  
+  
   
 Magic is science we don't understand.  
   
