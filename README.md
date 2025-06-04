@@ -1,7 +1,11 @@
 # Manthra
 `considerable careful crafty compositions`  
   
-
+  
+If you're asked to be a hero, be a hero;
+If you're not asked to be a hero, be a hero.  
+  
+  
 Some people, when you give them enough rope, they make a lasso;
 other people, they make a noose.  
   
