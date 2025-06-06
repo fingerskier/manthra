@@ -2,6 +2,11 @@
 `considerable careful crafty compositions`  
   
   
+History ended 50 years ago.
+Everything since then is politics.  
+  W.Currier  
+  
+  
 If you're asked to be a hero, be a hero;
 If you're not asked to be a hero, be a hero.  
   
