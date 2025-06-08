@@ -3,6 +3,7 @@
   
   
 The ground is even at the foot of the cross.  
+  N.T. Wright  
   
   
 History ended 50 years ago.
