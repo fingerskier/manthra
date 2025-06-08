@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
   
+The ground is even at the foot of the cross.  
+  
+  
 History ended 50 years ago.
 Everything since then is politics.  
   W.Currier  
