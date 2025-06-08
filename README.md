@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
   
+Storms reveal how skilled a sailor you are.  
+  
+  
 The ground is even at the foot of the cross.  
   N.T. Wright  
   
