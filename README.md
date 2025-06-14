@@ -1921,3 +1921,4 @@ He who asks is a fool for five minutes; he who does not ask remains a fool forev
   
   
 Life is painted on too big a canvas.  
+  
