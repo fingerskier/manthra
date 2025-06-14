@@ -4,8 +4,8 @@
   
 Intellect is not the amount of knowledge created
 but the percent of possible creations that weren't...
-
-
+  
+  
 Storms reveal how skilled a sailor you are.  
   
   
