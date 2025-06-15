@@ -1,5 +1,8 @@
-import { useState, useMemo } from 'react'
+import { useEffect, useState } from 'react'
 import quotesData from './quotes'
+import fuzzy from 'fuzzy'
+
+import style from './Quotes.module.css'
 
 declare global {
   interface Window {
@@ -14,35 +17,43 @@ interface Quote {
   tag: string[]
 }
 
+
 function QuotesList() {
   const [quotes, setQuotes] = useState<Quote[]>(quotesData as Quote[])
   const [search, setSearch] = useState('')
   const [editIndex, setEditIndex] = useState<number | null>(null)
   const [edited, setEdited] = useState(false)
+  const [filtered, setFiltered] = useState<Quote[]>(quotes)
 
-  const filtered = useMemo(() => {
-    const term = search.toLowerCase()
-    if (!term) return quotes
-    return quotes.filter((q) =>
-      q.text.toLowerCase().includes(term) ||
-      (q.author ?? '').toLowerCase().includes(term) ||
-      q.tag.some((t) => t.toLowerCase().includes(term))
-    )
-  }, [search, quotes])
+  const [text, setText] = useState('')
+  const [author, setAuthor] = useState('')
+  const [tags, setTags] = useState('')
 
-  const handleChange = (index: number, field: keyof Quote, value: string) => {
+
+  const handleChange = () => {
+    if (editIndex === null) return
     setQuotes((qs) => {
       const newQuotes = [...qs]
-      newQuotes[index] = {
-        ...newQuotes[index],
-        [field]: field === 'tag'
-          ? value.split(/\s+/).filter(Boolean)
-          : value,
+      newQuotes[editIndex] = {
+        ...newQuotes[editIndex],
+        text,
+        author,
+        tag: tags.split(/\s+/).filter(Boolean),
       }
       return newQuotes
     })
     setEdited(true)
+    setEditIndex(null)
   }
+
+
+  const handleEditMode = (index: number) => ()=>{
+    setEditIndex(index)
+    setText(quotes[index].text)
+    setAuthor(quotes[index].author ?? '')
+    setTags(quotes[index].tag.join(' '))
+  }
+
 
   const saveFile = async () => {
     const content = `const quotes = ${JSON.stringify(quotes, null, 2)}\nexport default quotes\n`
@@ -80,53 +91,66 @@ function QuotesList() {
     setEdited(false)
   }
 
-  return (
-    <div>
-      <input
-        placeholder="search"
-        value={search}
-        onChange={(e) => setSearch(e.target.value)}
-        style={{ marginBottom: '1rem' }}
-      />
-      {edited && <button onClick={saveFile}>Save</button>}
+
+  useEffect(() => {
+    const results = fuzzy.filter(search, quotes, {
+      extract: (q) => q.text + (q.author ?? '') + q.tag.join(' '),
+    })
+    setFiltered(results.map((r) => r.original))
+  }, [search, quotes])
+
+
+  return <>
+    <input
+      placeholder="search"
+      value={search}
+      onChange={(e) => setSearch(e.target.value)}
+      style={{ marginBottom: '1rem' }}
+    />
+    
+    {edited && <button onClick={saveFile}>Save</button>}
+
+    <div className={style.quotes}>
       {filtered.map((q, i) => (
         <div key={i} style={{ marginBottom: '1rem' }}>
           {editIndex === i ? (
             <div>
               <textarea
-                value={q.text}
-                onChange={(e) => handleChange(i, 'text', e.target.value)}
+                value={text}
+                onChange={(e) => setText(e.target.value)}
                 placeholder="quote"
                 rows={3}
                 style={{ width: '100%' }}
               />
               <input
-                value={q.author ?? ''}
-                onChange={(e) => handleChange(i, 'author', e.target.value)}
+                value={author}
+                onChange={(e) => setAuthor(e.target.value)}
                 placeholder="author"
                 style={{ width: '100%' }}
               />
               <input
                 placeholder="tags"
-                value={q.tag.join(' ')}
-                onChange={(e) => handleChange(i, 'tag', e.target.value)}
+                value={tags}
+                onChange={(e) => setTags(e.target.value)}
                 style={{ width: '100%' }}
               />
-              <button onClick={() => setEditIndex(null)}>done</button>
+              <button onClick={handleChange}>done</button>
             </div>
           ) : (
-            <div onDoubleClick={() => setEditIndex(i)}>
+            <div onDoubleClick={handleEditMode(i)} className={style.quote}>
               <div>{q.text}</div>
               {q.author && (
-                <div style={{ fontStyle: 'italic' }}>- {q.author}</div>
+                <span className={style.author} style={{ fontStyle: 'italic' }}>
+                  {q.author}
+                </span>
               )}
-              {q.tag.length > 0 && <div>tags: {q.tag.join(' ')}</div>}
+              {/* {q.tag.length > 0 && <div>tags: {q.tag.join(' ')}</div>} */}
             </div>
           )}
         </div>
       ))}
     </div>
-  )
+  </>
 }
 
 export default QuotesList

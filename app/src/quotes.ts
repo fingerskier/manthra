@@ -1,12 +1,12 @@
 const quotes = [
   {
-    "text": "Intellect is not the amount of knowledge created\nbut the percent of possible creations that weren't...",
-    "author": null,
+    "text": "Intellect is not the amount of knowledge created\nbut the percent of possibilities that weren't.",
+    "author": "",
     "tag": []
   },
   {
     "text": "Storms reveal how skilled a sailor you are.",
-    "author": null,
+    "author": "",
     "tag": []
   },
   {
@@ -25,7 +25,7 @@ const quotes = [
     "tag": []
   },
   {
-    "text": "Some people, when you give them enough rope, they make a lasso;\nother people, they make a noose.",
+    "text": "Some people, when you give them enough rope make a lasso;\nother people make a noose.",
     "author": null,
     "tag": []
   },
@@ -150,7 +150,7 @@ const quotes = [
     "tag": []
   },
   {
-    "text": "It\u2019s such a fine line between stupid and clever.",
+    "text": "It’s such a fine line between stupid and clever.",
     "author": "David St. Hubbins",
     "tag": []
   },
@@ -555,8 +555,8 @@ const quotes = [
     "tag": []
   },
   {
-    "text": "First they came for the socialists, and I did not speak out\u2014 because I was not a socialist.\nThen they came for the trade unionists, and I did not speak out\u2014 because I was not a trade unionist.\nThen they came for the Jews, and I did not speak out\u2014because I was not a Jew.\nThen they came for me\u2014and there was no one left to speak for me.",
-    "author": "Martin Niem\u00f6ller",
+    "text": "First they came for the socialists, and I did not speak out— because I was not a socialist.\nThen they came for the trade unionists, and I did not speak out— because I was not a trade unionist.\nThen they came for the Jews, and I did not speak out—because I was not a Jew.\nThen they came for me—and there was no one left to speak for me.",
+    "author": "Martin Niemöller",
     "tag": []
   },
   {
@@ -620,7 +620,7 @@ const quotes = [
     "tag": []
   },
   {
-    "text": "Sometimes ideas just come to me.\nOther times I have to sweat and almost bleed to make ideas come.\nIt\u2019s a mysterious process, but I hope I never find out exactly how it works.",
+    "text": "Sometimes ideas just come to me.\nOther times I have to sweat and almost bleed to make ideas come.\nIt’s a mysterious process, but I hope I never find out exactly how it works.",
     "author": "J.K. Rowling",
     "tag": []
   },
@@ -666,7 +666,7 @@ const quotes = [
   },
   {
     "text": "War is a place where\nyoung people who don't know each other and don't hate each other\nkill each other\nbased on decisions made by old people who know each other and hate each other\nbut don't kill each other.",
-    "author": "Paul Val\u00e9ry",
+    "author": "Paul Valéry",
     "tag": []
   },
   {
@@ -690,7 +690,7 @@ const quotes = [
     "tag": []
   },
   {
-    "text": "The United States had become a place where entertainers and professional athletes were mistaken for people of importance.\nThey were idolized and treated as leaders; their opinions were sought on everything and they took themselves just as seriously\u2014\nafter all, if an athlete is paid a million or more a year, he knows he is important\u2026\nso his opinions of foreign affairs and domestic policies must be important, too, even though he proves himself to be both ignorant and subliterate every time he opens his mouth.\n(Most of his fans were just as ignorant and unlettered; the disease was spreading.)",
+    "text": "The United States had become a place where entertainers and professional athletes were mistaken for people of importance.\nThey were idolized and treated as leaders; their opinions were sought on everything and they took themselves just as seriously—\nafter all, if an athlete is paid a million or more a year, he knows he is important…\nso his opinions of foreign affairs and domestic policies must be important, too, even though he proves himself to be both ignorant and subliterate every time he opens his mouth.\n(Most of his fans were just as ignorant and unlettered; the disease was spreading.)",
     "author": "Robert A. Heinlein - To Sail Beyond the Sunset 1987",
     "tag": []
   },
@@ -780,7 +780,7 @@ const quotes = [
     "tag": []
   },
   {
-    "text": "Nature is a book written in \u201cthe language of mathematics\u201d.\nIf we cannot understand that language, we will be doomed to wander about as if in a dark labyrinth.",
+    "text": "Nature is a book written in “the language of mathematics”.\nIf we cannot understand that language, we will be doomed to wander about as if in a dark labyrinth.",
     "author": "Galileo Galilei",
     "tag": []
   },
@@ -1075,7 +1075,7 @@ const quotes = [
     "tag": []
   },
   {
-    "text": "A lie doesn\u2019t become truth,\nwrong doesn\u2019t become right\nand evil doesn\u2019t become good\njust because it\u2019s accepted by a majority.",
+    "text": "A lie doesn’t become truth,\nwrong doesn’t become right\nand evil doesn’t become good\njust because it’s accepted by a majority.",
     "author": "Booker T. Washington.",
     "tag": []
   },
@@ -1165,7 +1165,7 @@ const quotes = [
     "tag": []
   },
   {
-    "text": "Don\u2019t wear yourself out wrestling with a pig.\nYou just get muddy and the pig likes it.",
+    "text": "Don’t wear yourself out wrestling with a pig.\nYou just get muddy and the pig likes it.",
     "author": null,
     "tag": []
   },
@@ -1185,7 +1185,7 @@ const quotes = [
     "tag": []
   },
   {
-    "text": "If God wants to teach you peace,\nhe\u2019ll put you in chaos.\nIf God wants you to learn love,\nhe\u2019ll put you around an unlovely person.",
+    "text": "If God wants to teach you peace,\nhe’ll put you in chaos.\nIf God wants you to learn love,\nhe’ll put you around an unlovely person.",
     "author": "Rick Warren",
     "tag": []
   },
@@ -1245,7 +1245,7 @@ const quotes = [
     "tag": []
   },
   {
-    "text": "Life contains but two tragedies.\nOne is not to get your heart\u2019s desire;\nthe other is to get it.",
+    "text": "Life contains but two tragedies.\nOne is not to get your heart’s desire;\nthe other is to get it.",
     "author": "George Bernard Shaw",
     "tag": []
   },
@@ -1310,7 +1310,7 @@ const quotes = [
     "tag": []
   },
   {
-    "text": "It is said that when Wesley and Whitefield were at odds on theology and ecclesiastical matters,\none of Wesley\u2019s adherents asked him,\n\u201cDo you think we shall see Mr. Whitefield in heaven?\u201d\n\u201cNo,\u201d he answered, \u201cI do not.\nI think he will be so near the Throne, and you and I so far away,\nthat we shall not get within sight of him.\u201d",
+    "text": "It is said that when Wesley and Whitefield were at odds on theology and ecclesiastical matters,\none of Wesley’s adherents asked him,\n“Do you think we shall see Mr. Whitefield in heaven?”\n“No,” he answered, “I do not.\nI think he will be so near the Throne, and you and I so far away,\nthat we shall not get within sight of him.”",
     "author": "G. B. Wilcox",
     "tag": []
   },
@@ -1405,7 +1405,7 @@ const quotes = [
     "tag": []
   },
   {
-    "text": "Mon centre c\u00e8de, ma droite recule, situation excellente, j'attaque.",
+    "text": "Mon centre cède, ma droite recule, situation excellente, j'attaque.",
     "author": "Ferdinand Foch",
     "tag": []
   },
@@ -1465,7 +1465,7 @@ const quotes = [
     "tag": []
   },
   {
-    "text": "It doesn\u2019t make sense to hire smart people and then tell them what to do; we hire smart people so they can tell us what to do.",
+    "text": "It doesn’t make sense to hire smart people and then tell them what to do; we hire smart people so they can tell us what to do.",
     "author": "Steve Jobs",
     "tag": []
   },
@@ -1600,7 +1600,7 @@ const quotes = [
     "tag": []
   },
   {
-    "text": "Some have at first for wits, then poets passed,\nTurn\u2019d critics next, and proved plain fools at last.",
+    "text": "Some have at first for wits, then poets passed,\nTurn’d critics next, and proved plain fools at last.",
     "author": "C.S. Lewis",
     "tag": []
   },
@@ -2070,7 +2070,7 @@ const quotes = [
     "tag": []
   },
   {
-    "text": "\u1f66 \u03be\u03b5\u1fd6\u03bd', \u1f00\u03b3\u03b3\u03ad\u03bb\u03bb\u03b5\u03b9\u03bd \u039b\u03b1\u03ba\u03b5\u03b4\u03b1\u03b9\u03bc\u03bf\u03bd\u03af\u03bf\u03b9\u03c2 \u1f45\u03c4\u03b9 \u03c4\u1fc7\u03b4\u03b5 \u03ba\u03b5\u03af\u03bc\u03b5\u03b8\u03b1 \u03c4\u03bf\u1fd6\u03c2 \u03ba\u03b5\u03af\u03bd\u03c9\u03bd \u1fe5\u03ae\u03bc\u03b1\u03c3\u03b9 \u03c0\u03b5\u03b9\u03b8\u03cc\u03bc\u03b5\u03bd\u03bf\u03b9.",
+    "text": "ὦ ξεῖν', ἀγγέλλειν Λακεδαιμονίοις ὅτι τῇδε κείμεθα τοῖς κείνων ῥήμασι πειθόμενοι.",
     "author": "the Cenotaph of Thermopylae",
     "tag": []
   },
@@ -2130,7 +2130,7 @@ const quotes = [
     "tag": []
   },
   {
-    "text": "If there is any one secret of success, it lies in the ability to get the other person\u2019s point of view and see things from that person\u2019s angle as well as from your own.",
+    "text": "If there is any one secret of success, it lies in the ability to get the other person’s point of view and see things from that person’s angle as well as from your own.",
     "author": "Henry Ford",
     "tag": []
   },
@@ -2230,6 +2230,4 @@ const quotes = [
     "tag": []
   }
 ]
-
-
 export default quotes
