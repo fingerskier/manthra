@@ -1,4 +1,4 @@
-[
+const quotes = [
   {
     "text": "# Manthra\n`considerable careful crafty compositions`",
     "author": null,
@@ -2235,3 +2235,6 @@
     "tag": []
   }
 ]
+
+
+export default quotes
