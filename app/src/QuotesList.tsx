@@ -26,7 +26,12 @@ function QuotesList() {
   const handleChange = (index: number, field: keyof Quote, value: string) => {
     setQuotes((qs) => {
       const newQuotes = [...qs]
-      newQuotes[index] = { ...newQuotes[index], [field]: value }
+      newQuotes[index] = {
+        ...newQuotes[index],
+        [field]: field === 'tag'
+          ? value.split(/\s+/).filter(Boolean)
+          : value,
+      }
       return newQuotes
     })
     setEdited(true)
@@ -68,12 +73,21 @@ function QuotesList() {
                 onChange={(e) => handleChange(i, 'author', e.target.value)}
                 style={{ width: '100%' }}
               />
+              <input
+                placeholder="tags"
+                value={q.tag.join(' ')}
+                onChange={(e) => handleChange(i, 'tag', e.target.value)}
+                style={{ width: '100%' }}
+              />
               <button onClick={() => setEditIndex(null)}>done</button>
             </div>
           ) : (
             <div onDoubleClick={() => setEditIndex(i)}>
               <div>{q.text}</div>
-              {q.author && <div style={{ fontStyle: 'italic' }}>- {q.author}</div>}
+              {q.author && (
+                <div style={{ fontStyle: 'italic' }}>- {q.author}</div>
+              )}
+              {q.tag.length > 0 && <div>tags: {q.tag.join(' ')}</div>}
             </div>
           )}
         </div>
