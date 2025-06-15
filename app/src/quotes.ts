@@ -1,10 +1,5 @@
 const quotes = [
   {
-    "text": "# Manthra\n`considerable careful crafty compositions`",
-    "author": null,
-    "tag": []
-  },
-  {
     "text": "Intellect is not the amount of knowledge created\nbut the percent of possible creations that weren't...",
     "author": null,
     "tag": []

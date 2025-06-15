@@ -52,6 +52,7 @@ function QuotesList() {
         onChange={(e) => setSearch(e.target.value)}
         style={{ marginBottom: '1rem' }}
       />
+      {edited && <button onClick={saveFile}>Save</button>}
       {filtered.map((q, i) => (
         <div key={i} style={{ marginBottom: '1rem' }}>
           {editIndex === i ? (
@@ -77,7 +78,6 @@ function QuotesList() {
           )}
         </div>
       ))}
-      {edited && <button onClick={saveFile}>Save</button>}
     </div>
   )
 }
