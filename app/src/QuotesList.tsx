@@ -1,6 +1,13 @@
 import { useState, useMemo } from 'react'
 import quotesData from './quotes'
 
+declare global {
+  interface Window {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    showSaveFilePicker?: (options?: any) => Promise<any>
+  }
+}
+
 interface Quote {
   text: string
   author: string | null
@@ -37,8 +44,32 @@ function QuotesList() {
     setEdited(true)
   }
 
-  const saveFile = () => {
+  const saveFile = async () => {
     const content = `const quotes = ${JSON.stringify(quotes, null, 2)}\nexport default quotes\n`
+
+    if ('showSaveFilePicker' in window) {
+      try {
+        const handle = await window.showSaveFilePicker!({
+          suggestedName: 'quotes.js',
+          types: [
+            {
+              description: 'JavaScript Files',
+              accept: { 'application/javascript': ['.js'] },
+            },
+          ],
+        })
+        const writable = await handle.createWritable()
+        await writable.write(content)
+        await writable.close()
+        setEdited(false)
+        return
+      } catch (err: unknown) {
+        if ((err as DOMException)?.name !== 'AbortError') {
+          console.error('Failed to save file', err)
+        }
+      }
+    }
+
     const blob = new Blob([content], { type: 'application/javascript' })
     const url = URL.createObjectURL(blob)
     const a = document.createElement('a')
