@@ -65,12 +65,14 @@ function QuotesList() {
               <textarea
                 value={q.text}
                 onChange={(e) => handleChange(i, 'text', e.target.value)}
+                placeholder="quote"
                 rows={3}
                 style={{ width: '100%' }}
               />
               <input
                 value={q.author ?? ''}
                 onChange={(e) => handleChange(i, 'author', e.target.value)}
+                placeholder="author"
                 style={{ width: '100%' }}
               />
               <input
