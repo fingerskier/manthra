@@ -30,6 +30,27 @@ function QuotesList() {
   const [tags, setTags] = useState('')
 
 
+  const addQuote = ()=>{
+    setQuotes([...quotes, {
+      text: 'new quote',
+      author: 'new author',
+      tag: ['new', 'tag']
+    }])
+    setEditIndex(quotes.length)
+    setText('new quote')
+    setAuthor('new author')
+    setTags('new tag')
+    // scroll to bottom
+    const quotesList = document.querySelector(`.${style.quotes}`)
+    if (quotesList) {
+      quotesList.scrollTo({
+        top: quotesList.scrollHeight,
+        behavior: 'smooth'
+      })
+    }
+  }
+
+
   const handleChange = () => {
     if (editIndex === null) return
     setQuotes((qs) => {
@@ -61,11 +82,11 @@ function QuotesList() {
     if ('showSaveFilePicker' in window) {
       try {
         const handle = await window.showSaveFilePicker!({
-          suggestedName: 'quotes.js',
+          suggestedName: 'quotes.ts',
           types: [
             {
               description: 'JavaScript Files',
-              accept: { 'application/javascript': ['.js'] },
+              accept: { 'application/javascript': ['.ts'] },
             },
           ],
         })
@@ -113,6 +134,8 @@ function QuotesList() {
     />
     
     {edited && <button onClick={saveFile}>Save</button>}
+
+    <button onClick={addQuote}>+</button>
 
     <div className={style.quotes}>
       {filtered.map((q, i) => (
