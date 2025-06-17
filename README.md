@@ -2,8 +2,28 @@
 `considerable careful crafty compositions`  
 
 
+One should never forget that by actually perfecting one piece one gains and learns more than by starting or half-finishing a dozen.
+  Johannes Brahms
+
+
+Fruitless is inspiration without craftsmanship, is intellect without study, is talent without work.
+  Johannes Brahms
+
+
+In my study I can lay my hand on the Bible in the pitch dark. All truly inspired ideas come from God. The powers from which all truly great composers like Mozart, Schubert, Bach and Beethoven drew their inspirations is the same power that enabled Jesus to do his miracles.
+  Johannes Brahms
+
+
+If there is anyone here whom I have not insulted, I beg his pardon.
+  Johannes Brahms
+
+
+some people can read "War and Peace" and come away thinking it's a simple adventure story. Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe.
+  Lex Luthor
+
+
 Intellect is not the amount of knowledge created
-but the percent of possible creations that weren't...
+but the percent of possibilities that weren't.
 
 
 Storms reveal how skilled a sailor you are.
@@ -22,8 +42,8 @@ If you're asked to be a hero, be a hero;
 If you're not asked to be a hero, be a hero.
 
 
-Some people, when you give them enough rope, they make a lasso;
-other people, they make a noose.
+Some people, when you give them enough rope make a lasso;
+other people make a noose.
 
 
 Magic is science we don't understand.
@@ -300,12 +320,20 @@ Prairie causes you to work not on what you like, but on what you'd like to like.
   Paul Graham
 
 
+Those are miracles that no merely human brain can work. The artist is merely the sound conduct of a Force that dictates to him what he should do.
+  Johannes Brahms
+
+
 He is no fool who gives up what he cannot keep to attain that which he cannot lose.
   Jim Elliott
 
 
 There is something about humility that appeals to my ego.
   Augustine
+
+
+My things really are written with an appalling lack of practicality!
+  Johannes Brahms
 
 
 You can easily judge the character of a man by how he treats those who can do nothing for him.
@@ -590,17 +618,17 @@ so his opinions of foreign affairs and domestic policies must be important, too,
   Robert A. Heinlein - To Sail Beyond the Sunset 1987
 
 
-If you want to know who controls you,
-look at who you are not allowed to criticize.
+The only true immortality lies in one's children.
+  Johannes Brahms
 
 
-Never appeal to a man's better nature,
-he may not have one.
+If you want to know who controls you, look at who you are not allowed to criticize.
 
 
-A civilization which leaves so large a number of its participants unsatisfied
-and drives them into revolt
-neither has nor deserves the prospect of a lasting existence.
+Never appeal to a man's better nature, he may not have one.
+
+
+A civilization which leaves so large a number of its participants unsatisfied and drives them into revolt neither has nor deserves the prospect of a lasting existence.
   Sigmund Freud
 
 
@@ -859,6 +887,10 @@ Doubt those who claim they have found it.
 
 How to politely tell someone they're stupid:
 __Wisdom has always been chasing you, but you've always been faster__
+
+
+Those who enjoy their own emotionally bad health and who habitually fill their own minds with the rank poisons of suspicion, jealousy and hatred, as a rule take umbrage at those who refuse to do likewise, and they find a perverted relief in trying to denigrate them.
+  Johannes Brahms
 
 
 Wine tastes sweetest to those in whose trials it was fermented.
@@ -1438,6 +1470,10 @@ Who are the people most opposed to escapism?  Jailors!
 When two partners always agree, one of them is not necessary.
 
 
+The idea comes to me from outside of me - and is like a gift. I then take the idea and make it my own - that is where the skill lies.
+  Johannes Brahms
+
+
 There is a principle which:
 is a bar against all information,
 is a proof against all argument,
@@ -1630,9 +1666,17 @@ To compel a man to furnish contributions of money for the propagation of opinion
   Thomas Jefferson
 
 
+It is not hard to compose, but what is fabulously hard is to leave the superfluous notes under the table.
+  Johannes Brahms
+
+
 I am thus far a Quaker, that I would gladly argue with all the world to lay aside the use of arms and settle matters by negotiation,
 but unless the whole will, the matter ends, and I take up my musket and thank Heaven He has put it in my power.
   Thomas Paine
+
+
+The only way to secure the freedom of a nation is to have a great army in time of peace.
+  Napoleon Bonaparte
 
 
 I am concerned for the security of our great nation, not so much because of any threat from without,
@@ -1656,6 +1700,10 @@ If God does not punish America, He should apologize to Sodom & Gommorrah.
 Democracy is two wolves and a lamb discussing what's for dinner.
 Liberty is a well armed lamb willing to contest the majority decision.
   Benjamin Franklin
+
+
+Reviewer: 'One of your themes was very similar to one of Beethoven's!' Brahms replied, 'Of course it is. Everyone steals - the important thing is to do it brilliantly.
+  Johannes Brahms
 
 
 Every normal man must be tempted at times to spit on his hands, hoist the black flag, and begin to slit throats.
@@ -1917,8 +1965,47 @@ Which is why all code should contain comments.
   @
 
 
+If we cannot write with the beauty of Mozart, let us at least try to write with his purity.
+  Johannes Brahms
+
+
+The best way to learn a new programming language is by writing programs in it.
+
+
 He who asks is a fool for five minutes; he who does not ask remains a fool forever.
 
 
 Life is painted on too big a canvas.
+
+
+If my answers frighten you then you should cease asking scary questions.
+  Quentin Tarantino
+
+
+I don't think there's anything to be afraid of. Failure brings great rewards - in the life of an artist.
+  Quentin Tarantino
+
+
+Just because you are a character doesn't mean you have character.
+  Quentin Tarantino
+
+
+If you want to make a movie, make it. Don't wait for a grant, don't wait for the perfect circumstances, just make it.
+  Quentin Tarantino
+
+
+Don't write what you think people want to read. Find your voice and write about what's in your heart.
+  Quentin Tarantino
+
+
+If a Million People See My Movie, I Hope They See a Million Different Movies.
+  Quentin Tarantino
+
+
+The easiest way to kill a cult is to make that cult accessible.
+  Quentin Tarantino
+
+
+I didn't go to film school, I went to films.
+  Quentin Tarantino
 
