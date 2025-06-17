@@ -94,7 +94,11 @@ function QuotesList() {
 
   useEffect(() => {
     const results = fuzzy.filter(search, quotes, {
-      extract: (q) => q.text + (q.author ?? '') + q.tag.join(' '),
+      extract: (q) =>{
+        const text = q.text + (q.author ?? '')
+        const tags = q?.tag?.join(' ')
+        return text + ' ' + tags
+      },
     })
     setFiltered(results.map((r) => r.original))
   }, [search, quotes])
