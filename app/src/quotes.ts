@@ -1,40 +1,37 @@
-const quotes = [
-  {
+const quotes = [{
+   "text": "some people can read "War and Peace" and come away thinking it's a simple adventure story. Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe.
+",
+    "author": "Lex Luthor",
+    "tag": [],
+  },{
     "text": "Intellect is not the amount of knowledge created\nbut the percent of possibilities that weren't.",
     "author": "",
     "tag": []
-  },
-  {
+  },{
     "text": "Storms reveal how skilled a sailor you are.",
     "author": "",
     "tag": []
-  },
-  {
+  },{
     "text": "The ground is even at the foot of the cross.",
     "author": "N.T. Wright",
     "tag": []
-  },
-  {
+  },{
     "text": "History ended 50 years ago.\nEverything since then is politics.",
     "author": "W.Currier",
     "tag": []
-  },
-  {
+  },{
     "text": "If you're asked to be a hero, be a hero;\nIf you're not asked to be a hero, be a hero.",
     "author": null,
     "tag": []
-  },
-  {
+  },{
     "text": "Some people, when you give them enough rope make a lasso;\nother people make a noose.",
     "author": null,
     "tag": []
-  },
-  {
+  },{
     "text": "Magic is science we don't understand.",
     "author": null,
     "tag": []
-  },
-  {
+  },{
     "text": "No battle plan survives first contact.",
     "author": "Helmuth von Moltke",
     "tag": []
