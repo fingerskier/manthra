@@ -2449,6 +2449,11 @@ const quotes = [
     "text": "I didn't go to film school, I went to films.",
     "author": "Quentin Tarantino",
     "tag": []
+  },
+  {
+    "text": "I only write when the muse strikes.  Luckily the muse strikes everyday at 9am.",
+    "author": "",
+    "tag": []
   }
 ]
 export default quotes
