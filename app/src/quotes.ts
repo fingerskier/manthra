@@ -1,5 +1,12 @@
 const quotes = [
-  {
+ {
+    "text": "Never be afraid to trust an unknown future to a known God.",
+    "author": "Corrie Ten Boom",
+    "tag": [
+      "inspiration",
+      "theology"
+    ]
+  }, {
     "text": "One should never forget that by actually perfecting one piece one gains and learns more than by starting or half-finishing a dozen.",
     "author": "Johannes Brahms",
     "tag": [
