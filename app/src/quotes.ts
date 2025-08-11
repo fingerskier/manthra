@@ -2454,6 +2454,13 @@ const quotes = [
     "text": "I only write when the muse strikes.  Luckily the muse strikes everyday at 9am.",
     "author": "",
     "tag": []
+  },
+  {
+    "text": "An optimist says the glass is half-full; a pessimist says the glass is half-empty;  an engineer says the glass is twice as big as it needs to be.",
+    "author": "",
+    "tag": [
+      "inspiration"
+    ]
   }
 ]
 export default quotes
