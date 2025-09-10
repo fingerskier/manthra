@@ -36,6 +36,7 @@ function QuotesList() {
         onChange={(e) => setSearch(e.target.value)}
         style={{ marginBottom: '1rem' }}
       />
+      
       <div className={style.quotes}>
         {filtered.map((q, i) => (
           <div key={q.id ?? i} style={{ marginBottom: '1rem' }}>
