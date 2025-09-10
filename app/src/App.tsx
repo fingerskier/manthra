@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState, type MouseEvent } from 'react';
 import type { DBRealmRole } from 'dexie-cloud-common';
 import './App.css';
 import QuotesList from './QuotesList';
@@ -36,10 +36,26 @@ function App() {
     }
   };
 
+  const handleLogout = (e: MouseEvent) => {
+    e.stopPropagation();
+    clicks.current = 0;
+    db.cloud.logout();
+  };
+
   return (
     <div>
       <h1 onClick={handleHeaderClick}>
-        Manthra {loggedIn && <span aria-label="logged in">👤</span>}
+        Manthra
+        {loggedIn && (
+          <span
+            aria-label="log out"
+            onClick={handleLogout}
+            role="button"
+            style={{ cursor: 'pointer' }}
+          >
+            👤
+          </span>
+        )}
         <br />
         <sub>considerable careful crafty compositions</sub>
       </h1>
