@@ -1,5 +1,6 @@
 import Dexie, { type Table } from 'dexie';
 import dexieCloud from 'dexie-cloud-addon';
+import cloudConfig from '../dexie-cloud.json';
 
 export interface Quote {
   id?: string;
@@ -21,12 +22,15 @@ export class ManthraDB extends Dexie {
       quotes: 'id, text, author, tag',
     });
 
-    const databaseUrl = import.meta.env?.VITE_DEXIE_CLOUD_URL;
+    const databaseUrl =
+      import.meta.env?.VITE_DEXIE_CLOUD_URL ?? cloudConfig.dbUrl;
 
     if (databaseUrl) {
       this.cloud.configure({
         databaseUrl,
       });
+    } else {
+      console.warn('Dexie Cloud database URL not configured');
     }
   }
 }
