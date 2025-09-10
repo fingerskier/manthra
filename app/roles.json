@@ -1,0 +1,19 @@
+{
+  "default": {
+    "tables": {
+      "quotes": {
+        "read": true
+      }
+    }
+  },
+  "editor": {
+    "members": ["fingerskier@gmail.com"],
+    "tables": {
+      "quotes": {
+        "read": true,
+        "write": true
+      }
+    }
+  }
+}
+
