@@ -17,8 +17,11 @@ interface Quote {
   tag: string[]
 }
 
+interface QuotesListProps {
+  canEdit: boolean
+}
 
-function QuotesList() {
+function QuotesList({ canEdit }: QuotesListProps) {
   const [quotes, setQuotes] = useState<Quote[]>(quotesData as Quote[])
   const [search, setSearch] = useState('')
   const [editIndex, setEditIndex] = useState<number | null>(null)
@@ -30,12 +33,16 @@ function QuotesList() {
   const [tags, setTags] = useState('')
 
 
-  const addQuote = ()=>{
-    setQuotes([...quotes, {
-      text: 'new quote',
-      author: 'new author',
-      tag: ['new', 'tag']
-    }])
+  const addQuote = () => {
+    if (!canEdit) return
+    setQuotes([
+      ...quotes,
+      {
+        text: 'new quote',
+        author: 'new author',
+        tag: ['new', 'tag']
+      }
+    ])
     setEditIndex(quotes.length)
     setText('new quote')
     setAuthor('new author')
@@ -68,7 +75,8 @@ function QuotesList() {
   }
 
 
-  const handleEditMode = (index: number) => ()=>{
+  const handleEditMode = (index: number) => () => {
+    if (!canEdit) return
     setEditIndex(index)
     setText(quotes[index].text)
     setAuthor(quotes[index].author ?? '')
@@ -132,10 +140,10 @@ function QuotesList() {
       onChange={(e) => setSearch(e.target.value)}
       style={{ marginBottom: '1rem' }}
     />
-    
-    {edited && <button onClick={saveFile}>Save</button>}
 
-    <button onClick={addQuote}>+</button>
+    {edited && canEdit && <button onClick={saveFile}>Save</button>}
+
+    {canEdit && <button onClick={addQuote}>+</button>}
 
     <div className={style.quotes}>
       {filtered.map((q, i) => (
@@ -164,7 +172,10 @@ function QuotesList() {
               <button onClick={handleChange}>done</button>
             </div>
           ) : (
-            <div onDoubleClick={handleEditMode(i)} className={style.quote}>
+            <div
+              onDoubleClick={canEdit ? handleEditMode(i) : undefined}
+              className={style.quote}
+            >
               <div>{q.text}</div>
               {q.author && (
                 <span className={style.author} style={{ fontStyle: 'italic' }}>
