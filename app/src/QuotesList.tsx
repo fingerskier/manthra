@@ -65,9 +65,6 @@ function QuotesList({ editable }: Props) {
         onChange={(e) => setSearch(e.target.value)}
         style={{ marginBottom: '1rem' }}
       />
-<<<<<<< HEAD
-      
-=======
       {editable && (
         <form onSubmit={addQuote} style={{ marginBottom: '1rem' }}>
           <textarea
@@ -93,7 +90,6 @@ function QuotesList({ editable }: Props) {
           </button>
         </form>
       )}
->>>>>>> a7e96d8bdccdd998f62c8deeaff5ec30a7255174
       <div className={style.quotes}>
         {filtered.map((q, i) => (
           <div key={q.id ?? i} style={{ marginBottom: '1rem' }}>
