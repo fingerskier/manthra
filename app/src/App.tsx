@@ -7,12 +7,25 @@ import { db } from './db';
 function App() {
   const clicks = useRef(0);
   const [canEdit, setCanEdit] = useState(false);
+  const [loggedIn, setLoggedIn] = useState(false);
 
   useEffect(() => {
-    const sub = db.cloud.roles.subscribe((roles: Record<string, DBRealmRole>) => {
-      setCanEdit(!!roles.editor);
+    const rolesSub = db.cloud.roles.subscribe(
+      (roles: Record<string, DBRealmRole>) => {
+        setCanEdit(!!roles.editor);
+      },
+    );
+    const userSub = db.cloud.currentUser.subscribe((user) => {
+      setLoggedIn(user.isLoggedIn);
+      if (user.isLoggedIn) {
+        db.cloud.sync().catch((err) => console.error('Sync failed', err));
+      }
     });
-    return () => sub.unsubscribe();
+    db.cloud.sync().catch((err) => console.error('Sync failed', err));
+    return () => {
+      rolesSub.unsubscribe();
+      userSub.unsubscribe();
+    };
   }, []);
 
   const handleHeaderClick = () => {
@@ -26,7 +39,7 @@ function App() {
   return (
     <div>
       <h1 onClick={handleHeaderClick}>
-        Manthra
+        Manthra {loggedIn && <span aria-label="logged in">👤</span>}
         <br />
         <sub>considerable careful crafty compositions</sub>
       </h1>
