@@ -36,3 +36,4 @@ export class ManthraDB extends Dexie {
 }
 
 export const db = new ManthraDB();
+window.db = db
