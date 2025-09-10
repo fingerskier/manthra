@@ -18,7 +18,7 @@ export class ManthraDB extends Dexie {
     });
 
     this.version(1).stores({
-      quotes: '++id, text, author, tag',
+      quotes: 'id, text, author, tag',
     });
 
     const databaseUrl = import.meta.env?.VITE_DEXIE_CLOUD_URL;

@@ -9,8 +9,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "seed": "tsx scripts/seed.ts"
+    "preview": "vite preview"
   },
   "dependencies": {
     "dexie": "^4.2.0",
