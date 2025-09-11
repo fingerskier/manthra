@@ -20,3 +20,40 @@
   padding: 0.5rem;
   border-radius: 50%;
 }
+
+.searchInput {
+  margin-bottom: 1rem;
+}
+
+.addButton {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.addForm {
+  margin-bottom: 1rem;
+}
+
+.fullWidth {
+  display: block;
+  width: 100%;
+}
+
+.mtHalf {
+  margin-top: 0.5rem;
+}
+
+.mlHalf {
+  margin-left: 0.5rem;
+}
+
+.quoteWrapper {
+  margin-bottom: 1rem;
+}
+
+.editButton {
+  float: right;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+}
