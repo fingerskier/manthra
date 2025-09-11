@@ -6,15 +6,17 @@ import style from './Quotes.module.css';
 
 interface Props {
   editable: boolean;
+  loggedIn: boolean;
 }
 
-function QuotesList({ editable }: Props) {
+function QuotesList({ editable, loggedIn }: Props) {
   const [quotes, setQuotes] = useState<Quote[]>([]);
   const [search, setSearch] = useState('');
   const [filtered, setFiltered] = useState<Quote[]>([]);
   const [newText, setNewText] = useState('');
   const [newAuthor, setNewAuthor] = useState('');
   const [newTags, setNewTags] = useState('');
+  const [adding, setAdding] = useState(false);
 
   useEffect(() => {
     const sub = liveQuery(() => db.quotes.toArray()).subscribe({
@@ -65,8 +67,22 @@ function QuotesList({ editable }: Props) {
         onChange={(e) => setSearch(e.target.value)}
         style={{ marginBottom: '1rem' }}
       />
-      {editable && (
-        <form onSubmit={addQuote} style={{ marginBottom: '1rem' }}>
+      {loggedIn && !adding && (
+        <button
+          onClick={() => setAdding(true)}
+          style={{ display: 'block', marginBottom: '1rem' }}
+        >
+          Add
+        </button>
+      )}
+      {loggedIn && adding && (
+        <form
+          onSubmit={(e) => {
+            addQuote(e);
+            setAdding(false);
+          }}
+          style={{ marginBottom: '1rem' }}
+        >
           <textarea
             placeholder="quote"
             value={newText}
@@ -87,6 +103,13 @@ function QuotesList({ editable }: Props) {
           />
           <button type="submit" style={{ marginTop: '0.5rem' }}>
             Add Quote
+          </button>
+          <button
+            type="button"
+            onClick={() => setAdding(false)}
+            style={{ marginTop: '0.5rem', marginLeft: '0.5rem' }}
+          >
+            Cancel
           </button>
         </form>
       )}
