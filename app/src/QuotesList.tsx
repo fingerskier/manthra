@@ -5,11 +5,10 @@ import { db, type Quote, PUBLIC_REALM_ID } from './db';
 import style from './Quotes.module.css';
 
 interface Props {
-  editable: boolean;
   loggedIn: boolean;
 }
 
-function QuotesList({ editable, loggedIn }: Props) {
+function QuotesList({ loggedIn }: Props) {
   const [quotes, setQuotes] = useState<Quote[]>([]);
   const [search, setSearch] = useState('');
   const [filtered, setFiltered] = useState<Quote[]>([]);
@@ -121,7 +120,7 @@ function QuotesList({ editable, loggedIn }: Props) {
             <div
               className={style.quote}
               onDoubleClick={() => {
-                if (editable) setEditingId(q.id!);
+                if (loggedIn) setEditingId(q.id!);
               }}
               onBlur={(e: FocusEvent<HTMLDivElement>) => {
                 if (!e.currentTarget.contains(e.relatedTarget as Node)) {
@@ -130,7 +129,7 @@ function QuotesList({ editable, loggedIn }: Props) {
               }}
               tabIndex={-1}
             >
-              {editable && loggedIn && editingId !== q.id && (
+              {loggedIn && editingId !== q.id && (
                 <button
                   aria-label="edit quote"
                   onClick={() => setEditingId(q.id!)}
@@ -144,7 +143,7 @@ function QuotesList({ editable, loggedIn }: Props) {
                   ✏️
                 </button>
               )}
-              {editable && editingId === q.id ? (
+              {loggedIn && editingId === q.id ? (
                 <>
                   <textarea
                     value={q.text}
