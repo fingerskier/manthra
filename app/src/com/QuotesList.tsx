@@ -1,8 +1,9 @@
-import { useEffect, useState, type FormEvent, type FocusEvent } from 'react';
+import { useEffect, useState, type FormEvent } from 'react';
 import { liveQuery } from 'dexie';
 import fuzzy from 'fuzzy';
 import { db, type Quote, PUBLIC_REALM_ID } from '../db';
 import style from './Quotes.module.css';
+import QuoteEditor from './QuoteEditor';
 
 interface Props {
   loggedIn: boolean;
@@ -16,7 +17,6 @@ function QuotesList({ loggedIn }: Props) {
   const [newAuthor, setNewAuthor] = useState('');
   const [newTags, setNewTags] = useState('');
   const [adding, setAdding] = useState(false);
-  const [editingId, setEditingId] = useState<string | null>(null);
 
   useEffect(() => {
     const sub = liveQuery(() => db.quotes.toArray()).subscribe({
@@ -66,12 +66,12 @@ function QuotesList({ loggedIn }: Props) {
         placeholder="search"
         value={search}
         onChange={(e) => setSearch(e.target.value)}
-        style={{ marginBottom: '1rem' }}
+        className={style.mb1}
       />
       {loggedIn && !adding && (
         <button
           onClick={() => setAdding(true)}
-          style={{ display: 'block', marginBottom: '1rem' }}
+          className={`${style.block} ${style.mb1}`}
         >
           Add
         </button>
@@ -82,33 +82,33 @@ function QuotesList({ loggedIn }: Props) {
             addQuote(e);
             setAdding(false);
           }}
-          style={{ marginBottom: '1rem' }}
+          className={style.mb1}
         >
           <textarea
             placeholder="quote"
             value={newText}
             onChange={(e) => setNewText(e.target.value)}
-            style={{ display: 'block', width: '100%' }}
+            className={`${style.block} ${style.fullWidth}`}
           />
           <input
             placeholder="author"
             value={newAuthor}
             onChange={(e) => setNewAuthor(e.target.value)}
-            style={{ display: 'block', width: '100%', marginTop: '0.5rem' }}
+            className={`${style.block} ${style.fullWidth} ${style.mt05}`}
           />
           <input
             placeholder="tags (comma separated)"
             value={newTags}
             onChange={(e) => setNewTags(e.target.value)}
-            style={{ display: 'block', width: '100%', marginTop: '0.5rem' }}
+            className={`${style.block} ${style.fullWidth} ${style.mt05}`}
           />
-          <button type="submit" style={{ marginTop: '0.5rem' }}>
+          <button type="submit" className={style.mt05}>
             Add Quote
           </button>
           <button
             type="button"
             onClick={() => setAdding(false)}
-            style={{ marginTop: '0.5rem', marginLeft: '0.5rem' }}
+            className={`${style.mt05} ${style.ml05}`}
           >
             Cancel
           </button>
@@ -116,70 +116,12 @@ function QuotesList({ loggedIn }: Props) {
       )}
       <div className={style.quotes}>
         {filtered.map((q, i) => (
-          <div key={q.id ?? i} style={{ marginBottom: '1rem' }}>
-            <div
-              className={style.quote}
-              onDoubleClick={() => {
-                if (loggedIn) setEditingId(q.id!);
-              }}
-              onBlur={(e: FocusEvent<HTMLDivElement>) => {
-                if (!e.currentTarget.contains(e.relatedTarget as Node)) {
-                  setEditingId(null);
-                }
-              }}
-              tabIndex={-1}
-            >
-              {loggedIn && editingId !== q.id && (
-                <button
-                  aria-label="edit quote"
-                  onClick={() => setEditingId(q.id!)}
-                  style={{
-                    float: 'right',
-                    cursor: 'pointer',
-                    background: 'transparent',
-                    border: 'none',
-                  }}
-                >
-                  ✏️
-                </button>
-              )}
-              {loggedIn && editingId === q.id ? (
-                <>
-                  <textarea
-                    value={q.text}
-                    onChange={(e) => updateQuote(q.id!, { text: e.target.value })}
-                    style={{ display: 'block', width: '100%' }}
-                  />
-                  <input
-                    value={q.author ?? ''}
-                    onChange={(e) => updateQuote(q.id!, { author: e.target.value })}
-                    style={{ display: 'block', width: '100%', marginTop: '0.5rem' }}
-                  />
-                  <input
-                    value={q.tag.join(', ')}
-                    onChange={(e) =>
-                      updateQuote(q.id!, {
-                        tag: e.target.value
-                          .split(',')
-                          .map((t) => t.trim())
-                          .filter(Boolean),
-                      })
-                    }
-                    style={{ display: 'block', width: '100%', marginTop: '0.5rem' }}
-                  />
-                </>
-              ) : (
-                <>
-                  <div>{q.text}</div>
-                  {q.author && (
-                    <span className={style.author} style={{ fontStyle: 'italic' }}>
-                      {q.author}
-                    </span>
-                  )}
-                </>
-              )}
-            </div>
-          </div>
+          <QuoteEditor
+            key={q.id ?? i}
+            quote={q}
+            loggedIn={loggedIn}
+            updateQuote={updateQuote}
+          />
         ))}
       </div>
     </>

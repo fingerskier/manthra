@@ -20,3 +20,30 @@
   padding: 0.5rem;
   border-radius: 50%;
 }
+
+.block {
+  display: block;
+}
+
+.fullWidth {
+  width: 100%;
+}
+
+.mb1 {
+  margin-bottom: 1rem;
+}
+
+.mt05 {
+  margin-top: 0.5rem;
+}
+
+.ml05 {
+  margin-left: 0.5rem;
+}
+
+.editButton {
+  float: right;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+}
