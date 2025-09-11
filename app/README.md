@@ -20,3 +20,5 @@ This project stores its quotes in Dexie Cloud. To populate a new database with t
    ```
 
 The `quotes.json` file contains UUID identifiers for each quote and can be reused to seed other databases.
+
+

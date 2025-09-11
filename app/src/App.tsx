@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState, type MouseEvent } from 'react';
 import './App.css';
-import QuotesList from './QuotesList';
+import QuotesList from './com/QuotesList';
 import { db } from './db';
 
 function App() {

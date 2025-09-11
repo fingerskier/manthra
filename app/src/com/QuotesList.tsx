@@ -1,7 +1,7 @@
 import { useEffect, useState, type FormEvent, type FocusEvent } from 'react';
 import { liveQuery } from 'dexie';
 import fuzzy from 'fuzzy';
-import { db, type Quote, PUBLIC_REALM_ID } from './db';
+import { db, type Quote, PUBLIC_REALM_ID } from '../db';
 import style from './Quotes.module.css';
 
 interface Props {
