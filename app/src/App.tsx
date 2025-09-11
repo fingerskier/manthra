@@ -59,7 +59,7 @@ function App() {
         <br />
         <sub>considerable careful crafty compositions</sub>
       </h1>
-      <QuotesList editable={canEdit} />
+      <QuotesList editable={canEdit} loggedIn={loggedIn} />
     </div>
   );
 }
