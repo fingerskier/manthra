@@ -16,7 +16,7 @@ function App() {
       },
     );
     const userSub = db.cloud.currentUser.subscribe((user) => {
-      setLoggedIn(user.isLoggedIn);
+      setLoggedIn(!!user.isLoggedIn);
       if (user.isLoggedIn) {
         db.cloud.sync().catch((err) => console.error('Sync failed', err));
       }
