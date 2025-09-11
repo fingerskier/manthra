@@ -1,4 +1,4 @@
-import { useEffect, useState, type FormEvent } from 'react';
+import { useEffect, useState, type FormEvent, type FocusEvent } from 'react';
 import { liveQuery } from 'dexie';
 import fuzzy from 'fuzzy';
 import { db, type Quote, PUBLIC_REALM_ID } from './db';
@@ -17,6 +17,7 @@ function QuotesList({ editable, loggedIn }: Props) {
   const [newAuthor, setNewAuthor] = useState('');
   const [newTags, setNewTags] = useState('');
   const [adding, setAdding] = useState(false);
+  const [editingId, setEditingId] = useState<string | null>(null);
 
   useEffect(() => {
     const sub = liveQuery(() => db.quotes.toArray()).subscribe({
@@ -117,8 +118,19 @@ function QuotesList({ editable, loggedIn }: Props) {
       <div className={style.quotes}>
         {filtered.map((q, i) => (
           <div key={q.id ?? i} style={{ marginBottom: '1rem' }}>
-            <div className={style.quote}>
-              {editable ? (
+            <div
+              className={style.quote}
+              onDoubleClick={() => {
+                if (editable) setEditingId(q.id!);
+              }}
+              onBlur={(e: FocusEvent<HTMLDivElement>) => {
+                if (!e.currentTarget.contains(e.relatedTarget as Node)) {
+                  setEditingId(null);
+                }
+              }}
+              tabIndex={-1}
+            >
+              {editable && editingId === q.id ? (
                 <>
                   <textarea
                     value={q.text}
