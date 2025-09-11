@@ -23,12 +23,14 @@ export class ManthraDB extends Dexie {
     });
 
     const databaseUrl =
-      import.meta.env?.VITE_DEXIE_CLOUD_URL ?? cloudConfig.dbUrl;
+      import.meta.env?.VITE_DEXIE_CLOUD_URL ?? cloudConfig.databaseUrl ?? cloudConfig.dbUrl;
 
     if (databaseUrl) {
       this.cloud.configure({
         databaseUrl,
       });
+
+      void this.cloud.sync();
     } else {
       console.warn('Dexie Cloud database URL not configured');
     }
@@ -36,4 +38,10 @@ export class ManthraDB extends Dexie {
 }
 
 export const db = new ManthraDB();
-window.db = db
+window.db = db;
+
+declare global {
+  interface Window {
+    db: ManthraDB;
+  }
+}
