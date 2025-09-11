@@ -130,6 +130,20 @@ function QuotesList({ editable, loggedIn }: Props) {
               }}
               tabIndex={-1}
             >
+              {editable && loggedIn && editingId !== q.id && (
+                <button
+                  aria-label="edit quote"
+                  onClick={() => setEditingId(q.id!)}
+                  style={{
+                    float: 'right',
+                    cursor: 'pointer',
+                    background: 'transparent',
+                    border: 'none',
+                  }}
+                >
+                  ✏️
+                </button>
+              )}
               {editable && editingId === q.id ? (
                 <>
                   <textarea
