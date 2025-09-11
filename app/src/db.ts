@@ -2,11 +2,15 @@ import Dexie, { type Table } from 'dexie';
 import dexieCloud from 'dexie-cloud-addon';
 import cloudConfig from '../dexie-cloud.json';
 
+export const PUBLIC_REALM_ID = 'rlm-public';
+
 export interface Quote {
   id?: string;
   text: string;
   author: string | null;
   tag: string[];
+  /** Dexie Cloud realm identifier */
+  realmId?: string;
 }
 
 export class ManthraDB extends Dexie {

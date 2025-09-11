@@ -1,7 +1,7 @@
 import { useEffect, useState, type FormEvent } from 'react';
 import { liveQuery } from 'dexie';
 import fuzzy from 'fuzzy';
-import { db, type Quote } from './db';
+import { db, type Quote, PUBLIC_REALM_ID } from './db';
 import style from './Quotes.module.css';
 
 interface Props {
@@ -49,6 +49,7 @@ function QuotesList({ editable, loggedIn }: Props) {
           .split(',')
           .map((t) => t.trim())
           .filter(Boolean) ?? [],
+      realmId: PUBLIC_REALM_ID,
     });
     setNewText('');
     setNewAuthor('');
