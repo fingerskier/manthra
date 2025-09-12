@@ -1,1 +1,0 @@
-When clicking "Add Quote" for a new quote: the form closes, there are no errors, but the quote does not seem to be added- it doesn't show up in the list nor in the indexeddb

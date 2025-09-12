@@ -37,9 +37,13 @@ function QuotesList({ loggedIn }: Props) {
     setFiltered(results.map((r) => r.original));
   }, [search, quotes]);
 
+  useEffect(()=>{
+    if (filtered) console.log(filtered)
+  }, [filtered])
+
   const addQuote = async () => {
     if (!newText.trim()) return;
-    await db.quotes.add({
+    const res = await db.quotes.add({
       text: newText,
       author: newAuthor.trim() || null,
       tag: newTags
@@ -47,7 +51,8 @@ function QuotesList({ loggedIn }: Props) {
         .map((t) => t.trim())
         .filter(Boolean) ?? [],
       realmId: PUBLIC_REALM_ID,
-    });
+    })
+    console.log('QUOTE ADD', res)
     setNewText('');
     setNewAuthor('');
     setNewTags('');
@@ -73,6 +78,7 @@ function QuotesList({ loggedIn }: Props) {
           Add
         </button>
       )}
+
       {loggedIn && adding && (
         <form
           onSubmit={async (e) => {
@@ -112,6 +118,7 @@ function QuotesList({ loggedIn }: Props) {
           </button>
         </form>
       )}
+
       <div className={style.quotes}>
         {filtered.map((q, i) => (
           <QuoteEditor

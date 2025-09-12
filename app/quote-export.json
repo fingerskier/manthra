@@ -1,7 +1,7 @@
 {
   "schema": {
     "roles": "[realmId+name]",
-    "quotes": "id",
+    "quotes": "@id",
     "realms": "@realmId",
     "members": "@id",
     "$$logins": "claims.sub",
@@ -2495,6 +2495,18 @@
         "rlm-public": {
           "name": "public",
           "owner": "rlm-public"
+        }
+      }
+    },
+    "fingerskier@gmail.com": {
+      "quotes": {
+        "c1303158-592c-43dd-a68b-63a085d68e6a": {
+          "tag": [
+            "writing"
+          ],
+          "text": "True originality can't being until you know what you're breaking away from.",
+          "owner": "fingerskier@gmail.com",
+          "author": "Blake Snyder"
         }
       }
     }
