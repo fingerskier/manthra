@@ -11,7 +11,8 @@
     "tables": {
       "quotes": {
         "read": true,
-        "write": true
+        "add": true,
+        "update": true
       }
     }
   }
