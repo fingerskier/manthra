@@ -5,6 +5,10 @@ import cloudConfig from '../dexie-cloud.json';
 export const PUBLIC_REALM_ID = 'rlm-public';
 
 export interface Quote {
+  /**
+   * Primary key. This is automatically assigned by Dexie Cloud, so
+   * new quotes should be added without specifying this property.
+   */
   id?: string;
   text: string;
   author: string | null;
