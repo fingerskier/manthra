@@ -1,4 +1,4 @@
-import { useEffect, useState, type FormEvent } from 'react';
+import { useEffect, useState } from 'react';
 import { liveQuery } from 'dexie';
 import fuzzy from 'fuzzy';
 import { db, type Quote, PUBLIC_REALM_ID } from '../db';
@@ -37,17 +37,15 @@ function QuotesList({ loggedIn }: Props) {
     setFiltered(results.map((r) => r.original));
   }, [search, quotes]);
 
-  const addQuote = async (e: FormEvent) => {
-    e.preventDefault();
+  const addQuote = async () => {
     if (!newText.trim()) return;
     await db.quotes.add({
       text: newText,
       author: newAuthor.trim() || null,
-      tag:
-        newTags
-          .split(',')
-          .map((t) => t.trim())
-          .filter(Boolean) ?? [],
+      tag: newTags
+        .split(',')
+        .map((t) => t.trim())
+        .filter(Boolean) ?? [],
       realmId: PUBLIC_REALM_ID,
     });
     setNewText('');
@@ -77,8 +75,9 @@ function QuotesList({ loggedIn }: Props) {
       )}
       {loggedIn && adding && (
         <form
-          onSubmit={(e) => {
-            addQuote(e);
+          onSubmit={async (e) => {
+            e.preventDefault();
+            await addQuote();
             setAdding(false);
           }}
           className={style.mb1}
