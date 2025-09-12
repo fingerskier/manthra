@@ -8,13 +8,14 @@
   },
   "editor": {
     "members": ["fingerskier@gmail.com"],
+    "realms": ["*"],
     "tables": {
       "quotes": {
         "read": true,
         "add": true,
-        "update": true
+        "update": true,
+        "delete": true
       }
     }
   }
 }
-
