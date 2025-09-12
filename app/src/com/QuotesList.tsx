@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { liveQuery } from 'dexie';
+import { liveQuery as dexieLiveQuery } from 'dexie';
 import fuzzy from 'fuzzy';
 import { db, type Quote, PUBLIC_REALM_ID } from '../db';
 import style from './Quotes.module.css';
@@ -19,9 +19,14 @@ function QuotesList({ loggedIn }: Props) {
   const [adding, setAdding] = useState(false);
 
   useEffect(() => {
+    // Prefer Dexie Cloud's liveQuery if available
+    const cloud = db.cloud as unknown as {
+      liveQuery?: typeof dexieLiveQuery;
+    };
+    const liveQuery = cloud.liveQuery ?? dexieLiveQuery;
     const sub = liveQuery(() => db.quotes.toArray()).subscribe({
-      next: (qs) => setQuotes(qs),
-      error: (err) => console.error('Failed to load quotes', err),
+      next: (qs: Quote[]) => setQuotes(qs),
+      error: (err: unknown) => console.error('Failed to load quotes', err),
     });
     return () => sub.unsubscribe();
   }, []);
