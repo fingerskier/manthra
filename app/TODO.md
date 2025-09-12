@@ -1,0 +1,1 @@
+have the fuzzy search prioritize matche that have the exact search string
