@@ -28,7 +28,9 @@ function QuotesList({ loggedIn }: Props) {
       const userId = db.cloud.currentUser.value.userId;
       const qs = await db.quotes.toArray();
       return qs.filter(
-        (q) => q.realmId === PUBLIC_REALM_ID || (userId && q.owner === userId),
+        (q) =>
+          (q.realmId ?? PUBLIC_REALM_ID) === PUBLIC_REALM_ID ||
+          (userId && q.owner === userId),
       );
     }).subscribe({
       next: (qs: Quote[]) => setQuotes(qs),
