@@ -5,13 +5,21 @@ import { db } from './db';
 
 function App() {
   const clicks = useRef(0);
-  const [loggedIn, setLoggedIn] = useState(false);
+  const initialUser = db.cloud.currentUser.value;
+  const [loggedIn, setLoggedIn] = useState(!!initialUser.isLoggedIn);
+  const [username, setUsername] = useState<string | null>(
+    initialUser.isLoggedIn ? initialUser.userId ?? null : null,
+  );
 
   useEffect(() => {
     const userSub = db.cloud.currentUser.subscribe((user) => {
-      setLoggedIn(!!user.isLoggedIn);
-      if (user.isLoggedIn) {
-        db.cloud.sync().catch((err) => console.error('Sync failed', err));
+      const isLoggedIn = !!user.isLoggedIn;
+      setLoggedIn(isLoggedIn);
+      setUsername(isLoggedIn ? user.userId ?? null : null);
+      if (isLoggedIn) {
+        db.cloud
+          .sync()
+          .catch((err) => console.error('Sync failed', err));
       }
     });
     db.cloud.sync().catch((err) => console.error('Sync failed', err));
@@ -38,15 +46,18 @@ function App() {
     <div>
       <h1 onClick={handleHeaderClick}>
         Manthra
-        {loggedIn && (
-          <span
-            aria-label="log out"
-            onClick={handleLogout}
-            role="button"
-            style={{ cursor: 'pointer' }}
-          >
-            👤
-          </span>
+        {loggedIn && username && (
+          <>
+            {' '}
+            <span
+              aria-label="log out"
+              onClick={handleLogout}
+              role="button"
+              style={{ cursor: 'pointer' }}
+            >
+              {username}
+            </span>
+          </>
         )}
         <br />
         <sub>considerable careful crafty compositions</sub>
