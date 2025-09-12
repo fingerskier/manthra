@@ -15,6 +15,8 @@ export interface Quote {
   tag: string[];
   /** Dexie Cloud realm identifier */
   realmId?: string;
+  /** Dexie Cloud owner identifier */
+  owner?: string;
 }
 
 export class ManthraDB extends Dexie {

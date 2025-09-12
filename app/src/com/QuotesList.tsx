@@ -24,7 +24,13 @@ function QuotesList({ loggedIn }: Props) {
       liveQuery?: typeof dexieLiveQuery;
     };
     const liveQuery = cloud.liveQuery ?? dexieLiveQuery;
-    const sub = liveQuery(() => db.quotes.toArray()).subscribe({
+    const sub = liveQuery(async () => {
+      const userId = db.cloud.currentUser.value.userId;
+      const qs = await db.quotes.toArray();
+      return qs.filter(
+        (q) => q.realmId === PUBLIC_REALM_ID || (userId && q.owner === userId),
+      );
+    }).subscribe({
       next: (qs: Quote[]) => setQuotes(qs),
       error: (err: unknown) => console.error('Failed to load quotes', err),
     });
