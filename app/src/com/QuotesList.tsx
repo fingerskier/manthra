@@ -41,7 +41,6 @@ function QuotesList({ loggedIn }: Props) {
     e.preventDefault();
     if (!newText.trim()) return;
     await db.quotes.add({
-      id: crypto.randomUUID(),
       text: newText,
       author: newAuthor.trim() || null,
       tag:
