@@ -44,23 +44,34 @@ function QuotesList({ loggedIn }: Props) {
 
   useEffect(()=>{
     if (filtered) console.log(filtered)
-  }, [filtered])
+  }, [filtered]);
+
+  // Log whenever the quote list changes so we can track updates
+  useEffect(() => {
+    if (quotes) console.log('QUOTES', quotes);
+  }, [quotes]);
 
   const addQuote = async () => {
     if (!newText.trim()) return;
-    const res = await db.quotes.add({
-      text: newText,
-      author: newAuthor.trim() || null,
-      tag: newTags
-        .split(',')
-        .map((t) => t.trim())
-        .filter(Boolean) ?? [],
-      realmId: PUBLIC_REALM_ID,
-    })
-    console.log('QUOTE ADD', res)
-    setNewText('');
-    setNewAuthor('');
-    setNewTags('');
+    try {
+      const id = await db.quotes.add({
+        text: newText,
+        author: newAuthor.trim() || null,
+        tag: newTags
+          .split(',')
+          .map((t) => t.trim())
+          .filter(Boolean) ?? [],
+        realmId: PUBLIC_REALM_ID,
+      })
+      console.log('QUOTE ADD', id)
+      const added = await db.quotes.get(id)
+      console.log('QUOTE VERIFY', added)
+      setNewText('');
+      setNewAuthor('');
+      setNewTags('');
+    } catch (err) {
+      console.error('Failed to add quote', err)
+    }
   };
 
   const updateQuote = (id: string, changes: Partial<Quote>) => {
