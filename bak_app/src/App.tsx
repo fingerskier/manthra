@@ -3,7 +3,8 @@ import './App.css';
 import QuotesList from './com/QuotesList';
 import { db } from './db';
 
-function App() {
+
+export default function App() {
   const clicks = useRef(0);
   const initialUser = db.cloud.currentUser.value;
   const [loggedIn, setLoggedIn] = useState(!!initialUser.isLoggedIn);
@@ -66,5 +67,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
