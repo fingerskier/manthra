@@ -38,22 +38,27 @@ export default function Footer() {
   }
 
 
-  const handleLogin = () => {
+  const handleLogin = async () => {
     // dexie-cloud login
-    db.cloud.login()
+    try {
+      await db.cloud.login()
+    } catch (err) {
+      console.error('Login failed', err)
+    }
   }
 
 
   useEffect(() => {
-    // get username from dexie-cloud
-    const fetchUser = async () => {
-      const user = await db.cloud.getUser()
-      if (user) {
+    const sub = db.cloud.currentUser.subscribe(user => {
+      if (user.userId) {
         setLoggedIn(true)
         setUsername(user.name || user.email || 'User')
+      } else {
+        setLoggedIn(false)
+        setUsername('')
       }
-    }
-    fetchUser()
+    })
+    return () => sub.unsubscribe()
   }, [])
   
   
