@@ -34,6 +34,12 @@ export default function Footer() {
     URL.revokeObjectURL(url)
   }
 
+
+  const handleLogin = () => {
+    // dexie-cloud login
+    db.cloud.login()
+  }
+
   return <footer>
     &copy; 2024 fingerskier
 
@@ -44,7 +50,7 @@ export default function Footer() {
 
     <button onClick={handleExport}>Export</button>
 
-    <button>Login</button>
+    <button onClick={handleLogin}>Login</button>
 
     <QuoteUpsert open={showUpsert} onClose={() => setShowUpsert(false)} />
   </footer>
