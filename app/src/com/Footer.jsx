@@ -1,11 +1,14 @@
-import React, {useRef, useState} from 'react'
+import React, {useEffect, useRef, useState} from 'react'
 import QuoteUpsert from '@/com/QuoteUpsert'
 import {db} from '@/db/conx.js'
 
 
 export default function Footer() {
-  const [showUpsert, setShowUpsert] = useState(false)
   const fileInput = useRef(null)
+
+  const [loggedIn, setLoggedIn] = useState(false)
+  const [showUpsert, setShowUpsert] = useState(false)
+  const [username, setUsername] = useState('')
 
   const handleImport = async event => {
     const file = event.target.files?.[0]
@@ -40,8 +43,22 @@ export default function Footer() {
     db.cloud.login()
   }
 
+
+  useEffect(() => {
+    // get username from dexie-cloud
+    const fetchUser = async () => {
+      const user = await db.cloud.getUser()
+      if (user) {
+        setLoggedIn(true)
+        setUsername(user.name || user.email || 'User')
+      }
+    }
+    fetchUser()
+  }, [])
+  
+  
   return <footer>
-    &copy; 2024 fingerskier
+    &copy; 2024 manthra
 
     <button onClick={() => setShowUpsert(true)}>Add a Quote</button>
 
@@ -50,7 +67,11 @@ export default function Footer() {
 
     <button onClick={handleExport}>Export</button>
 
-    <button onClick={handleLogin}>Login</button>
+    {loggedIn ? 
+      <span>Welcome, {username}!</span>
+    :
+      <button onClick={handleLogin}>Login</button>
+    }
 
     <QuoteUpsert open={showUpsert} onClose={() => setShowUpsert(false)} />
   </footer>
