@@ -1,0 +1,5 @@
+export default {
+  serviceUrl: "https://dexie.cloud",
+  databaseUrl: "https://zlorat9py.dexie.cloud",
+  dbUrl: "https://zlorat9py.dexie.cloud",
+}
