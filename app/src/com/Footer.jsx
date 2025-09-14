@@ -48,6 +48,15 @@ export default function Footer() {
   }
 
 
+  const handleLogout = async () => {
+    try {
+      await db.cloud.logout()
+    } catch (err) {
+      console.error('Logout failed', err)
+    }
+  }
+
+
   useEffect(() => {
     const sub = db.cloud.currentUser.subscribe(user => {
       if (user.userId) {
@@ -69,14 +78,15 @@ export default function Footer() {
 
     <button onClick={() => fileInput.current?.click()}>Import</button>
     <input type="file" accept="application/json" ref={fileInput} style={{display: 'none'}} onChange={handleImport} />
-
+    
     <button onClick={handleExport}>Export</button>
-
-    {loggedIn ? 
+    
+    {loggedIn ? <>
       <span>Welcome, {username}!</span>
-    :
+      <button onClick={handleLogout}>Logout</button>
+    </> : <>
       <button onClick={handleLogin}>Login</button>
-    }
+    </>}
 
     <QuoteUpsert open={showUpsert} onClose={() => setShowUpsert(false)} />
   </footer>
