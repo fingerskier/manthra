@@ -22,31 +22,31 @@ export default function QuoteUpsert({open, onClose}) {
   if (!open) return null
 
   return (
-    <div className="modal" style={{position: 'fixed', top: 0, left: 0, right: 0, bottom: 0, background: 'rgba(0,0,0,0.5)'}}>
-      <div style={{background: 'white', margin: '10% auto', padding: '1rem', maxWidth: '400px'}}>
-        <form onSubmit={handleSubmit}>
-          <div>
-            <label>Quote<br/>
-              <textarea value={text} onChange={e => setText(e.target.value)} required />
-            </label>
-          </div>
-          <div>
-            <label>Author<br/>
-              <input value={author} onChange={e => setAuthor(e.target.value)} />
-            </label>
-          </div>
-          <div>
-            <label>Tags<br/>
-              <input value={tag} onChange={e => setTag(e.target.value)} />
-            </label>
-          </div>
-          <div style={{marginTop: '1rem'}}>
-            <button type="submit">Save</button>
-            <button type="button" onClick={onClose} style={{marginLeft: '0.5rem'}}>Cancel</button>
-          </div>
-        </form>
-      </div>
+    <div className="upsert">
+      <form onSubmit={handleSubmit}>
+        <div>
+          <label>Quote<br/>
+            <textarea value={text} onChange={e => setText(e.target.value)} required />
+          </label>
+        </div>
+        
+        <div>
+          <label>Author<br/>
+            <input value={author} onChange={e => setAuthor(e.target.value)} />
+          </label>
+        </div>
+        
+        <div>
+          <label>Tags (comma separated)<br/>
+            <input value={tag} onChange={e => setTag(e.target.value)} />
+          </label>
+        </div>
+        
+        <div>
+          <button type="submit">Save</button>
+          <button type="button" onClick={onClose}>Cancel</button>
+        </div>
+      </form>
     </div>
   )
 }
-
