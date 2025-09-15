@@ -12,7 +12,7 @@ export default function QuoteList() {
       {quotes && quotes.map(quote =>
         <li key={quote.id}>
           <blockquote>"{quote.text}"</blockquote>
-          {quote.author && <div className="author">{quote.author}</div>}
+          {quote.author && <span className="author">{quote.author}</span>}
         </li>
       )}
     </ul>

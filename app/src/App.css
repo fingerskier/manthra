@@ -15,3 +15,14 @@ main {
   overflow-y: auto;
   overflow-x: hidden;
 }
+
+.author {
+  display: inline-block;
+  font-size: 0.8em;
+  font-style: italic;
+  font-weight: bolder;
+  color: black;
+  background-color: cyan;
+  border-radius: 1rem;
+  border: thick outset cyan;
+}
