@@ -1,3 +1,3 @@
 export default {
-  quotes: '@id, text, author, tag',
+  quotes: '@id, realmid, text, author, tag',
 }

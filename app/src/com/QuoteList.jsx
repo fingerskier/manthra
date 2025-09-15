@@ -4,7 +4,7 @@ import {db} from '@/db/conx.js'
 
 
 export default function QuoteList() {
-  const quotes = useLiveQuery(() => db.quotes.toArray())
+  const quotes = useLiveQuery(() => db.quotes.where('realmId').anyOf(['public', db.cloud.currentUserId]).toArray())
 
   return <ul>
     {quotes && quotes.map(quote =>
