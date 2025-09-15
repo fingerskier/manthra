@@ -73,21 +73,21 @@ export default function Footer() {
   
   return <footer>
     &copy; 2024 manthra
-
+    
     <button onClick={() => setShowUpsert(true)}>Add a Quote</button>
-
+    
+    {loggedIn ? <>
+      <span>{username}</span>
+      <button onClick={handleLogout}>Logout</button>
+    </> : <>
+      <button onClick={handleLogin}>Login</button>
+    </>}
+    
     <button onClick={() => fileInput.current?.click()}>Import</button>
     <input type="file" accept="application/json" ref={fileInput} style={{display: 'none'}} onChange={handleImport} />
     
     <button onClick={handleExport}>Export</button>
     
-    {loggedIn ? <>
-      <span>Welcome, {username}!</span>
-      <button onClick={handleLogout}>Logout</button>
-    </> : <>
-      <button onClick={handleLogin}>Login</button>
-    </>}
-
     <QuoteUpsert open={showUpsert} onClose={() => setShowUpsert(false)} />
   </footer>
 }
