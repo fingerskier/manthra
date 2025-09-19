@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
 
 
+better focus does not mean seeing less 
+but seeing less irrelevant things. 
+
+
 One should never forget that by actually perfecting one piece one gains and learns more than by starting or half-finishing a dozen.
   Johannes Brahms
 
