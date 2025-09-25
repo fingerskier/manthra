@@ -66,11 +66,13 @@ export default function Quote({data}) {
     : <div className='quote'>
       <p className='text'>
         {data.text}
+      </p>
+
+      <p className='author'>
+        {data.author}
 
         <button type="button" onClick={() => setEditing(!editing)}>.</button>
       </p>
-
-      <p className='author'>{data.author}</p>
     </div>}
   </>
 }
