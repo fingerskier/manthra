@@ -2,6 +2,19 @@
 `considerable careful crafty compositions`  
 
 
+better focus does not mean seeing less 
+but seeing less irrelevant things.  
+  M.Currier
+
+
+never come lightly to the empty page
+  Stephen King
+
+
+We don’t see things as they are; we see them as we are.
+  Anaïs Nin 
+
+
 One should never forget that by actually perfecting one piece one gains and learns more than by starting or half-finishing a dozen.
   Johannes Brahms
 
