@@ -1,17 +1,21 @@
-import Footer from '@/com/Footer'
-import QuoteList from '@/com/QuoteList'
+import { useState } from 'react'
+import Header from '@/Header'
+import {useLiveQuery} from 'dexie-react-hooks'
+import Quote from '@/Quote'
 
-import '@/App.css'
+import './App.css'
 
 
-function App() {
+export default function App() {
+  const quotes = useLiveQuery(() => db.quotes.toArray(), [])
+
   return <>
-    <header>manthra</header>
+    <Header />
 
-    <QuoteList />
-
-    <Footer />
+    <main>
+      <ul>
+        {quotes?.map(quote => <Quote key={quote.id} data={quote} />)}
+      </ul>
+    </main>
   </>
 }
-
-export default App
