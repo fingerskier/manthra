@@ -2,11 +2,17 @@
 `considerable careful crafty compositions`  
 
 
+When your ship has sailed,
+either become a farmer
+or learn how to swim like a dolphin.
+  M.Currier  
+  
+  
 better focus does not mean seeing less 
 but seeing less irrelevant things.  
   M.Currier
-
-
+  
+  
 never come lightly to the empty page
   Stephen King
 
