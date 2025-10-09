@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
 
 
+The best thing about standards is that there are so many to choose from. 
+
+
 When your ship has sailed,
 either become a farmer
 or learn how to swim like a dolphin.
