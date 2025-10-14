@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
 
 
+Perfectionism is procrastination masquerading as rigor.
+
+
 The best thing about standards is that there are so many to choose from. 
 
 
