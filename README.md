@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
 
 
+Bravery is being the only one who knows you're afraid.  
+  Franklin P. Jones  
+
+  
 The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.
 Mark Caine
 
