@@ -1,78 +1,135 @@
-import {useState} from 'react'
-import db from '@/db'
+import { useEffect, useState } from 'react'
+import { deleteQuote, makeQuotePublic, updateQuote } from '@/db'
 
-
-export default function Quote({data}) {
+export default function Quote({ data, onChange }) {
   const [editing, setEditing] = useState(false)
   const [text, setText] = useState(data.text)
-  const [author, setAuthor] = useState(data.author)
+  const [author, setAuthor] = useState(data.author ?? '')
   const [tags, setTags] = useState(data.tags || [])
+  const [busy, setBusy] = useState(false)
 
+  useEffect(() => {
+    setText(data.text)
+    setAuthor(data.author ?? '')
+    setTags(data.tags || [])
+  }, [data])
 
-  const deleteQuote = async () => {
-    const sure = window.confirm("Are you sure you want to delete this quote?")
+  const deleteQuoteHandler = async () => {
+    if (!data?.id) {
+      console.warn('No data.id, cannot delete quote', data)
+      return
+    }
+
+    const sure = window.confirm('Are you sure you want to delete this quote?')
     if (!sure) return
 
-    await db.quotes.delete(data.id)
+    setBusy(true)
+    try {
+      await deleteQuote(data.id)
+      onChange?.()
+    } catch (err) {
+      console.error('Failed to delete quote', err)
+    } finally {
+      setBusy(false)
+    }
   }
-
 
   const makePublic = async () => {
     if (!data?.id) {
-      console.warn("No data.id, cannot make quote public", data)
+      console.warn('No data.id, cannot make quote public', data)
       return
     }
 
-    await db.quotes.update(data.id, {
-      ...data,
-      realmId: 'rlm-public',
-    })
+    setBusy(true)
+    try {
+      await makeQuotePublic(data.id)
+      onChange?.()
+    } catch (err) {
+      console.error('Failed to make quote public', err)
+    } finally {
+      setBusy(false)
+    }
   }
 
-
-  const updateQuote = async () => {
+  const updateQuoteHandler = async () => {
     if (!data?.id) {
-      console.warn("No data.id, cannot update quote", data)
+      console.warn('No data.id, cannot update quote', data)
       return
     }
 
-    await db.quotes.update(data.id, {
-      text, author, tags
-    })
-
-    setEditing(false)
+    setBusy(true)
+    try {
+      await updateQuote(data.id, { text, author, tags, realmId: data.realmId })
+      setEditing(false)
+      onChange?.()
+    } catch (err) {
+      console.error('Failed to update quote', err)
+    } finally {
+      setBusy(false)
+    }
   }
 
+  return (
+    <>
+      {editing ? (
+        <div className={`quote editor${busy ? ' is-busy' : ''}`}>
+          quote #{data.id} | {data.realmId}
+          <textarea
+            className="text"
+            value={text}
+            onChange={(e) => setText(e.target.value)}
+          />
 
-  return <>
-    {editing? <div className='quote editor'>
-      quote #{data.id} | {data.realmId}
-      <textarea className='text' value={text} onChange={e => setText(e.target.value)} />
+          <input
+            className="author"
+            value={author}
+            onChange={(e) => setAuthor(e.target.value)}
+          />
 
-      <input className='author' value={author} onChange={e => setAuthor(e.target.value)} />
+          <input
+            className="tags"
+            value={tags.join(', ')}
+            onChange={(e) =>
+              setTags(
+                e.target.value
+                  .split(',')
+                  .map((tag) => tag.trim())
+                  .filter(Boolean),
+              )
+            }
+          />
 
-      <input className='tags' value={tags.join(', ')} onChange={e => setTags(e.target.value.split(',').map(t => t.trim()))} />
+          <button type="button" onClick={updateQuoteHandler} disabled={busy}>
+            Save
+          </button>
 
-      <button type="button" onClick={updateQuote}>Save</button>
+          <div>
+            <button type="button" onClick={() => setEditing(!editing)} disabled={busy}>
+              Cancel
+            </button>
 
-      <div>
-        <button type="button" onClick={() => setEditing(!editing)}>Cancel</button>
+            <button type="button" onClick={makePublic} disabled={busy}>
+              Make Public
+            </button>
 
-        <button type="button" onClick={makePublic}>Make Public</button>
+            <button type="button" onClick={deleteQuoteHandler} disabled={busy}>
+              Delete
+            </button>
+          </div>
+        </div>
+      ) : (
+        <div className={`quote${busy ? ' is-busy' : ''}`}>
+          <p className="text">{data.text}</p>
 
-        <button type="button" onClick={deleteQuote}>Delete</button>
-      </div>
-    </div>
-    : <div className='quote'>
-      <p className='text'>
-        {data.text}
-      </p>
+          <p className="author">
+            {data.author}
 
-      <p className='author'>
-        {data.author}
-
-        <button type="button" onClick={() => setEditing(!editing)}>.</button>
-      </p>
-    </div>}
-  </>
+            <button type="button" onClick={() => setEditing(!editing)} disabled={busy}>
+              .
+            </button>
+          </p>
+        </div>
+      )}
+    </>
+  )
 }
