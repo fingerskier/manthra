@@ -1,5 +1,9 @@
 # Manthra
 `considerable careful crafty compositions`  
+  
+  
+If all cultures are equal, then cannibalism is just a matter of culinary taste.  
+  Léo Strauss  
 
 
 Bravery is being the only one who knows you're afraid.  
