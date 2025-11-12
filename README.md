@@ -1,6 +1,11 @@
 # Manthra
 `considerable careful crafty compositions`  
   
+
+We ministers are not philosophers finding out things;
+We are expositors of a revelation that settles things.  
+  John Hall  
+
   
 If all cultures are equal, then cannibalism is just a matter of culinary taste.  
   Léo Strauss  
