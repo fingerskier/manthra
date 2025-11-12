@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
   
 
+You will win or lose an audience by how you walk on stage.  
+
+  
 We ministers are not philosophers finding out things;
 We are expositors of a revelation that settles things.  
   John Hall  
