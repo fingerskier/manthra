@@ -1,7 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`  
   
-
+  
+The welfare of humanity is always the alibi of tyrants.  
+  
+  
 You will win or lose an audience by how you walk on stage.  
 
   
