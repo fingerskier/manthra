@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
   
   
+If tolerance means the end of our civilization, then we must not be tolerant.  
+  Elon Musk  
+  
+  
 The welfare of humanity is always the alibi of tyrants.  
   
   
