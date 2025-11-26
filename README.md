@@ -2,8 +2,8 @@
 `considerable careful crafty compositions`  
 
 
-No one likes gerrymandering unless it gets then elected;
-No one likes filibustering until they've forced into a curve with no other option.  
+No one likes gerrymandering unless it gets them elected;
+No one likes filibustering until they've been forced into a corner with no options.  
   
   
 If tolerance means the end of our civilization, then we must not be tolerant.  
