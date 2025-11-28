@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
 
 
+It is a mistake to push a man to violence-
+if violence is what he has dedicated his life to perfecting.  
+
+  
 No one likes gerrymandering unless it gets them elected;
 No one likes filibustering until they've been forced into a corner with no options.  
   
