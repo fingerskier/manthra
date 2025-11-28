@@ -7,7 +7,7 @@ if violence is what he has dedicated his life to perfecting.
 
   
 No one likes gerrymandering unless it gets them elected;
-No one likes filibustering until they've been forced into a corner with no options.  
+No one likes the filibuster until they've been forced into a corner with no other options.  
   
   
 If tolerance means the end of our civilization, then we must not be tolerant.  
