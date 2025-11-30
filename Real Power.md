@@ -6,5 +6,5 @@ Real Power
 
 "Knowledge is power."
 
-"Size him," the guards grab the man, "cut his throat."  The guard draws his knife and puts it to the man's throat, "stop- wait.  I've changed my mind.
-  "No, counselor, power is power."
+"Sieze him," the guards grab the man, "cut his throat."
+The guard draws his knife and puts it to the man's throat, "stop- wait.  I've changed my mind.  No, counselor, power is power."
