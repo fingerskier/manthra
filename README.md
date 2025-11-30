@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`  
 
 
+Luck was just a joke-
+turns out good luck was just bad luck with it's hair combed.
+
+  
 It is a mistake to push a man to violence-
 if violence is what he has dedicated his life to perfecting.  
 
