@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`  
 
 
+Clarity is confidence.  
+
+  
 Luck was just a joke-
 turns out good luck was just bad luck with it's hair combed.
 
