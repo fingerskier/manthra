@@ -1,7 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`  
 
-
+  
+Mercy to the guilty is cruelty to the innocent.  
+  
+  
 Journalism is printing what someone else doesn't want printed;
 everything else is just public relations.  
   George Orwell  
