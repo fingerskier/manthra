@@ -1,7 +1,12 @@
 # Manthra
 `considerable careful crafty compositions`  
 
+
+Anti-procrastination creed:
+* Make not doing it more painful than doing it.
+* Make doing it more enjoyable than not doing it.
   
+   
 Mercy to the guilty is cruelty to the innocent.  
   
   
