@@ -1,5 +1,11 @@
 # Manthra
-`considerable careful crafty compositions`  
+`considerable careful crafty compositions`
+
+
+Everyone is a genius. 
+But if you judge a fish by it's ability to climb a tree,
+it will live it's whyile life believing it is stupid.
+  Albert Einstein  
 
 
 Anti-procrastination creed:
