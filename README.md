@@ -6,8 +6,12 @@ Everyone is a genius.
 But if you judge a fish by it's ability to climb a tree,
 it will live it's whyile life believing it is stupid.
   Albert Einstein  
-
-
+  
+  
+Give light for darkness, love for hate;
+but trade loyalty for loyalty alone.  
+  
+  
 Anti-procrastination creed:
 * Make not doing it more painful than doing it.
 * Make doing it more enjoyable than not doing it.
