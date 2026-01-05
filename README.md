@@ -1,6 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`
   
+
+When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.  
+  Henry Ford  
+
   
 A man is born to work, to suffer and to fight; he who doesn't, must perish.
   Nikola Tesla. 
