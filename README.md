@@ -1,7 +1,11 @@
 # Manthra
 `considerable careful crafty compositions`
-
-
+  
+  
+A man is born to work, to suffer and to fight; he who doesn't, must perish.
+  Nikola Tesla. 
+  
+  
 Everyone is a genius. 
 But if you judge a fish by it's ability to climb a tree,
 it will live it's whyile life believing it is stupid.
