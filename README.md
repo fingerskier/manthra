@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`
   
 
+There are three people needed in business: the leader, the entrepreneur and the artist.
+
+  
 Time is the fire in which we burn.  
   
   
