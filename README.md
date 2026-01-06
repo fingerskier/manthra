@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
   
 
+Courage isn’t having the strength to go on – it is going on when you don’t have strength.
+  Napoleon Bonaparte  
+
+  
 When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.  
   Henry Ford  
 
