@@ -2,7 +2,7 @@
 `considerable careful crafty compositions`
   
 
-Rock bottom may well become the foundation on which to build your next life.  
+Rock bottom may well become the foundation on which you build your next life.  
   
   
 There are three people needed in business: the leader, the entrepreneur and the artist.  
