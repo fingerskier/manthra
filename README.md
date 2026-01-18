@@ -15,7 +15,7 @@ Human beings are the religion of the angels.
 Rock bottom may well become the foundation on which you build your next life.  
   
   
-There are three people needed in business: the leader, the entrepreneur and the artist.  
+There are three people needed in community: the leader, the entrepreneur and the artist.  
   Tony Robbins  
 
   
