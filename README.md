@@ -240,7 +240,7 @@ The person who doesn't read had no advantage over the person who can't.
   Mark Twain
 
 
-For God so loved the wordi that He did not send a committee.
+For God so loved the world that He did not send a committee.
   2 Hesitations 5:6
 
 
