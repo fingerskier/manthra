@@ -2,6 +2,11 @@
 `considerable careful crafty compositions`
   
 
+Don't believe you live in a police state?
+Next time a cop pulls in behind you with their lights on just keep driving and see what happens.  
+  Dave Bayert  
+  
+  
 The secret of happiness is not in seeking more, but in developing the capacity to enjoy less.  
   Socrates  
 
