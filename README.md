@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
   
 
+The secret of happiness is not in seeking more, but in developing the capacity to enjoy less.  
+  Socrates  
+
+  
 Be yourself, everyone else is taken.  
   Oscar Wilde  
 
