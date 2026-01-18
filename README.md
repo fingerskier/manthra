@@ -46,7 +46,7 @@ A man is born to work, to suffer and to fight; he who doesn't, must perish.
   
 Everyone is a genius. 
 But if you judge a fish by it's ability to climb a tree,
-it will live it's whyile life believing it is stupid.
+it will live it's whole life believing it is stupid.
   Albert Einstein  
   
   
