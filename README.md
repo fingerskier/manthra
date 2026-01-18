@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
   
 
+Be yourself, everyone else is taken.  
+  Oscar Wilde  
+
+  
 Even simple things are complicated at scale.  
 
   
