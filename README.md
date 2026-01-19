@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`
   
 
+You'll never be number one unless you're odd.  
+
+  
 Don't believe you live in a police state?
 Next time a cop pulls in behind you with their lights on just keep driving and see what happens.  
   Dave Bayert  
