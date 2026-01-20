@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`
   
 
+In order to think outside the box there must be a box.  
+
+  
 You'll never be number one unless you're odd.  
 
   
