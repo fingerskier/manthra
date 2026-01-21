@@ -1,7 +1,12 @@
 # Manthra
 `considerable careful crafty compositions`
-  
 
+
+Language is a thin pipe through which to 
+draw subjects of great magnitude.  
+  Ray Kurzweil  
+
+  
 In order to think outside the box there must be a box.  
 
   
