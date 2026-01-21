@@ -30,7 +30,7 @@ Human beings are the religion of the angels.
 Rock bottom may well become the foundation on which you build your next life.  
   
   
-There are three people needed in community: the leader, the entrepreneur and the artist.  
+There are three people needed in any community: the leader, the entrepreneur and the artist.  
   Tony Robbins  
 
   
@@ -38,7 +38,7 @@ Time is the fire in which we burn.
   Delmore Schwartz  
   
   
-Courage isn’t having the strength to go on – it is going on when you don’t have strength.
+Courage isn’t having the strength to go on – it is going on when you don’t have strength.  
   Napoleon Bonaparte  
 
   
@@ -47,12 +47,12 @@ When everything seems to be going against you, remember that the airplane takes 
 
   
 A man is born to work, to suffer and to fight; he who doesn't, must perish.
-  Nikola Tesla. 
+  Nikola Tesla.  
   
   
 Everyone is a genius. 
 But if you judge a fish by it's ability to climb a tree,
-it will live it's whole life believing it is stupid.
+it will live it's whole life believing it is stupid.  
   Albert Einstein  
   
   
@@ -69,15 +69,14 @@ Mercy to the guilty is cruelty to the innocent.
   
   
 Journalism is printing what someone else doesn't want printed;
-everything else is just public relations.  
+everything else is just public relations.   
   George Orwell  
   
   
 Clarity is confidence.  
 
   
-Luck was just a joke-
-turns out good luck was just bad luck with it's hair combed.
+It turns out good luck was just bad luck with it's hair combed.  
 
   
 It is a mistake to push a man to violence-
