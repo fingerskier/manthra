@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`
 
 
+You are not a drop in the ocean. You are the entire ocean in a drop.  
+  
+  
 Language is a thin pipe through which to 
 draw subjects of great magnitude.  
   Ray Kurzweil  
