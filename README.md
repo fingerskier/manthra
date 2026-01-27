@@ -2,6 +2,14 @@
 `considerable careful crafty compositions`
 
 
+I am a man of peace but I am willing to make exceptions.  
+  
+  
+The purpose of life is to discover your gift;
+The meaning of life is to give your gift away.
+  Pablo Picasso  
+  
+  
 Excellence in any endeavor is worship— of whom decides its worth.  
 
   
