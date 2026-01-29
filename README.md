@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Try not to become a man of success, but rather try to become a man of value.  
+  Albert Einstein  
+
+  
 I am a man of peace but I am willing to make exceptions.  
   
   
