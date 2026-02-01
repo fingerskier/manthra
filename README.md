@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+The purpose of life is to be defeated by greater and greater things.  
+  Rainer Maria Rilke  
+  
+  
 Try not to become a man of success, but rather try to become a man of value.  
   Albert Einstein  
 
