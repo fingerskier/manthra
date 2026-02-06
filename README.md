@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+A diplomat is a man who always remembers a woman's birthday but never remembers her age.  
+  Robert Frost  
+
+  
 The purpose of life is to be defeated by greater and greater things.  
   Rainer Maria Rilke  
   
