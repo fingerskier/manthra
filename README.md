@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`
 
 
+it's hard enough to predict the past let alone the future. 
+  
+
 It is better to die on my feet than to live on my knees"  
   Emiliano Zapata  
 
