@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+It is better to die on my feet than to live on my knees"  
+  Emiliano Zapata  
+
+  
 A diplomat is a man who always remembers a woman's birthday but never remembers her age.  
   Robert Frost  
 
