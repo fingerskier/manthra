@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+a man's reach should exceed his grasp, or what's a heaven for?
+  Robert Browning  
+
+  
 it's hard enough to predict the past let alone the future. 
   
 
