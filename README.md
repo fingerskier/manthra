@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+The only time you should look in your neighbors bowl is to make sure they have enough.  
+  Louis C.K.  
+
+  
 I don't care that they stole my idea;
 I care that they don't have any of their own.
   Nikola Tesla  
