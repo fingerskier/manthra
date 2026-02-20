@@ -2,6 +2,11 @@
 `considerable careful crafty compositions`
 
 
+We are born looking like our parents;
+but we die looking like our decisions.  
+  T.D. Jakes  
+
+  
 The only time you should look in your neighbors bowl is to make sure they have enough.  
   Louis C.K.  
 
