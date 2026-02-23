@@ -1,7 +1,12 @@
 # Manthra
 `considerable careful crafty compositions`
+  
 
+Tradition is not the worship of ashes,
+but the preservation of fire.  
+  Gustav Mahler  
 
+  
 We are born looking like our parents;
 but we die looking like our decisions.  
   T.D. Jakes  
