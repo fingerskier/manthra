@@ -1,7 +1,11 @@
 # Manthra
 `considerable careful crafty compositions`
-  
 
+
+The brain is a wonderful organ; it starts working the moment you get up in the morning and does not stop until you get into the office.  
+  Robert Frost  
+
+  
 Tradition is not the worship of ashes,
 but the preservation of fire.  
   Gustav Mahler  
