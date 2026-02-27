@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Humanity’s real problem is that we have Paleolithic emotions, medieval institutions, and godlike technology.  
+  Edward O. Wilson  
+
+  
 The brain is a wonderful organ; it starts working the moment you get up in the morning and does not stop until you get into the office.  
   Robert Frost  
 
