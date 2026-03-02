@@ -2,6 +2,11 @@
 `considerable careful crafty compositions`
 
 
+The problem with the world is that intelligent people are full of doubt; 
+while the stupid ones are full of confidence.  
+  Charles Bukowski  
+
+  
 Humanity’s real problem is that we have Paleolithic emotions, medieval institutions, and godlike technology.  
   Edward O. Wilson  
 
