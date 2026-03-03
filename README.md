@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Man can imagine things that are false, but he can only understand things that are true.  
+  Isaac Newton  
+
+  
 The problem with the world is that intelligent people are full of doubt; 
 while the stupid ones are full of confidence.  
   Charles Bukowski  
