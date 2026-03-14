@@ -2,6 +2,12 @@
 `considerable careful crafty compositions`
 
 
+There are three kinds of fun in computer games:
+* fun for the player
+* fun for the designer
+* fun for the computer
+  
+  
 Man can imagine things that are false, but he can only understand things that are true.  
   Isaac Newton  
 
