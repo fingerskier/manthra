@@ -1,9 +1,9 @@
 # Manthra
 `considerable careful crafty compositions`
-
-
-Pornography is not evil because it shows you too much;
-but because it shows you too little.  
+  
+  
+the problem with pornography is not that it shows too much of the person, but that it shows far too little.  
+  John Paul II  
   
   
 There are three kinds of fun in computer games:
