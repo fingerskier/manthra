@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Pornography is not evil because it shows you too much;
+but because it shows you too little.  
+  
+  
 There are three kinds of fun in computer games:
 * fun for the player
 * fun for the designer
