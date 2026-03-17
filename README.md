@@ -1,6 +1,9 @@
 # Manthra
 `considerable careful crafty compositions`
   
+
+A bee does not waste it's energy trying to convince a fly that honey is better than shit.  
+
   
 the problem with pornography is not that it shows too much of the person, but that it shows far too little.  
   John Paul II  
