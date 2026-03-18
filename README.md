@@ -1,7 +1,11 @@
 # Manthra
 `considerable careful crafty compositions`
-  
 
+
+Perhaps, when we find ourselves wanting everything, it is because we are dangerously close to wanting nothing.  
+  Sylvia Plath  
+
+  
 A bee does not waste it's energy trying to convince a fly that honey is better than shit.  
 
   
