@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Every dream has a cost, the question isn’t if you’ll pay it, but whether the reward is worth it.  
+  Arnold Schwarzenegger  
+  
+  
 Truth is stranger than fiction, because Fiction is obliged to stick to possibilities; Truth isn't.  
   Mark Twain  
 
