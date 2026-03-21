@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Truth is stranger than fiction, because Fiction is obliged to stick to possibilities; Truth isn't.  
+  Mark Twain  
+
+  
 Perhaps, when we find ourselves wanting everything, it is because we are dangerously close to wanting nothing.  
   Sylvia Plath  
 
