@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Our virtues and our failings are inseparable... When they separate, man is no more.  
+  Nikola Tesla  
+
+  
 Every dream has a cost, the question isn’t if you’ll pay it, but whether the reward is worth it.  
   Arnold Schwarzenegger  
   
