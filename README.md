@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+To the timid and hesitating everything is impossible because it seems so.  
+  Sir Walter Scott  
+
+  
 Our virtues and our failings are inseparable... When they separate, man is no more.  
   Nikola Tesla  
 
