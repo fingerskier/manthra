@@ -1,7 +1,11 @@
 # Manthra
 `considerable careful crafty compositions`
+  
+  
+Only a philosopher can be happy in marriage, and philosophers do not marry.  
+  Arthur Schopenhauer  
 
-
+  
 To the timid and hesitating everything is impossible because it seems so.  
   Sir Walter Scott  
 
