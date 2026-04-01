@@ -79,9 +79,12 @@ a man's reach should exceed his grasp, or what's a heaven for?
   Robert Browning  
 
   
-it's hard enough to predict the past let alone the future. 
-  
+it's hard enough to predict the past let alone the future.  
 
+
+All I know is: the child is my ward and if he is not the word-of-god then I don't know what is.  
+  
+  
 It is better to die on my feet than to live on my knees"  
   Emiliano Zapata  
 
