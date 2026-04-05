@@ -1,5 +1,8 @@
 # Manthra
 `considerable careful crafty compositions`
+
+
+Master, teach us what we know not, ..., make us what we are not.  
   
   
 Only a philosopher can be happy in marriage, and philosophers do not marry.  
