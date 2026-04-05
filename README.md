@@ -2,7 +2,8 @@
 `considerable careful crafty compositions`
 
 
-Master, teach us what we know not, ..., make us what we are not.  
+Father, what we know not, teach us; What we have not, give us; What we are not, make us, for your Son’s sake.  
+  Anglican Prayer  
   
   
 Only a philosopher can be happy in marriage, and philosophers do not marry.  
