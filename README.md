@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+You are trying to escape from your difficulties, and there never is any escape. They have to be faced and fought.  
+  Enid Blyton  
+
+  
 What counts in making a happy marriage is not how compatible you are but how you deal with incompatibility.  
   Leo Tolstoy  
 
