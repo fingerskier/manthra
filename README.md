@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+What counts in making a happy marriage is not how compatible you are but how you deal with incompatibility.  
+  Leo Tolstoy  
+
+  
 Father, what we know not, teach us; What we have not, give us; What we are not, make us, for your Son’s sake.  
   Anglican Prayer  
   
