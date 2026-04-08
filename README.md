@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+One shouldn't get too involved with people who can't possibly understand one.  
+  Elizabeth Bishop  
+
+  
 You are trying to escape from your difficulties, and there never is any escape. They have to be faced and fought.  
   Enid Blyton  
 
