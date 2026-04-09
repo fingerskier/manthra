@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+To know that we know what we know, and to know that we do not know what we do not know, that is true knowledge.  
+  Nicolaus Copernicus  
+
+  
 One shouldn't get too involved with people who can't possibly understand one.  
   Elizabeth Bishop  
 
