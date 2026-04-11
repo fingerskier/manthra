@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.  
+  Isaac Asimov  
+
+  
 To know that we know what we know, and to know that we do not know what we do not know, that is true knowledge.  
   Nicolaus Copernicus  
 
