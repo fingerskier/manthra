@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Our life is frittered away by detail. Simplify.
+  Henry David Thoreau  
+
+  
 The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.  
   Isaac Asimov  
 
