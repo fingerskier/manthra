@@ -1,7 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`
+  
 
-
+If God is making you wait then do what waiters doand serve.  
+  
+  
 Our life is frittered away by detail. Simplify.
   Henry David Thoreau  
 
