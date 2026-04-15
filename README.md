@@ -1,7 +1,11 @@
 # Manthra
 `considerable careful crafty compositions`
-  
 
+
+Good judgment comes from experience;
+Experience comes from bad judgment.  
+  
+  
 If God is making you wait then do what waiters doand serve.  
   
   
