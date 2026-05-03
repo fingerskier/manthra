@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+It is absurd to divide people into good and bad. People are either charming or tedious.  
+  Oscar Wilde  
+
+  
 We are not rich by what we possess but by what we can do without.  
   Immanuel Kant  
 
