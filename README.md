@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`
 
 
+We are not rich by what we possess but by what we can do without.  
+  Immanuel Kant  
+
 Good judgment comes from experience;
 Experience comes from bad judgment.  
   
