@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Loneliness is not the absence of people but the inability to express what is within us.  
+  para. Carl Jung
+
+  
 It is absurd to divide people into good and bad. People are either charming or tedious.  
   Oscar Wilde  
 
