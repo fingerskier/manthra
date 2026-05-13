@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Sapere aude! Have courage to use your own understanding.
+— Immanuel Kant  
+
+  
 Loneliness is not the absence of people but the inability to express what is within us.  
   para. Carl Jung
 
