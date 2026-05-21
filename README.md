@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Of the devil says, "good morning"- get a second opinion.  
+  Zachary King  
+
+  
 They say marriages are made in heaven;  but so are thunder and lightning.  
   Clint Eastwood  
 
