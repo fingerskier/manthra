@@ -2,7 +2,11 @@
 `considerable careful crafty compositions`
 
 
-Of the devil says, "good morning"- get a second opinion.  
+Never love anyone who treats you like you're ordinary.  
+  Oscar Wilde  
+
+  
+If the devil says, "good morning"- get a second opinion.  
   Zachary King  
 
   
