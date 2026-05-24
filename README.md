@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+We are all just quotations of our ancestors.  
+  Ralph Waldo Emerson. 
+  
+  
 Never love anyone who treats you like you're ordinary.  
   Oscar Wilde  
 
