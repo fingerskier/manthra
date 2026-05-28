@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+It is not that we have a short time to live, but that we waste a lot of it.  
+  Seneca  
+
+  
 We are all just quotations of our ancestors.  
   Ralph Waldo Emerson. 
   
