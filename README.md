@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Tell me how you measure me and I’ll tell you how I will behave.  
+  Eliyahu M. Goldratt  
+
+  
 It is not that we have a short time to live, but that we waste a lot of it.  
   Seneca  
 
