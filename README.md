@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Wisdom is the application of your knowledge; 
+knowledge is someone's application of their wisdom to you.  
+  
+  
 Tell me how you measure me and I’ll tell you how I will behave.  
   Eliyahu M. Goldratt  
 
