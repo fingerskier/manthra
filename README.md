@@ -2,7 +2,7 @@
 `considerable careful crafty compositions`
 
 
-Wisdom is the application of your knowledge; 
+Wisdom is the application of knowledge; 
 knowledge is someone's application of their wisdom to you.  
   
   
