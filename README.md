@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+The more you sweat in times of peace, the more you bleed in times of ware.  
+  Norman Schwarzkopf  
+
+  
 Wisdom is the application of knowledge; 
 knowledge is someone's application of their wisdom to you.  
   
