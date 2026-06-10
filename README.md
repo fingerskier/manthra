@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+The only person you are destined to become is the person you decide to be.  
+  Ralph Waldo Emerson  
+
+  
 The more you sweat in times of peace, the more you bleed in times of ware.  
   Norman Schwarzkopf  
 
