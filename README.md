@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+what makes a person genuinely happy is not how much they have, but how little they need to be content.  
+  Seneca  
+
+  
 The only person you are destined to become is the person you decide to be.  
   Ralph Waldo Emerson  
 
