@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`
 
 
+A negative mind will never give you a positive life.  
+  
+  
 what makes a person genuinely happy is not how much they have, but how little they need to be content.  
   Seneca  
 
