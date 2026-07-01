@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+When you can't be controlled you will be hated and that's the power.   
+    Nikola Tesla  
+
+
 Wodth of life is more important than length of life.  
   Ibn Sina  
 
