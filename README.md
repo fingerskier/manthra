@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Wodth of life is more important than length of life.  
+  Ibn Sina  
+
+  
 A negative mind will never give you a positive life.  
   
   
