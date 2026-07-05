@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Patriotism means supporting you nation always;  and supporting your government when they deserve it.  
+  Mark Twain  
+  
+  
 When you can't be controlled you will be hated and that's the power.   
     Nikola Tesla  
 
