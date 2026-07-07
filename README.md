@@ -1,7 +1,15 @@
 # Manthra
 `considerable careful crafty compositions`
   
-
+  
+When searching for harmony in life one must never forget that in the drama of existence we are ourselves both actors and spectators.  
+  Niels Bohr  
+  
+  
+Research Is to See What Everybody Else Has Seen and Think What Nobody Has Thought
+  Arthur Schopenhauer  
+  
+  
 Life is coy- it must be tightly embraced.  
   
   
