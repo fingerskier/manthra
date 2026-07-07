@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`
 
 
+Just because I carry it well doesn't mean it isn't heavy.  
+  
+  
 Patriotism means supporting you nation always;  and supporting your government when they deserve it.  
   Mark Twain  
   
