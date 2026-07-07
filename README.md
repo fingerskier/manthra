@@ -1,7 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`
+  
 
-
+Life is coy- it must be tightly embraced.  
+  
+  
 Just because I carry it well doesn't mean it isn't heavy.  
   
   
