@@ -1,6 +1,9 @@
 # Manthra
 `considerable careful crafty compositions`
-  
+
+
+The child who is not embraced by the village will burn it down to feel it's warmth.  
+
   
 When searching for harmony in life one must never forget that in the drama of existence we are ourselves both actors and spectators.  
   Niels Bohr  
