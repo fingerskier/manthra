@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Just because you put on boots, it doesn't make you a cowboy.  
+  JFK  
+
+  
 The child who is not embraced by the village will burn it down to feel it's warmth.  
 
   
