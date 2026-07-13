@@ -1,7 +1,11 @@
 # Manthra
 `considerable careful crafty compositions`
+  
+  
+Reason is and ought only to be the slave of the passions.  
+  David Hume  
 
-
+  
 Just because you put on boots, it doesn't make you a cowboy.  
   JFK  
 
