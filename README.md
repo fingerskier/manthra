@@ -1,6 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`
   
+
+Patience is bitter, but its fruit is sweet.  
+  Aristotle  
+
   
 Reason is and ought only to be the slave of the passions.  
   David Hume  
