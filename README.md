@@ -1,7 +1,10 @@
 # Manthra
 `considerable careful crafty compositions`
-  
 
+
+You won't see what is until you stop looking through the lens of what's wanted.  
+  
+  
 Patience is bitter, but its fruit is sweet.  
   Aristotle  
 
