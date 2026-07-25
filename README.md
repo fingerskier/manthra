@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`
 
 
+Until the unconscious becomes conscious it will rule you and you will call it fate.  
+  
+  
 You won't see what is until you stop looking through the lens of what's wanted.  
   
   
