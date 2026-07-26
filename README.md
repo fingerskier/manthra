@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Try not to become a man of success. Rather become a man of value.  
+  Albert Einstein  
+
+  
 Until the unconscious becomes conscious it will rule you and you will call it fate.  
   
   
