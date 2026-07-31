@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+One doesn't have to operate with great malice to do great harm. The absence of empathy and understanding are sufficient.   
+  Charles Blow  
+
+  
 Try not to become a man of success. Rather become a man of value.  
   Albert Einstein  
 
