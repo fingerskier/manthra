@@ -2,6 +2,9 @@
 `considerable careful crafty compositions`
 
 
+A fence lasts 3 years, a dog lasts 3 fences, a horse lasts 3 dogs, and a man lasts 3 horses.  
+  
+  
 One doesn't have to operate with great malice to do great harm. The absence of empathy and understanding are sufficient.   
   Charles Blow  
 
