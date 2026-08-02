@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Never stop dreaming.  
+  Freddy Krueger  
+  
+  
 A fence lasts 3 years, a dog lasts 3 fences, a horse lasts 3 dogs, and a man lasts 3 horses.  
   
   
