@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+Its better to be under-developed and over-exposed, than over-developed and under-exposed.  
+  Mike O'connell  
+
+  
 Never stop dreaming.  
   Freddy Krueger  
   
