@@ -1,30 +1,35 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 
 export default function Header({
   search,
   onSearchChange,
+  user,
+  canAdd,
+  onLogin,
+  onLogout,
   onAddQuote,
-  onSaveConfig,
-  config,
 }) {
   const [collapsed, setCollapsed] = useState(true)
-  const [url, setUrl] = useState(config?.url ?? '')
-  const [token, setToken] = useState(config?.token ?? '')
+  const [text, setText] = useState('')
+  const [author, setAuthor] = useState('')
+  const [busy, setBusy] = useState(false)
 
-  useEffect(() => {
-    setUrl(config?.url ?? '')
-    setToken(config?.token ?? '')
-  }, [config])
+  const isLoggedIn = Boolean(user?.isLoggedIn)
 
-  const handleSubmit = (event) => {
+  const handleSubmit = async (event) => {
     event.preventDefault()
-    onSaveConfig({ url, token })
-  }
+    if (!text.trim() || busy) return
 
-  const handleClear = () => {
-    setUrl('')
-    setToken('')
-    onSaveConfig({ url: '', token: '' })
+    setBusy(true)
+    try {
+      await onAddQuote({ text, author })
+      setText('')
+      setAuthor('')
+    } catch {
+      // the error banner is rendered by App; keep the form filled in
+    } finally {
+      setBusy(false)
+    }
   }
 
   return (
@@ -41,38 +46,60 @@ export default function Header({
               value={search}
               onChange={(event) => onSearchChange(event.target.value)}
             />
-
-            <button type="button" onClick={onAddQuote}>
-              Add Quote
-            </button>
           </div>
 
-          <form className="settings" onSubmit={handleSubmit}>
-            <h2>Database Settings</h2>
-
-            <label htmlFor="turso-url">TURSO_URL</label>
-            <input
-              id="turso-url"
-              value={url}
-              onChange={(event) => setUrl(event.target.value)}
-              placeholder="libsql://example.turso.io"
-            />
-
-            <label htmlFor="turso-token">TURSO_TOKEN</label>
-            <input
-              id="turso-token"
-              value={token}
-              onChange={(event) => setToken(event.target.value)}
-              placeholder="Access token"
-            />
-
-            <div className="settings__actions">
-              <button type="submit">Save settings</button>
-              <button type="button" onClick={handleClear}>
-                Clear
+          <div className="account">
+            {isLoggedIn ? (
+              <>
+                <span className="account__user">
+                  {user?.email ?? user?.name ?? user?.userId}
+                </span>
+                <button type="button" onClick={onLogout}>
+                  Sign out
+                </button>
+              </>
+            ) : (
+              <button type="button" onClick={onLogin}>
+                Sign in to add quotes
               </button>
-            </div>
-          </form>
+            )}
+          </div>
+
+          {isLoggedIn && !canAdd && (
+            <p className="account__note">
+              This account can read the public collection but does not have
+              permission to add quotes.
+            </p>
+          )}
+
+          {canAdd && (
+            <form className="add-quote" onSubmit={handleSubmit}>
+              <h2>Add a public quote</h2>
+
+              <label htmlFor="quote-text">Quote</label>
+              <textarea
+                id="quote-text"
+                rows={3}
+                value={text}
+                onChange={(event) => setText(event.target.value)}
+                placeholder="The quote itself"
+              />
+
+              <label htmlFor="quote-author">Author</label>
+              <input
+                id="quote-author"
+                value={author}
+                onChange={(event) => setAuthor(event.target.value)}
+                placeholder="Who said it (optional)"
+              />
+
+              <div className="add-quote__actions">
+                <button type="submit" disabled={busy || !text.trim()}>
+                  Add quote
+                </button>
+              </div>
+            </form>
+          )}
         </div>
       )}
     </header>
