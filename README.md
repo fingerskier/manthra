@@ -2,6 +2,10 @@
 `considerable careful crafty compositions`
 
 
+In times of universal deceit, telling the truth is a revolutionary act.  
+  George Orwell  
+  
+  
 Its better to be under-developed and over-exposed, than over-developed and under-exposed.  
   Mike O'connell  
 
