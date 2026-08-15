@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
-import { deleteQuote, makeQuotePublic, updateQuote } from '@/db'
+import { deleteQuote, updateQuote } from '@/db'
 
-export default function Quote({ data, onChange }) {
+export default function Quote({ data, canEdit = false }) {
   const [editing, setEditing] = useState(false)
   const [text, setText] = useState(data.text)
   const [author, setAuthor] = useState(data.author ?? '')
@@ -15,18 +15,12 @@ export default function Quote({ data, onChange }) {
   }, [data])
 
   const deleteQuoteHandler = async () => {
-    if (!data?.id) {
-      console.warn('No data.id, cannot delete quote', data)
-      return
-    }
-
     const sure = window.confirm('Are you sure you want to delete this quote?')
     if (!sure) return
 
     setBusy(true)
     try {
       await deleteQuote(data.id)
-      onChange?.()
     } catch (err) {
       console.error('Failed to delete quote', err)
     } finally {
@@ -34,34 +28,11 @@ export default function Quote({ data, onChange }) {
     }
   }
 
-  const makePublic = async () => {
-    if (!data?.id) {
-      console.warn('No data.id, cannot make quote public', data)
-      return
-    }
-
-    setBusy(true)
-    try {
-      await makeQuotePublic(data.id)
-      onChange?.()
-    } catch (err) {
-      console.error('Failed to make quote public', err)
-    } finally {
-      setBusy(false)
-    }
-  }
-
   const updateQuoteHandler = async () => {
-    if (!data?.id) {
-      console.warn('No data.id, cannot update quote', data)
-      return
-    }
-
     setBusy(true)
     try {
-      await updateQuote(data.id, { text, author, tags, realmId: data.realmId })
+      await updateQuote(data.id, { text, author, tags })
       setEditing(false)
-      onChange?.()
     } catch (err) {
       console.error('Failed to update quote', err)
     } finally {
@@ -73,7 +44,6 @@ export default function Quote({ data, onChange }) {
     <>
       {editing ? (
         <div className={`quote editor${busy ? ' is-busy' : ''}`}>
-          quote #{data.id} | {data.realmId}
           <textarea
             className="text"
             value={text}
@@ -104,12 +74,8 @@ export default function Quote({ data, onChange }) {
           </button>
 
           <div>
-            <button type="button" onClick={() => setEditing(!editing)} disabled={busy}>
+            <button type="button" onClick={() => setEditing(false)} disabled={busy}>
               Cancel
-            </button>
-
-            <button type="button" onClick={makePublic} disabled={busy}>
-              Make Public
             </button>
 
             <button type="button" onClick={deleteQuoteHandler} disabled={busy}>
@@ -124,9 +90,11 @@ export default function Quote({ data, onChange }) {
           <p className="author">
             {data.author}
 
-            <button type="button" onClick={() => setEditing(!editing)} disabled={busy}>
-              .
-            </button>
+            {canEdit && (
+              <button type="button" onClick={() => setEditing(true)} disabled={busy}>
+                .
+              </button>
+            )}
           </p>
         </div>
       )}

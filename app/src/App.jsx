@@ -1,104 +1,114 @@
-import { useCallback, useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
+import { useLiveQuery, useObservable } from 'dexie-react-hooks'
 import Header from '@/Header'
 import Quote from '@/Quote'
-import {
-  createQuote,
-  searchQuotes,
-  saveConfig,
-  getStoredConfig,
-} from '@/db'
+import { db, addQuote, login, logout } from '@/db'
+import { seedFromReadmeIfEmpty } from '@/db/seed'
 
 import './App.css'
 
 export default function App() {
-  const [quotes, setQuotes] = useState([])
   const [search, setSearch] = useState('')
-  const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
-  const [config, setConfig] = useState(() => getStoredConfig())
 
-  const configKey = useMemo(() => JSON.stringify(config), [config])
+  const user = useObservable(db.cloud.currentUser)
+  const isLoggedIn = Boolean(user?.isLoggedIn)
 
-  const refreshQuotes = useCallback(
-    async (term) => {
-      const activeTerm = typeof term === 'string' ? term : search
-      setLoading(true)
+  const quotes = useLiveQuery(async () => {
+    const all = await db.quotes.toArray()
+    const term = search.trim().toLowerCase()
+    if (!term) return all
+
+    return all.filter(
+      (quote) =>
+        quote.text?.toLowerCase().includes(term) ||
+        (quote.author ?? '').toLowerCase().includes(term),
+    )
+  }, [search])
+
+  // Once the signed-in user has pulled the cloud db, pre-populate it from
+  // the README if it is still empty. Seed ids are deterministic, so this
+  // can never duplicate quotes that already live in the cloud.
+  useEffect(() => {
+    if (!isLoggedIn) return
+
+    let cancelled = false
+    ;(async () => {
       try {
-        const data = await searchQuotes(activeTerm)
-        setQuotes(data)
-        setError(null)
+        await db.cloud.sync({ purpose: 'pull', wait: true })
+        if (cancelled) return
+        const seeded = await seedFromReadmeIfEmpty()
+        if (seeded) {
+          console.info(`Seeded ${seeded} quotes from the README`)
+        }
       } catch (err) {
-        console.error('Failed to load quotes', err)
-        setError(err)
-      } finally {
-        setLoading(false)
+        console.error('Failed to seed quotes from the README', err)
       }
-    },
-    [search],
+    })()
+
+    return () => {
+      cancelled = true
+    }
+  }, [isLoggedIn])
+
+  const shuffledQuotes = useMemo(
+    () => (quotes ? quotes.slice().sort(() => Math.random() - 0.5) : null),
+    [quotes],
   )
 
-  useEffect(() => {
-    refreshQuotes(search)
-  }, [refreshQuotes, search, configKey])
-
-  const sortedQuotes = useMemo(() => {
-    if (!quotes) return []
-
-    const newQuotes = quotes.filter((quote) => quote.text === 'A new quote')
-    const others = quotes.filter((quote) => quote.text !== 'A new quote')
-
-    const shuffledOthers = others.slice().sort(() => Math.random() - 0.5)
-
-    return [...newQuotes, ...shuffledOthers]
-  }, [quotes])
-
-  const handleSearchChange = (value) => {
-    setSearch(value)
-  }
-
-  const handleAddQuote = async () => {
+  const handleAddQuote = async (quote) => {
     try {
-      await createQuote({ text: 'A new quote', author: 'unk', tags: [] })
-      await refreshQuotes()
+      await addQuote(quote)
+      setError(null)
     } catch (err) {
       console.error('Failed to add quote', err)
       setError(err)
+      throw err
     }
   }
 
-  const handleConfigSave = (nextConfig) => {
-    const normalized = saveConfig(nextConfig)
-    setConfig(normalized)
-  }
-
-  const handleQuoteChange = () => {
-    void refreshQuotes()
+  const handleLogin = async () => {
+    try {
+      await login()
+      setError(null)
+    } catch (err) {
+      console.error('Login failed', err)
+      setError(err)
+    }
   }
 
   return (
     <>
       <Header
         search={search}
-        onSearchChange={handleSearchChange}
+        onSearchChange={setSearch}
+        user={user}
+        onLogin={handleLogin}
+        onLogout={logout}
         onAddQuote={handleAddQuote}
-        onSaveConfig={handleConfigSave}
-        config={config}
       />
 
       <main>
         {error && (
           <div className="error">
-            There was a problem communicating with the database. Please check
-            your Turso configuration and try again.
+            Something went wrong talking to the database.{' '}
+            {String(error?.message ?? error)}
           </div>
         )}
 
-        {loading ? (
+        {!shuffledQuotes ? (
           <div className="loading">Loading quotes…</div>
+        ) : shuffledQuotes.length === 0 ? (
+          <div className="loading">
+            No quotes yet.{' '}
+            {isLoggedIn
+              ? 'Waiting for the first sync…'
+              : 'Sign in to sync the shared collection.'}
+          </div>
         ) : (
           <ul>
-            {sortedQuotes.map((quote) => (
-              <Quote key={quote.id} data={quote} onChange={handleQuoteChange} />
+            {shuffledQuotes.map((quote) => (
+              <Quote key={quote.id} data={quote} canEdit={isLoggedIn} />
             ))}
           </ul>
         )}
