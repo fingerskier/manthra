@@ -1,4 +1,4 @@
-# Manthra
+# [Manthra](https://fingerskier.github.io/manthra)
 `considerable careful crafty compositions`
 
 
