@@ -18,12 +18,17 @@ replica, which syncs with the cloud db.
   deterministic hashes of the quote, so seeding is idempotent and can never
   duplicate quotes already in the cloud.
 
-## Auth
+## Auth & permissions
 
 Sign-in uses Dexie Cloud's default email OTP dialog (`db.cloud.login()`).
-Reading works without an account; adding, editing, and deleting quotes
-requires signing in. Writes to the public realm are accepted by the server
-for accounts with permission to it (the database owner by default).
+Reading works without an account. Write controls are gated on the actual
+Dexie Cloud permissions synced with the db (`usePermissions`): the add form
+only appears for accounts allowed to add quotes to the public realm, and
+edit/delete buttons only appear on quotes the account may update or delete
+(per-object check). The server enforces the same rules on sync.
+
+Quote records use a singular `tag` array property, matching the data
+already stored in the cloud database (see `bak_app/export.json`).
 
 ## Develop
 

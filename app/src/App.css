@@ -77,6 +77,12 @@ header .controls button {
   font-weight: 600;
 }
 
+.account__note {
+  margin: 0;
+  color: #666;
+  font-size: 0.9rem;
+}
+
 .account button {
   padding: 0.5rem 1rem;
   border: none;

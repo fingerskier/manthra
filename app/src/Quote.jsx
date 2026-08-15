@@ -1,17 +1,24 @@
 import { useEffect, useState } from 'react'
-import { deleteQuote, updateQuote } from '@/db'
+import { usePermissions } from 'dexie-react-hooks'
+import { db, deleteQuote, updateQuote } from '@/db'
 
-export default function Quote({ data, canEdit = false }) {
+export default function Quote({ data }) {
   const [editing, setEditing] = useState(false)
   const [text, setText] = useState(data.text)
   const [author, setAuthor] = useState(data.author ?? '')
-  const [tags, setTags] = useState(data.tags || [])
+  const [tag, setTag] = useState(data.tag || [])
   const [busy, setBusy] = useState(false)
+
+  // Per-object Dexie Cloud permissions: the current user's rights on this
+  // quote's realm decide whether edit/delete controls are shown at all.
+  const can = usePermissions(db, 'quotes', data)
+  const canUpdate = can?.update('text') ?? false
+  const canDelete = can?.delete() ?? false
 
   useEffect(() => {
     setText(data.text)
     setAuthor(data.author ?? '')
-    setTags(data.tags || [])
+    setTag(data.tag || [])
   }, [data])
 
   const deleteQuoteHandler = async () => {
@@ -31,7 +38,7 @@ export default function Quote({ data, canEdit = false }) {
   const updateQuoteHandler = async () => {
     setBusy(true)
     try {
-      await updateQuote(data.id, { text, author, tags })
+      await updateQuote(data.id, { text, author, tag })
       setEditing(false)
     } catch (err) {
       console.error('Failed to update quote', err)
@@ -58,29 +65,33 @@ export default function Quote({ data, canEdit = false }) {
 
           <input
             className="tags"
-            value={tags.join(', ')}
+            value={tag.join(', ')}
             onChange={(e) =>
-              setTags(
+              setTag(
                 e.target.value
                   .split(',')
-                  .map((tag) => tag.trim())
+                  .map((entry) => entry.trim())
                   .filter(Boolean),
               )
             }
           />
 
-          <button type="button" onClick={updateQuoteHandler} disabled={busy}>
-            Save
-          </button>
+          {canUpdate && (
+            <button type="button" onClick={updateQuoteHandler} disabled={busy}>
+              Save
+            </button>
+          )}
 
           <div>
             <button type="button" onClick={() => setEditing(false)} disabled={busy}>
               Cancel
             </button>
 
-            <button type="button" onClick={deleteQuoteHandler} disabled={busy}>
-              Delete
-            </button>
+            {canDelete && (
+              <button type="button" onClick={deleteQuoteHandler} disabled={busy}>
+                Delete
+              </button>
+            )}
           </div>
         </div>
       ) : (
@@ -90,7 +101,7 @@ export default function Quote({ data, canEdit = false }) {
           <p className="author">
             {data.author}
 
-            {canEdit && (
+            {(canUpdate || canDelete) && (
               <button type="button" onClick={() => setEditing(true)} disabled={busy}>
                 .
               </button>

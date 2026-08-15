@@ -68,7 +68,7 @@ export function readmeSeedQuotes() {
     id: seedId(text, author),
     text,
     author: author || null,
-    tags: [],
+    tag: [],
     realmId: PUBLIC_REALM_ID,
   }))
 }

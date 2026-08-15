@@ -22,7 +22,9 @@ if (databaseUrl) {
   console.warn('Dexie Cloud database URL not configured')
 }
 
-export async function addQuote({ text, author = '', tags = [] }) {
+// Quote records use a singular `tag` array property to stay compatible with
+// the data already in the cloud database (see bak_app/export.json).
+export async function addQuote({ text, author = '', tag = [] }) {
   const trimmedText = text?.trim()
   if (!trimmedText) {
     throw new Error('Quote text is required')
@@ -31,16 +33,16 @@ export async function addQuote({ text, author = '', tags = [] }) {
   return db.quotes.add({
     text: trimmedText,
     author: author?.trim() || null,
-    tags,
+    tag,
     realmId: PUBLIC_REALM_ID,
   })
 }
 
-export function updateQuote(id, { text, author, tags }) {
+export function updateQuote(id, { text, author, tag }) {
   return db.quotes.update(id, {
     text,
     author: author?.trim() || null,
-    tags: tags ?? [],
+    tag: tag ?? [],
   })
 }
 
