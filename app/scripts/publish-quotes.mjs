@@ -64,11 +64,12 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
 
 // Dexie Cloud caps write requests (100 a minute), and publishing hundreds of
 // quotes means hundreds of DELETEs. On a 429 every request waits for the
-// window the server names, then retries.
+// window the server names. Requests retry by themselves unless the caller
+// must redo more than the request (retryRateLimit: false).
 const RATE_LIMIT_RETRIES = 10
 let rateLimitedUntil = 0
 
-async function request(url, { method = 'GET', token, body } = {}, attempt = 0) {
+async function request(url, { method = 'GET', token, body, retryRateLimit = true } = {}, attempt = 0) {
   if (Date.now() < rateLimitedUntil) {
     await sleep(rateLimitedUntil - Date.now())
   }
@@ -83,15 +84,19 @@ async function request(url, { method = 'GET', token, body } = {}, attempt = 0) {
   })
   const text = await res.text()
 
-  if (res.status === 429 && attempt < RATE_LIMIT_RETRIES) {
-    const seconds =
-      Number(res.headers.get('retry-after') ?? res.headers.get('ratelimit-reset')) || 60
-    const until = Date.now() + Math.min(seconds, 120) * 1000
+  if (res.status === 429) {
+    const seconds = Math.min(
+      Number(res.headers.get('retry-after') ?? res.headers.get('ratelimit-reset')) || 60,
+      120,
+    )
+    const until = Date.now() + seconds * 1000
     if (until > rateLimitedUntil + 1000) {
-      console.log(`Rate limited by Dexie Cloud; waiting ${Math.min(seconds, 120)}s…`)
+      console.log(`Rate limited by Dexie Cloud; waiting ${seconds}s…`)
     }
     rateLimitedUntil = Math.max(rateLimitedUntil, until)
-    return request(url, { method, token, body }, attempt + 1)
+    if (retryRateLimit && attempt < RATE_LIMIT_RETRIES) {
+      return request(url, { method, token, body, retryRateLimit }, attempt + 1)
+    }
   }
 
   if (!res.ok) {
@@ -247,17 +252,25 @@ async function main() {
   const changed = []
   await forEachLimit(deletable, 8, async ({ quote }) => {
     const url = `${dbUrl}/all/quotes/${encodeURIComponent(quote.id)}`
-    const current = await request(url, { token }).catch((err) => {
-      if (err.status === 404) return null
-      throw err
-    })
-    if (!current) return // already gone
-    if (snapshot(current) !== snapshot(quote)) {
-      changed.push(current)
-      return
+    for (let attempt = 0; ; attempt++) {
+      const current = await request(url, { token }).catch((err) => {
+        if (err.status === 404) return null
+        throw err
+      })
+      if (!current) return // already gone
+      if (snapshot(current) !== snapshot(quote)) {
+        changed.push(current)
+        return
+      }
+      try {
+        await request(url, { method: 'DELETE', token, retryRateLimit: false })
+        deleted++
+        return
+      } catch (err) {
+        // Rate limited: start over, so the quote is re-read after the wait.
+        if (err.status !== 429 || attempt >= RATE_LIMIT_RETRIES) throw err
+      }
     }
-    await request(url, { method: 'DELETE', token })
-    deleted++
   })
   console.log(`Deleted ${deleted} private quotes.`)
 

@@ -15,6 +15,7 @@ const USER = 'me@example.com'
 let store
 let onPublish
 let rateLimitNextWrite
+let onRateLimit
 let server
 let baseUrl
 
@@ -57,6 +58,7 @@ before(async () => {
     if (id && req.method === 'DELETE') {
       if (rateLimitNextWrite) {
         rateLimitNextWrite = false
+        onRateLimit?.(id)
         res.writeHead(429, { 'Content-Type': 'application/json', 'Retry-After': '1' })
         return res.end(JSON.stringify({ error: 'More than 100 write requests in 1 minutes' }))
       }
@@ -74,6 +76,7 @@ after(() => server.close())
 beforeEach(() => {
   onPublish = null
   rateLimitNextWrite = false
+  onRateLimit = null
   store = new Map(
     [
       quote('0', 'Already public', 'rlm-public', ['x']),
@@ -144,6 +147,19 @@ test('waits out a rate limit and retries', async () => {
   assert.equal(rateLimitNextWrite, false)
   assert.equal(realmOf('p-new'), undefined)
   assert.equal(realmOf('p-dup'), undefined)
+})
+
+test('re-checks a quote edited during a rate-limit wait before deleting it', async () => {
+  let limited
+  rateLimitNextWrite = true
+  onRateLimit = (id) => {
+    limited = id
+    store.set(id, { ...store.get(id), text: `${store.get(id).text}, edited` })
+  }
+  const { code, stdout } = await run('--user', USER, '--yes')
+  assert.equal(code, 1)
+  assert.match(stdout, /edited while publishing/)
+  assert.match(store.get(limited)?.text ?? '', /, edited$/)
 })
 
 test('fails clearly without credentials', async () => {
