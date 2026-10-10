@@ -14,6 +14,7 @@ const USER = 'me@example.com'
 
 let store
 let onPublish
+let rateLimitNextWrite
 let server
 let baseUrl
 
@@ -54,6 +55,11 @@ before(async () => {
       return store.has(id) ? send(200, store.get(id)) : send(404, { error: 'not found' })
     }
     if (id && req.method === 'DELETE') {
+      if (rateLimitNextWrite) {
+        rateLimitNextWrite = false
+        res.writeHead(429, { 'Content-Type': 'application/json', 'Retry-After': '1' })
+        return res.end(JSON.stringify({ error: 'More than 100 write requests in 1 minutes' }))
+      }
       store.delete(id)
       return send(200, {})
     }
@@ -67,6 +73,7 @@ after(() => server.close())
 
 beforeEach(() => {
   onPublish = null
+  rateLimitNextWrite = false
   store = new Map(
     [
       quote('0', 'Already public', 'rlm-public', ['x']),
@@ -127,6 +134,16 @@ test('keeps a private quote edited while publishing', async () => {
   assert.match(stdout, /edited while publishing/)
   assert.equal(store.get('p-new')?.text, 'Brand new, edited')
   assert.equal(realmOf('p-dup'), undefined, 'unchanged copies are still deleted')
+})
+
+test('waits out a rate limit and retries', async () => {
+  rateLimitNextWrite = true
+  const { code, stdout } = await run('--user', USER, '--yes')
+  assert.equal(code, 0)
+  assert.match(stdout, /Rate limited/)
+  assert.equal(rateLimitNextWrite, false)
+  assert.equal(realmOf('p-new'), undefined)
+  assert.equal(realmOf('p-dup'), undefined)
 })
 
 test('fails clearly without credentials', async () => {

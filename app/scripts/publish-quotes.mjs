@@ -60,7 +60,19 @@ function loadCredentials() {
   return { dbUrl, clientId, clientSecret }
 }
 
-async function request(url, { method = 'GET', token, body } = {}) {
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
+
+// Dexie Cloud caps write requests (100 a minute), and publishing hundreds of
+// quotes means hundreds of DELETEs. On a 429 every request waits for the
+// window the server names, then retries.
+const RATE_LIMIT_RETRIES = 10
+let rateLimitedUntil = 0
+
+async function request(url, { method = 'GET', token, body } = {}, attempt = 0) {
+  if (Date.now() < rateLimitedUntil) {
+    await sleep(rateLimitedUntil - Date.now())
+  }
+
   const res = await fetch(url, {
     method,
     headers: {
@@ -70,6 +82,18 @@ async function request(url, { method = 'GET', token, body } = {}) {
     body: body === undefined ? undefined : JSON.stringify(body),
   })
   const text = await res.text()
+
+  if (res.status === 429 && attempt < RATE_LIMIT_RETRIES) {
+    const seconds =
+      Number(res.headers.get('retry-after') ?? res.headers.get('ratelimit-reset')) || 60
+    const until = Date.now() + Math.min(seconds, 120) * 1000
+    if (until > rateLimitedUntil + 1000) {
+      console.log(`Rate limited by Dexie Cloud; waiting ${Math.min(seconds, 120)}s…`)
+    }
+    rateLimitedUntil = Math.max(rateLimitedUntil, until)
+    return request(url, { method, token, body }, attempt + 1)
+  }
+
   if (!res.ok) {
     const error = new Error(`${method} ${url} failed: ${res.status} ${text.slice(0, 300)}`)
     error.status = res.status
