@@ -18,6 +18,20 @@
   font-style: italic;
 }
 
+.quote.is-private .text {
+  border-style: dashed;
+}
+
+.quote__badge {
+  margin-right: 0.75rem;
+  padding: 0.1rem 0.5rem;
+  border-radius: 0.5rem;
+  background: #eee;
+  color: #555;
+  font-size: 0.8rem;
+  font-style: normal;
+}
+
 header {
   padding: 1.5rem;
 }

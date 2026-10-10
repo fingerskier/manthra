@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { usePermissions } from 'dexie-react-hooks'
-import { db, deleteQuote, updateQuote } from '@/db'
+import { db, deleteQuote, isPublicQuote, updateQuote } from '@/db'
 
 export default function Quote({ data }) {
   const [editing, setEditing] = useState(false)
@@ -14,6 +14,7 @@ export default function Quote({ data }) {
   const can = usePermissions(db, 'quotes', data)
   const canUpdate = can?.update('text') ?? false
   const canDelete = can?.delete() ?? false
+  const isPrivate = !isPublicQuote(data)
 
   useEffect(() => {
     setText(data.text)
@@ -95,10 +96,11 @@ export default function Quote({ data }) {
           </div>
         </div>
       ) : (
-        <div className={`quote${busy ? ' is-busy' : ''}`}>
+        <div className={`quote${isPrivate ? ' is-private' : ''}${busy ? ' is-busy' : ''}`}>
           <p className="text">{data.text}</p>
 
           <p className="author">
+            {isPrivate && <span className="quote__badge">private</span>}
             {data.author}
 
             {(canUpdate || canDelete) && (

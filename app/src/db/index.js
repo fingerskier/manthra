@@ -22,6 +22,16 @@ if (databaseUrl) {
   console.warn('Dexie Cloud database URL not configured')
 }
 
+export function isPublicQuote(quote) {
+  return quote.realmId === PUBLIC_REALM_ID
+}
+
+// New quotes go to the signed-in user's private realm (Dexie Cloud's default
+// when no realmId is given). Browsers can't write to the public realm: Dexie
+// Cloud only accepts public writes from admin clients, so the server would
+// reject the add on sync and roll it back. `npm run publish-quotes` moves
+// private quotes into the public realm with admin credentials.
+//
 // Quote records use a singular `tag` array property to stay compatible with
 // the data already in the cloud database (see bak_app/export.json).
 export async function addQuote({ text, author = '', tag = [] }) {
@@ -34,7 +44,6 @@ export async function addQuote({ text, author = '', tag = [] }) {
     text: trimmedText,
     author: author?.trim() || null,
     tag,
-    realmId: PUBLIC_REALM_ID,
   })
 }
 

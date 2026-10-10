@@ -4,7 +4,6 @@ export default function Header({
   search,
   onSearchChange,
   user,
-  canAdd,
   onLogin,
   onLogout,
   onAddQuote,
@@ -65,16 +64,14 @@ export default function Header({
             )}
           </div>
 
-          {isLoggedIn && !canAdd && (
-            <p className="account__note">
-              This account can read the public collection but does not have
-              permission to add quotes.
-            </p>
-          )}
-
-          {canAdd && (
+          {isLoggedIn && (
             <form className="add-quote" onSubmit={handleSubmit}>
-              <h2>Add a public quote</h2>
+              <h2>Add a quote</h2>
+
+              <p className="account__note">
+                New quotes are private to your account until they are
+                published to the public collection.
+              </p>
 
               <label htmlFor="quote-text">Quote</label>
               <textarea
