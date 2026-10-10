@@ -63,14 +63,22 @@ function loadCredentials() {
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
 
 // Dexie Cloud caps write requests (100 a minute), and publishing hundreds of
-// quotes means hundreds of DELETEs. On a 429 every request waits for the
-// window the server names. Requests retry by themselves unless the caller
-// must redo more than the request (retryRateLimit: false).
+// quotes means hundreds of DELETEs. After a 429 every request waits for the
+// window the server names and retries, except with rateLimited: 'fail': then
+// a request never waits (before sending or to retry) and fails with status
+// 429 instead, so a caller that just checked the data can check it again.
 const RATE_LIMIT_RETRIES = 10
 let rateLimitedUntil = 0
 
-async function request(url, { method = 'GET', token, body, retryRateLimit = true } = {}, attempt = 0) {
+function rateLimitError(method, url) {
+  const error = new Error(`${method} ${url} failed: rate limited`)
+  error.status = 429
+  return error
+}
+
+async function request(url, { method = 'GET', token, body, rateLimited = 'wait' } = {}, attempt = 0) {
   if (Date.now() < rateLimitedUntil) {
+    if (rateLimited === 'fail') throw rateLimitError(method, url)
     await sleep(rateLimitedUntil - Date.now())
   }
 
@@ -94,8 +102,8 @@ async function request(url, { method = 'GET', token, body, retryRateLimit = true
       console.log(`Rate limited by Dexie Cloud; waiting ${seconds}s…`)
     }
     rateLimitedUntil = Math.max(rateLimitedUntil, until)
-    if (retryRateLimit && attempt < RATE_LIMIT_RETRIES) {
-      return request(url, { method, token, body, retryRateLimit }, attempt + 1)
+    if (rateLimited === 'wait' && attempt < RATE_LIMIT_RETRIES) {
+      return request(url, { method, token, body, rateLimited }, attempt + 1)
     }
   }
 
@@ -263,11 +271,13 @@ async function main() {
         return
       }
       try {
-        await request(url, { method: 'DELETE', token, retryRateLimit: false })
+        // Never let a rate-limit wait sit between the re-read and the delete:
+        // the quote could change meanwhile. Start over instead; the re-read
+        // waits out the limit.
+        await request(url, { method: 'DELETE', token, rateLimited: 'fail' })
         deleted++
         return
       } catch (err) {
-        // Rate limited: start over, so the quote is re-read after the wait.
         if (err.status !== 429 || attempt >= RATE_LIMIT_RETRIES) throw err
       }
     }

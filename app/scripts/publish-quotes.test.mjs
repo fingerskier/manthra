@@ -16,6 +16,7 @@ let store
 let onPublish
 let rateLimitNextWrite
 let onRateLimit
+let slowReads
 let server
 let baseUrl
 
@@ -53,6 +54,7 @@ before(async () => {
 
     const id = decodeURIComponent(url.pathname.match(/^\/all\/quotes\/(.+)$/)?.[1] ?? '')
     if (id && req.method === 'GET') {
+      if (slowReads?.has(id)) await new Promise((resolve) => setTimeout(resolve, slowReads.get(id)))
       return store.has(id) ? send(200, store.get(id)) : send(404, { error: 'not found' })
     }
     if (id && req.method === 'DELETE') {
@@ -77,6 +79,7 @@ beforeEach(() => {
   onPublish = null
   rateLimitNextWrite = false
   onRateLimit = null
+  slowReads = null
   store = new Map(
     [
       quote('0', 'Already public', 'rlm-public', ['x']),
@@ -160,6 +163,24 @@ test('re-checks a quote edited during a rate-limit wait before deleting it', asy
   assert.equal(code, 1)
   assert.match(stdout, /edited while publishing/)
   assert.match(store.get(limited)?.text ?? '', /, edited$/)
+})
+
+test("re-checks a quote edited while another quote's rate limit is waited out", async () => {
+  // p-dup's DELETE is rate limited while p-new, already re-read, is about to
+  // be deleted; p-new is then edited during the wait.
+  slowReads = new Map([['p-new', 200]])
+  rateLimitNextWrite = true
+  onRateLimit = (id) => {
+    assert.equal(id, 'p-dup')
+    setTimeout(() => {
+      store.set('p-new', { ...store.get('p-new'), text: 'Brand new, edited' })
+    }, 400)
+  }
+  const { code, stdout } = await run('--user', USER, '--yes')
+  assert.equal(code, 1)
+  assert.match(stdout, /edited while publishing/)
+  assert.equal(store.get('p-new')?.text, 'Brand new, edited')
+  assert.equal(realmOf('p-dup'), undefined)
 })
 
 test('fails clearly without credentials', async () => {
