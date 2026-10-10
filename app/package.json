@@ -10,7 +10,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "test": "node --test scripts/lib/*.test.mjs",
+    "test": "node --test scripts/*.test.mjs scripts/lib/*.test.mjs",
     "publish-quotes": "node scripts/publish-quotes.mjs"
   },
   "dependencies": {

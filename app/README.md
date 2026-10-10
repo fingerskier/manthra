@@ -36,7 +36,8 @@ npm run publish-quotes -- --readme --yes                  # add README.md quotes
   sign-in email). Each private quote is deleted only after the server lists
   its public copy. Private copies of quotes that are already public are
   deleted instead of published twice; one whose public twin lacks some of its
-  tags is left alone and reported.
+  tags is left alone and reported, and so is one edited (synced from a
+  browser) while the CLI runs — re-run to publish the edit.
 - `--id <quoteId>` (repeatable) limits `--user` to specific quotes.
 - `--readme` also publishes quotes from the repo-root `README.md` (one quote
   per paragraph, indented author line) that are not public yet.
@@ -62,6 +63,6 @@ npm install
 npm run dev      # local dev server
 npm run build    # production build
 npm run lint
-npm test         # publish-quotes planning tests
+npm test         # publish-quotes tests (plan + CLI against a mock server)
 npm run deploy   # publish dist/ to gh-pages
 ```

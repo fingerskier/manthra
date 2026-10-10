@@ -71,7 +71,9 @@ async function request(url, { method = 'GET', token, body } = {}) {
   })
   const text = await res.text()
   if (!res.ok) {
-    throw new Error(`${method} ${url} failed: ${res.status} ${text.slice(0, 300)}`)
+    const error = new Error(`${method} ${url} failed: ${res.status} ${text.slice(0, 300)}`)
+    error.status = res.status
+    throw error
   }
   try {
     return text ? JSON.parse(text) : null
@@ -113,6 +115,10 @@ function chunk(items, size) {
   }
   return chunks
 }
+
+// What a private quote looked like when planned, to spot later edits.
+const snapshot = (quote) =>
+  JSON.stringify([quote.text, quote.author ?? null, quote.tag ?? [], quote.realmId])
 
 function describe(quote) {
   const text = quote.text.replace(/\s+/g, ' ').trim()
@@ -209,19 +215,39 @@ async function main() {
     ({ quote, key }) => confirmedKeys.has(key) && !confirmedIds.has(quote.id),
   )
 
+  // A browser can sync an edit to a private quote while this runs; deleting
+  // it then would lose the edit, since only the planned text was published.
+  // The REST API has no conditional delete, so re-read each quote right
+  // before deleting it and keep any that changed.
   let deleted = 0
+  const changed = []
   await forEachLimit(deletable, 8, async ({ quote }) => {
-    await request(`${dbUrl}/all/quotes/${encodeURIComponent(quote.id)}`, {
-      method: 'DELETE',
-      token,
+    const url = `${dbUrl}/all/quotes/${encodeURIComponent(quote.id)}`
+    const current = await request(url, { token }).catch((err) => {
+      if (err.status === 404) return null
+      throw err
     })
+    if (!current) return // already gone
+    if (snapshot(current) !== snapshot(quote)) {
+      changed.push(current)
+      return
+    }
+    await request(url, { method: 'DELETE', token })
     deleted++
   })
   console.log(`Deleted ${deleted} private quotes.`)
 
-  const kept = plan.drop.length - deletable.length
-  if (kept) {
-    console.log(`Kept ${kept} private quotes whose public copy could not be confirmed.`)
+  if (changed.length) {
+    console.log(`\nKept ${changed.length} private quotes edited while publishing (re-run to publish them):`)
+    for (const quote of changed) {
+      console.log(`  ! ${describe(quote)} [${quote.id}]`)
+    }
+    process.exitCode = 1
+  }
+
+  const unconfirmed = plan.drop.length - deletable.length
+  if (unconfirmed) {
+    console.log(`Kept ${unconfirmed} private quotes whose public copy could not be confirmed.`)
     process.exitCode = 1
   }
 }
