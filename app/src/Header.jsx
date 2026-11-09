@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import AdminPanel from '@/AdminPanel'
 
 export default function Header({
   search,
@@ -7,6 +8,9 @@ export default function Header({
   onLogin,
   onLogout,
   onAddQuote,
+  isAdmin,
+  onSaveAdminKey,
+  onForgetAdminKey,
 }) {
   const [collapsed, setCollapsed] = useState(true)
   const [text, setText] = useState('')
@@ -96,6 +100,14 @@ export default function Header({
                 </button>
               </div>
             </form>
+          )}
+
+          {isLoggedIn && (
+            <AdminPanel
+              isAdmin={isAdmin}
+              onSave={onSaveAdminKey}
+              onForget={onForgetAdminKey}
+            />
           )}
         </div>
       )}

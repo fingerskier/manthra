@@ -1,6 +1,7 @@
 import Dexie from 'dexie'
 import dexieCloud from 'dexie-cloud-addon'
 import cloudConfig from '../../dexie-cloud.json'
+import { createAdmin } from './admin.js'
 
 export const PUBLIC_REALM_ID = 'rlm-public'
 
@@ -48,8 +49,13 @@ export async function addQuote({ text, author = '', tag = [] }) {
 }
 
 export function updateQuote(id, { text, author, tag }) {
+  const trimmedText = text?.trim()
+  if (!trimmedText) {
+    throw new Error('Quote text is required')
+  }
+
   return db.quotes.update(id, {
-    text,
+    text: trimmedText,
     author: author?.trim() || null,
     tag: tag ?? [],
   })
@@ -57,6 +63,62 @@ export function updateQuote(id, { text, author, tag }) {
 
 export function deleteQuote(id) {
   return db.quotes.delete(id)
+}
+
+// Admin (REST) writes to the public collection; see ./admin.js.
+export const admin = createAdmin({
+  dbUrl: databaseUrl,
+  storage: typeof localStorage === 'undefined' ? null : localStorage,
+  fetch: (...args) => globalThis.fetch(...args),
+})
+
+// Admin writes bypass the local replica, so pull them in instead of waiting
+// for the next sync. Best effort: the write already happened on the server.
+async function pullChanges() {
+  try {
+    await Promise.race([
+      db.cloud.sync({ purpose: 'pull', wait: true }),
+      new Promise((resolve) => setTimeout(resolve, 8000)),
+    ])
+  } catch (err) {
+    console.warn('Sync after admin write failed', err)
+  }
+}
+
+export async function updatePublicQuote(quote, fields) {
+  await admin.updatePublicQuote(quote, fields)
+  await pullChanges()
+}
+
+export async function deletePublicQuote(quote) {
+  await admin.deletePublicQuote(quote)
+  await pullChanges()
+}
+
+const quoteFields = (quote) =>
+  JSON.stringify([quote.text, quote.author ?? null, quote.tag ?? []])
+
+// Promotes one of the signed-in user's private quotes, optionally with edits
+// from the editor (`fields`). The private copy is deleted only after the
+// server has confirmed the public one, and only if it is still the `quote`
+// that was published from: another tab or device may have changed it while
+// this ran, and that change was not published.
+export async function publishQuote(quote, fields = quote) {
+  await admin.publishQuote({ ...quote, ...fields })
+  await pullChanges()
+
+  const kept = await db.transaction('rw', db.quotes, async () => {
+    const current = await db.quotes.get(quote.id)
+    if (!current) return false
+    if (quoteFields(current) !== quoteFields(quote)) return true
+    await db.quotes.delete(quote.id)
+    return false
+  })
+  if (kept) {
+    throw new Error(
+      'Published, but the private quote was changed elsewhere meanwhile, so it was kept.',
+    )
+  }
 }
 
 export function login() {
