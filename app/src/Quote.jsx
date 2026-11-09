@@ -1,51 +1,79 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import { usePermissions } from 'dexie-react-hooks'
-import { db, deleteQuote, isPublicQuote, updateQuote } from '@/db'
+import {
+  db,
+  deletePublicQuote,
+  deleteQuote,
+  isPublicQuote,
+  publishQuote,
+  updatePublicQuote,
+  updateQuote,
+} from '@/db'
 
-export default function Quote({ data }) {
+export default function Quote({ data, isAdmin = false }) {
   const [editing, setEditing] = useState(false)
   const [text, setText] = useState(data.text)
   const [author, setAuthor] = useState(data.author ?? '')
   const [tag, setTag] = useState(data.tag || [])
   const [busy, setBusy] = useState(false)
+  const [error, setError] = useState(null)
 
-  // Per-object Dexie Cloud permissions: the current user's rights on this
-  // quote's realm decide whether edit/delete controls are shown at all.
+  // Per-object Dexie Cloud permissions decide what the signed-in user may do
+  // to a quote through sync, which in practice covers their own private
+  // quotes. Public quotes are only writable with the admin key (REST).
   const can = usePermissions(db, 'quotes', data)
-  const canUpdate = can?.update('text') ?? false
-  const canDelete = can?.delete() ?? false
   const isPrivate = !isPublicQuote(data)
+  const canUpdate = isPrivate ? (can?.update('text') ?? false) : isAdmin
+  const canDelete = isPrivate ? (can?.delete() ?? false) : isAdmin
+  const canPublish = isPrivate && isAdmin && canDelete
 
-  useEffect(() => {
-    setText(data.text)
-    setAuthor(data.author ?? '')
-    setTag(data.tag || [])
-  }, [data])
-
-  const deleteQuoteHandler = async () => {
-    const sure = window.confirm('Are you sure you want to delete this quote?')
-    if (!sure) return
-
+  const run = async (label, action) => {
     setBusy(true)
+    setError(null)
     try {
-      await deleteQuote(data.id)
+      await action()
+      return true
     } catch (err) {
-      console.error('Failed to delete quote', err)
+      console.error(`Failed to ${label} quote`, err)
+      setError(err)
+      return false
     } finally {
       setBusy(false)
     }
   }
 
+  const deleteQuoteHandler = () => {
+    const sure = window.confirm(
+      isPrivate
+        ? 'Are you sure you want to delete this quote?'
+        : 'Delete this quote from the public collection, for everyone?',
+    )
+    if (!sure) return
+
+    run('delete', () => (isPrivate ? deleteQuote(data.id) : deletePublicQuote(data)))
+  }
+
   const updateQuoteHandler = async () => {
-    setBusy(true)
-    try {
-      await updateQuote(data.id, { text, author, tag })
-      setEditing(false)
-    } catch (err) {
-      console.error('Failed to update quote', err)
-    } finally {
-      setBusy(false)
-    }
+    const fields = { text, author, tag }
+    const saved = await run('update', () =>
+      isPrivate ? updateQuote(data.id, fields) : updatePublicQuote(data, fields),
+    )
+    if (saved) setEditing(false)
+  }
+
+  // Publishes what the editor shows, so there's no need to save first.
+  const publishQuoteHandler = () =>
+    run('publish', () => publishQuote({ ...data, text, author, tag }))
+
+  // The editor starts from the stored quote each time it opens, and is not
+  // reset while open: a sync can re-deliver `data` at any moment, and that
+  // must not wipe what is being typed.
+  const openEditor = () => {
+    setText(data.text)
+    setAuthor(data.author ?? '')
+    setTag(data.tag || [])
+    setError(null)
+    setEditing(true)
   }
 
   return (
@@ -54,19 +82,24 @@ export default function Quote({ data }) {
         <div className={`quote editor${busy ? ' is-busy' : ''}`}>
           <textarea
             className="text"
+            aria-label="Quote"
             value={text}
             onChange={(e) => setText(e.target.value)}
           />
 
           <input
             className="author"
+            aria-label="Author"
+            placeholder="Author"
             value={author}
             onChange={(e) => setAuthor(e.target.value)}
           />
 
           <input
             className="tags"
-            value={tag.join(', ')}
+            aria-label="Tags"
+            placeholder="Tags, comma separated"
+            defaultValue={tag.join(', ')}
             onChange={(e) =>
               setTag(
                 e.target.value
@@ -77,13 +110,29 @@ export default function Quote({ data }) {
             }
           />
 
-          {canUpdate && (
-            <button type="button" onClick={updateQuoteHandler} disabled={busy}>
-              Save
-            </button>
-          )}
+          {error && <div className="error">{String(error?.message ?? error)}</div>}
 
-          <div>
+          <div className="quote__actions">
+            {canUpdate && (
+              <button
+                type="button"
+                onClick={updateQuoteHandler}
+                disabled={busy || !text.trim()}
+              >
+                Save
+              </button>
+            )}
+
+            {canPublish && (
+              <button
+                type="button"
+                onClick={publishQuoteHandler}
+                disabled={busy || !text.trim()}
+              >
+                Publish
+              </button>
+            )}
+
             <button type="button" onClick={() => setEditing(false)} disabled={busy}>
               Cancel
             </button>
@@ -104,7 +153,12 @@ export default function Quote({ data }) {
             {data.author}
 
             {(canUpdate || canDelete) && (
-              <button type="button" onClick={() => setEditing(true)} disabled={busy}>
+              <button
+                type="button"
+                aria-label="Edit quote"
+                onClick={openEditor}
+                disabled={busy}
+              >
                 .
               </button>
             )}

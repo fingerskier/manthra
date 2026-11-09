@@ -1,6 +1,7 @@
 import Dexie from 'dexie'
 import dexieCloud from 'dexie-cloud-addon'
 import cloudConfig from '../../dexie-cloud.json'
+import { createAdmin } from './admin.js'
 
 export const PUBLIC_REALM_ID = 'rlm-public'
 
@@ -48,8 +49,13 @@ export async function addQuote({ text, author = '', tag = [] }) {
 }
 
 export function updateQuote(id, { text, author, tag }) {
+  const trimmedText = text?.trim()
+  if (!trimmedText) {
+    throw new Error('Quote text is required')
+  }
+
   return db.quotes.update(id, {
-    text,
+    text: trimmedText,
     author: author?.trim() || null,
     tag: tag ?? [],
   })
@@ -57,6 +63,44 @@ export function updateQuote(id, { text, author, tag }) {
 
 export function deleteQuote(id) {
   return db.quotes.delete(id)
+}
+
+// Admin (REST) writes to the public collection; see ./admin.js.
+export const admin = createAdmin({
+  dbUrl: databaseUrl,
+  storage: typeof localStorage === 'undefined' ? null : localStorage,
+  fetch: (...args) => globalThis.fetch(...args),
+})
+
+// Admin writes bypass the local replica, so pull them in instead of waiting
+// for the next sync. Best effort: the write already happened on the server.
+async function pullChanges() {
+  try {
+    await Promise.race([
+      db.cloud.sync({ purpose: 'pull', wait: true }),
+      new Promise((resolve) => setTimeout(resolve, 8000)),
+    ])
+  } catch (err) {
+    console.warn('Sync after admin write failed', err)
+  }
+}
+
+export async function updatePublicQuote(quote, fields) {
+  await admin.updatePublicQuote(quote, fields)
+  await pullChanges()
+}
+
+export async function deletePublicQuote(quote) {
+  await admin.deletePublicQuote(quote)
+  await pullChanges()
+}
+
+// Promotes one of the signed-in user's private quotes: the private copy is
+// deleted only after the server has confirmed the public one.
+export async function publishQuote(quote) {
+  await admin.publishQuote(quote)
+  await pullChanges()
+  await db.quotes.delete(quote.id)
 }
 
 export function login() {

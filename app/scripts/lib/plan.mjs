@@ -22,7 +22,7 @@ export function publicQuoteId(quote) {
 
 const tagsOf = (quote) => (Array.isArray(quote.tag) ? quote.tag : [])
 
-function toPublic(quote) {
+export function toPublic(quote) {
   return {
     id: publicQuoteId(quote),
     text: quote.text.replace(/\r\n?/g, '\n').trim(),

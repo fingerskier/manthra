@@ -1,8 +1,8 @@
-import { useMemo, useState } from 'react'
+import { useMemo, useState, useSyncExternalStore } from 'react'
 import { useLiveQuery, useObservable } from 'dexie-react-hooks'
 import Header from '@/Header'
 import Quote from '@/Quote'
-import { db, addQuote, isPublicQuote, login, logout } from '@/db'
+import { db, addQuote, admin, isPublicQuote, login, logout } from '@/db'
 import { quoteKey } from '@/db/quoteKey'
 
 import './App.css'
@@ -13,6 +13,7 @@ export default function App() {
 
   const user = useObservable(db.cloud.currentUser)
   const isLoggedIn = Boolean(user?.isLoggedIn)
+  const isAdmin = useSyncExternalStore(admin.subscribe, admin.hasCredentials)
 
   const quotes = useLiveQuery(async () => {
     const all = await db.quotes.toArray()
@@ -71,6 +72,9 @@ export default function App() {
         onLogin={handleLogin}
         onLogout={logout}
         onAddQuote={handleAddQuote}
+        isAdmin={isAdmin}
+        onSaveAdminKey={admin.saveCredentials}
+        onForgetAdminKey={admin.forgetCredentials}
       />
 
       <main>
@@ -93,7 +97,7 @@ export default function App() {
         ) : (
           <ul>
             {shuffledQuotes.map((quote) => (
-              <Quote key={quote.id} data={quote} />
+              <Quote key={quote.id} data={quote} isAdmin={isAdmin} />
             ))}
           </ul>
         )}
