@@ -63,7 +63,7 @@ export default function Quote({ data, isAdmin = false }) {
 
   // Publishes what the editor shows, so there's no need to save first.
   const publishQuoteHandler = () =>
-    run('publish', () => publishQuote({ ...data, text, author, tag }))
+    run('publish', () => publishQuote(data, { text, author, tag }))
 
   // The editor starts from the stored quote each time it opens, and is not
   // reset while open: a sync can re-deliver `data` at any moment, and that

@@ -95,12 +95,30 @@ export async function deletePublicQuote(quote) {
   await pullChanges()
 }
 
-// Promotes one of the signed-in user's private quotes: the private copy is
-// deleted only after the server has confirmed the public one.
-export async function publishQuote(quote) {
-  await admin.publishQuote(quote)
+const quoteFields = (quote) =>
+  JSON.stringify([quote.text, quote.author ?? null, quote.tag ?? []])
+
+// Promotes one of the signed-in user's private quotes, optionally with edits
+// from the editor (`fields`). The private copy is deleted only after the
+// server has confirmed the public one, and only if it is still the `quote`
+// that was published from: another tab or device may have changed it while
+// this ran, and that change was not published.
+export async function publishQuote(quote, fields = quote) {
+  await admin.publishQuote({ ...quote, ...fields })
   await pullChanges()
-  await db.quotes.delete(quote.id)
+
+  const kept = await db.transaction('rw', db.quotes, async () => {
+    const current = await db.quotes.get(quote.id)
+    if (!current) return false
+    if (quoteFields(current) !== quoteFields(quote)) return true
+    await db.quotes.delete(quote.id)
+    return false
+  })
+  if (kept) {
+    throw new Error(
+      'Published, but the private quote was changed elsewhere meanwhile, so it was kept.',
+    )
+  }
 }
 
 export function login() {
